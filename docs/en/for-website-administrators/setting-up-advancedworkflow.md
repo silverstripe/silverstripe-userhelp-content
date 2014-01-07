@@ -71,10 +71,10 @@ Now you have your workflow users created you can now create a workflow. Since th
 Enter:
 **Title**
 The title for your workflow
+
 **Description**
 A summary of the workflow
-**Reminder Email**
-Duration in # of Days where an automated email is forwarded to a defined user group when a workflow action is required
+
 **Choose from Template (optional)**
 SilverStripe 3 Workflow allows SilverStripe developers to create templates for workflows, this is where these templates can be selected. 
 
