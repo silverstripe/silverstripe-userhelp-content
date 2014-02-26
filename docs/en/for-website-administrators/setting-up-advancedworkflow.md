@@ -5,6 +5,8 @@ pagenumber: 3
 
 # Setting up advanced workflow
 
+<div class="note" markdown="1">The functionality described below is not included in the standard SilverStripe 3 installation and requires the 'Advanced Workflow' add-on to be installed additionally. For more details, visit http://addons.silverstripe.org/add-ons/silverstripe/advancedworkflow</div>
+
 ## In this section:
 - Understand workflow
 - Set up Workflow Groups (Security Admin)
