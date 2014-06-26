@@ -1,6 +1,6 @@
 <!--
 pagenumber: 8
-title: Working with translation
+title: Working with translations
 -->
 
 # Working with translation
