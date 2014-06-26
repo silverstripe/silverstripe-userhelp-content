@@ -15,3 +15,4 @@ In this section, you can learn to:
 * [Create and use forums](forums)
 * [Create and use a blog](blogs)
 * [Working with multiple sites](working-with-multiple-sites)
+* [Working with translations](working-with-translations)
