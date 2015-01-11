@@ -1,4 +1,4 @@
-## Welcome! ##
+## Welcome!
 
 This site is a user-focused reference for the [SilverStripe](http://www.silverstripe.org/introduction/) CMS and Framework.
 It is targeted at editors and administrators who create and manage content on SilverStripe websites. 
