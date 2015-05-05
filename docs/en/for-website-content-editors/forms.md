@@ -12,6 +12,7 @@ In this section:
 
 ## Before we begin:
 
+* Make sure that your SilverStripe installation has the [Userforms module](http://addons.silverstripe.org/add-ons/silverstripe/userforms) installed.
 * Make sure you are in the "Pages" section on the Navigation Tabs.
 
 ## Creating and editing forms
