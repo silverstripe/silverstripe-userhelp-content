@@ -3,7 +3,7 @@ summary: Logging into a SilverStripe CMS website to start editing content.
 
 # Logging In
 
-Hello, and welcome to the SilverStripe CMS web help. Hopefully, you should be able to find the topic you're looking for in our navigation bar to the left, or, if you prefer, you can use our search function to find what you are looking for. 
+Hello, and welcome to the SilverStripe CMS web help. Hopefully, you can find the topic you're looking for in our navigation bar to the left. Alternatively, you can use our search function above. 
 
 If you have not yet installed SilverStripe, but want to follow along, you can use our interactive demo at [http://demo.silverstripe.com/](http://ss3.demo.silverstripe.org/) to give SilverStripe a try. 
 
