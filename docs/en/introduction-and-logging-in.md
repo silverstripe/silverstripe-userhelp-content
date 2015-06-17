@@ -21,11 +21,11 @@ To get to the login page for the site administration, type in your website addre
 
 On the login page, enter your login (usually your e-mail address) and password.  This will take you to the CMS main screen. 
 
+*Page viewable by browsing to http://www.mysite.com/admin*
+
 ![Login to SilverStripe CMS](_images/general-login.png)
 
 <div class="note" markdown="1">
-## Notes
-
 If you select "Remember me next time?," the login fields will prepopulate the next time you log into the CMS. Only use this option on a computer where you alone have access.
 
 If you can't remember your password, click on "I've lost my password." You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
