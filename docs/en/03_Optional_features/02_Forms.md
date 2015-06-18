@@ -8,6 +8,10 @@ In this section:
 * Learn how to add fields to a form
 * Learn how to view submissions and reply to them automatically
 
+This section only applies for SilverStripe installations with the optional "user forms" module.
+You can find out if your CMS makes this module available by checking that you have a "User Defined Form" option
+when adding a new page.
+
 ## Before we begin:
 
 * Make sure you are in the "Pages" section on the Navigation Tabs.
