@@ -54,4 +54,4 @@ The Page Management area (on the right hand side of the page) shows various data
 
 The Publishing bar on the bottom of the page allows you to save, archive, publish (make publicly available), unpublish or preview your work (published or draft versions).  The options for previewing the draft or the published site are shown on the bottom left of the page, when in preview mode.
 
-![SS3 Preview Options (Draft Site/ Published Site)](_images/preview-options.png)
+![SS3 Preview Options (Draft Site/ Published Site)](_images/preview-option.png)
