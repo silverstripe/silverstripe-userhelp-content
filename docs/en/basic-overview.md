@@ -7,7 +7,7 @@ title: Basic overview
 
 The latest SilverStripe CMS administration panel, is arranged in four main sections, shown below:
 
-![SilverStripe3 Administration Panel](_images/basic-overview.jpg)
+![SilverStripe3 Administration Panel](_images/basic-overview.png)
 
 ## Navigation tabs
 
