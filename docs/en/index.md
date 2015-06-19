@@ -1,7 +1,7 @@
 ## Welcome!
 
 This site is a user-focused reference for the [SilverStripe](http://www.silverstripe.org/introduction/) CMS and Framework.
-It is targeted at editors and administrators who create and manage content on SilverStripe websites. 
+It is targeted at editors and administrators who create and manage content on websites powered by SilverStripe.
 This guide applies to version 3.0 and higher, for older versions please visit [2.4.userhelp.silverstripe.org](http://2.4.userhelp.silverstripe.org/).
 
 This user help also covers a number of [modules](http://addons.silverstripe.org/)
