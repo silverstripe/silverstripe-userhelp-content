@@ -47,8 +47,6 @@ Why should you care? It's useful to know where and how the different names are d
 * The **Title** is what appears in the browser's title bar and tabs, and in Google's search results page (the &lt;title&gt; meta tag.) Page titles should be unique, and shouldn’t exceed 65 characters (spaces included), as Google only shows the first 65 characters in search result titles.
 
 <div class="note" markdown="1">
-### Notes:
-
 Your website developer will have configured your SilverStripe site for either simple or hierarchical URLs.
 
 Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be http://website.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
@@ -67,8 +65,6 @@ Meta tags also make your web page more findable. The Description meta attribute 
 Keywords can be used to further describe your page, and help to make your page more findable by search engines. Think about the words users would type in a search engine to find your pages, and make sure that your page includes those words within it.
 
 <div class="note" markdown="1">
-### Notes:
-
 Google doesn’t like repetition of keywords and phrases in the title, description or keywords. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
 </div>
 

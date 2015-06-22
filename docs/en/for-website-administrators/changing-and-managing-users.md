@@ -35,8 +35,6 @@ You can edit or delete a user by clicking on the "Edit" or "Delete" icons to the
 ![Managing and deleting users](_images/edit-delete-user.png)
 
 <div class="note" markdown="1"> 
-### Notes:
-
 Users can be in multiple groups.  If you delete a user from a group, they are only removed from that group, not from the system.  To fully delete a user, you need to be in the root of Security.  You can reach the security group root by clicking on "Security" link in the breadcrumbs at the top of the Security Pane.
 </div>
  
