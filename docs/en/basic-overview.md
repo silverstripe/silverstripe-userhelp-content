@@ -48,10 +48,10 @@ The Tree Management area (found on the left of the page, just to the right of th
 
 ## Page Management
 
-The Page Management area (on the right hand side of the page) shows various data relating to individual pages such as; page name, navigation label (label in the menu), URL and general content.  The text and image content of each page is edited through the TinyMCE WYSIWYG editor, which behaves in a similar fashion to a word processing application.  More advanced users can also select to edit the page's html directly.
+The Page Management area (on the right hand side of the page) shows various data relating to individual pages such as; page name, navigation label (label in the menu), URL and general content.  The text and image content of each page is edited through the content editor, which behaves in a similar fashion to a word processing application.  More advanced users can also select to edit the page's html directly.
 
 ## Publishing Bar
 
-The Publishing bar on the bottom of the page allows you to save, archive, publish (make publicly available), unpublish or preview your work (published or draft versions).  The options for previewing the draft or the published site are shown on the bottom left of the page, when in preview mode.
+The Publishing bar on the bottom of the page allows you to save, archive, publish (make publicly available), unpublish or preview your work (published or draft versions).  The options for previewing the draft or the published site are shown on the bottom right of the page, when in preview or split editing mode.
 
 ![SS3 Preview Options (Draft Site/ Published Site)](_images/preview-option.png)

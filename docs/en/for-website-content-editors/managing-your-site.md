@@ -10,7 +10,7 @@ title: Managing your site
 * Learn the different content types
 * Learn how to move pages within the site
 * Learn how to hide a webpage
-* Learn how to delete a webpage
+* Learn how to archive a webpage
 * Learn how to view an old version of a page, and roll back to that version.
 * Learn how to search for a page
 * Learn how to publish multiple pages
@@ -37,27 +37,30 @@ There are many different types of pages in SilverStripe, each with its own funct
 
 ### Other types of pages
 
-* **Blog Holders and Blog Entries** - See the "Blogs" section.
-* **Forum Holders and Forum Entries** - See the Forums section
-* **User Defined Forms** - See the Forms section
+Depending on the code and modules included in your site, your page type list could contain any 
+number of other page types. This could include blog pages, forums, user defined forms, or 
+news pages.
 
 ### Changing an existing page type
 
 To change a page type, look in the Pages pane for the page you wish to change. 
 
-![Choosing page type](_images/choosing-page.jpg)
+![Choosing page type](_images/Choosing-A-Page.png)
 
 Click on it, and head to the "Settings" tab in the editing pane. You can change the page type from the "Page type" drop-down menu. Save your changes by pressing "Save Draft" or "Save & Publish" in the actions menu at the bottom of the editing pane.
 
-![Changing page type](_images/change-page-type.jpg)
+![Changing page type](_images/Changing-Page-Type.png)
  
 ### Moving pages within the site
 
 To move a page within the site, make sure you are in the "Pages" pane (selected from the navigation on the left side of the screen).
 
-Make sure that "Drag'n'drop" is selected from the Display menu, then you can move a page by clicking on it in the "page tree", and dragging it to its new position in the website.
+You can move a page by clicking on it in the "page tree", and dragging it to its new position in the website.
 
-![Moving pages](_images/moving-pages.jpg)
+![Moving pages](_images/Moving-Pages.png)
+
+Once a page has been moved the draft site will display the new location. Each page which is moved will need 
+to be published in order for it to appear in the new location on the live site.
  
 ### Hiding pages
 
@@ -69,35 +72,36 @@ You can remove your site from being listed in search results by removing the che
 
 After you have made these changes, hit the "Save & Publish" button in the actions menu at the bottom of the editing pane.
 
-![Hiding pages](_images/hiding-pages.jpg)
+![Hiding pages](_images/Hiding-Pages.png)
  
-### Deleting pages
+### Archiving pages
 
-#### Deleting individual pages
+#### Archiving individual pages
 
-To delete a page, look in the Pages pane for the page you wish to delete. Click on it, and head to the "Content" tab in the editing pane. You will see in the actions menu at the bottom of the editing pane, two buttons, "Unpublish" and "Delete from Draft".
+Any page in the CMS can be archived, which removes it from both the staging and live sites, but retains the page in the
+internal version history.
 
-The "Unpublish" button will remove the current webpage from the public-facing front end of your site. However, the content will remain as a draft, and no data will be lost - the page will remain in the CMS.
+To archive a page, look in the Pages panel for the page you wish to remove. Click on it, and 
+you will see a "More Actions" option in the actions panel at the bottom.
 
-The "Delete Draft" button will remove the current webpage from the back-end CMS, but if you have previously published it, it will not be removed from the public-facing front-end of your site.
+ * "Unpublish" will remove the page from the live site, but leave it on draft.
+ * "Archive" will remove the site both from live and draft simultaneously, but leave the page version history intact.
 
-To completely delete a webpage, click on "Unpublish" first, then click on "Delete Draft".
+![Archive a single page](_images/Archive-Menu.png)
 
-![Delete a single page](_images/delete-single-page.jpg)
+#### Archiving multiple pages
 
-#### Deleting multiple pages
+To archive or unpublish multiple pages, you can use the bulk action tool on the
+"Pages" pane. This can be accessed either by clicking "Pages" in the main menu
+or "Edit Tree" when editing a page.
 
-To delete multiple pages, click "Multi-selection" on the top-right of the "Pages" pane. Each page in the page tree in the "Pages" pane should now have a checkbox next to it. Check all the pages you want to delete. (And perhaps more importantly, make sure NOT to check those pages you do not want to delete.)
+From the "Actions" drop-down menu at the top of the "Pages" pane, choosing
+"Archive" or "Unpublish". Available pages for the select action will have a checkbox
+disabled beside them.
 
-From the "Actions" drop-down menu at the top of the "Pages" pane, choosing "Delete from Published Site" will remove the page from the public-facing portion of the website, but retain a copy of those pages in the backend CMS.
+Select any number of pages, and then press "Go" to perform the selected action.
 
-Choosing "Delete from draft site" will remove the page from the backend CMS, but the page will remain on the public-facing portion of the website.
-
-Once you have chosen the intended action click the go button next to the drop-down.
-
-To completely delete multiple pages, you must do both. The order of deletions in "Batch Actions" does not matter, though it's generally a good idea to delete from the published site first, then delete from the draft site.
-
-![Delete multiple pages](_images/delete-multiple-pages.jpg)
+![Delete multiple pages](_images/Archive-Multiple-Pages.png)
  
 ### Previous versions of pages
 
@@ -118,8 +122,6 @@ To compare two versions of the site, click on "Compare mode (select two)" and cl
 To revert to a previous version, select the version you with to revert the page back to, and click on "Revert to this version" in the editing pane.
 
 <div class="note" markdown="1">
-### Notes:
-
 When a page is rolled back to the previous version, it is only rolled back in the backend CMS as a draft. To show the rolled back page on the public-facing website, it needs to be published by pressing "Save and Publish."
 </div>
  
@@ -133,16 +135,26 @@ Search results will remain the only items in the Page Tree until the "Clear" but
 
 ![Searching pages](_images/searching-pages.jpg)
 
-You can also earch by different criteria, including "Date", "Pages" (All pages, Changed pages, and All pages including deleted) and "Page Type".
+You can also earch by different criteria, including:
+* "Date" to select modified date
+* "Page Type" which is a dropdown of all the page types
+* "Pages" which includes the following filters:
+  * All pages
+  * All pages, including archived
+  * Archived pages
+  * Changed pages
+  * Draft pages
+  * Live but removed from draft
+  * Modified pages
+  * Published pages
 
 <div class="note" markdown="1">
-### Notes:
-
 One neat trick is that you can search for pages, and then perform a batch action upon them, such as deleting them or publishing them. For example, by searching for Page Type: "BlogEntry" and then a date range: "(whatever last Thursday was till now)" you can then create a quick batch action to publish all blog posts written since last Thursday.
 </div>
  
 ### Publishing multiple pages
 
-To publish multiple pages, click "Multi-selection" on the top-right of the "Pages" pane. Each page in the page tree in the "Pages" pane should now have a checkbox next to it. Check all the pages you want to publish.
+To publish multiple pages, you can follow the same steps as in the archiving multiple pages step.
 
-From the "Actions" drop-down menu at the top of the "Pages" pane, choose "Publish" and then click the go button next to the drop-down.
+When viewing the tree, select "Publish" from the batch actions dropdown.
+Check all the pages you want to publish, and then click the go button next to the drop-down.

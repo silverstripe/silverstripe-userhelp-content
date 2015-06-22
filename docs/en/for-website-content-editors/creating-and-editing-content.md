@@ -13,20 +13,19 @@ title: Creating and Editing Content
 * Learn how to create hyperlinks.
 * Learn how to save your page as a draft.
 * Learn how to publish your page to the live site. 
+* Learn how to preview changes in the CMS.
 
 ## Before we begin
 
 * Make sure you are in the "Pages" section on the Navigation Tabs. 
 
-![SilverStripe3 'Pages' Section](_images/Pages-Section.jpg)
+![SilverStripe3 'Pages' Section](_images/Pages-Section.png)
 
 To manage and edit any of the existing pages of the site, select the page from the site tree in the Tree Management section (by default, when you login you will be taken to the 'Page Management' Section..  Or you can add a new page by clicking on the "Add new" button:
 
 ![SilverStripe3 'Add New Page' button](_images/Add-New-Page.jpg)
 
 <div class="note" markdown="1"> 
-### Notes:
-
 Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](managing-your-site)." 
 </div>
  
@@ -34,7 +33,7 @@ Don't worry if you create your page in the "wrong" place.  Pages can be moved an
 
 In the Page Management Section, you will need to ensure you are on the 'Content' tab to use the WYSIWYG editor:
 
-![SilverStripe3 Content Editing](_images/Content-Editing.jpg)
+![SilverStripe3 Content Editing](_images/Content-Editing.png)
 
 The first field, is for the Page Name - this will define what the page will be known as in the CMS, but it will also be used to form the "default" navigation label and URL for the page, though both can be changed manually and be independent of the page name.  
 
@@ -42,7 +41,7 @@ Below it, you will find the URL Segment where you can specify the path this page
 
 The Navigation Label below will define what the page will show up as when listed in site navigation on the public-facing front page of your site. If you fill in the Page Name first, it will automatically put the page name in the navigation label field. It is usually, but not always, a good idea to leave it the same.  If you wish to change the navigation label but not the page name, you can do so here.  
 
-![SilverStripe3 Content Editing (Page Fields)](_images/Page-fields.jpg)
+![SilverStripe3 Content Editing (Page Fields)](_images/Page-Fields.png)
 
 Finally, there is the Content Box (a text-area element).  This will contain the bulk of text to appear on your webpage.  Type the text that will appear in the page on the Website.  You can also use the formatting toolbar at the top of the Content Box in order to format your page the way you would prefer.
 
@@ -65,9 +64,8 @@ Finally, the "Insert Horizontal Ruler" button will insert a horizontal line on t
 There is one other button that needs explanation.  That is the button marked "HTML." If you want to go in and edit the source code of the page directly, pressing the HTML button will bring up the HTML source of the page.  It is recommended that you only do this if you have a good knowledge of HTML formatting. This can be useful when you need to directly add some source code to a page, for example, when embedding YouTube videos. 
 
 <div class="note" markdown="1"> 
-### Notes:
+Cutting & pasting from a Word Processor:
 
-** Cutting & pasting from a Word Processor **
 You may want to bring some text you have already written on a word processor, such as Microsoft Word into your page content.
 
 Generally, you can paste any text from a "plain text editor" such as Notepad.exe on Windows systems, TextEdit.app on Macintosh systems, and gEdit on Ubuntu Linux, et al.
@@ -101,8 +99,6 @@ To link to another page on the site, choose "Page on the Site" from the list of 
 To link to a page on another website, choose "Another Website" from the list of options.  Step two will have changed to offer a text box for the URL (web address) of the page you wish to link to.  Insert the address into this box and click the 'insert link' button.
 
 <div class="note" markdown="1"> 
-### Notes:
-
 There are different processes for "internal" and "external" links because when pages on a SilverStripe installation are moved or deleted, the links in other pages on the site are automatically changed to the new pages location.  This allows you to quickly move pages around without worry of breaking the site's structure or checking every page in the site for broken links.
 
 If you enter in an internal link URL in the external link field, SilverStripe CMS is usually smart enough to change the link to an internal link.
@@ -113,8 +109,6 @@ If you enter in an internal link URL in the external link field, SilverStripe CM
 To link to an e-mail address, choose "Email Address" from the list of options.  You can then paste or type in the e-mail address that you would like to link to, in the 'Details' field provided.  Then, to insert the link, click the 'Insert link' button.
 
 <div class="note" markdown="1"> 
-### Notes:
-
 One other option is to hyperlink to a document (a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage) that you have uploaded to your website. This is a more advanced topic, however, and we will cover it in "[Working with Images and Documents](working-with-images-and-documents)."
 </div>
  
@@ -122,9 +116,18 @@ One other option is to hyperlink to a document (a PDF file, DOC file, audio file
 
 To save your page as a draft, simply hit the "Save" button (not "Save and Publish," if it is available) in the Publishing Bar (at the bottom of the screen). Saving your page as a draft allows you to preview the page on a "Draft Site" available to you and others who have access to the CMS, but does not publish the page to the live website.  
 
-![SilverStripe3 Content Editing (publishing options)](_images/publishing-bar.jpg)
+![SilverStripe3 Content Editing (publishing options)](_images/Publishing-Bar.png)
 
-After you save your page as a draft, you can preview the page by clicking on "Preview" in the Publishing Bar. 
+## Previewing your changes
+
+After you save your page as a draft, you can preview the page by clicking on "Preview mode" or "Split mode" in the side by side preview menu.
+
+![Preview Menu](_images/Preview-Bar.png)
+
+This will allow you to view a preview of your draft content alongside your editable form. That way you can make
+live updates to the draft site and see the preview immediately.
+
+![Preview View](_images/Preview.png)
 
 **Remember to save early and often.**  
 

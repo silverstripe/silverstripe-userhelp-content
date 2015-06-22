@@ -49,8 +49,6 @@ Once you have uploaded all the images you need, you can click the "update" butto
 ![Update button](_images/update-button.jpg) 
 
 <div class="note" markdown="1"> 
-### Notes:
-
 Once a photograph has been uploaded, you can re-use it in multiple places in your website. You will want to see "Inserting previously uploaded images" below for details on how to re-use a photograph, and "Managing Files" to organize and maintain image files uploaded to the Website.
 </div>
  
@@ -102,8 +100,6 @@ Repeat this process for every file you wish to upload or you can select multiple
 Once the images have finished uploading, click the "Back to folder" button to go back to the parent folder. You should now see the files you uploaded within your chosen folder.
 
 <div class="note" markdown="1"> 
-### Notes: 
-
 This same process can be used for filetypes other than images as well, which we will cover in "[Uploading and Linking to Documents](working-with-images-and-documents/#uploading-and-linking-to-documents)." 
 </div>
 
@@ -172,8 +168,6 @@ Once you have opened the File details pane, and you can edit the files details a
 You can also delete the file from here too. To do this click the delete button which is located next to save at the bottom of the pane.
 
 <div class="note" markdown="1"> 
-### Notes:
-
 By default, uploaded files are placed in the "Uploads" directory.
 
 If you place an image in a webpage, and later move or rename that image in "Files & Images," SilverStripe CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page. [Editor's Note: Isn't that awesome?]
