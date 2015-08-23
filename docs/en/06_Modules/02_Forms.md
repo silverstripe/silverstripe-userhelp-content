@@ -127,6 +127,8 @@ You can view submissions to the field by clicking on the "Submissions" tab on th
 
 You can disable saving submissions to the server by clicking the checkbox labeled "Disable Saving Submissions to Server" under the Configuration tab.
 
+You can disable saving submissions to the server by clicking the checkbox labeled "Disable Saving Submissions to Server" under the Configuration tab.
+
 ### When the form is completed
 
 You can create a "Form Received" or "Thank You" page by clicking on the "Configuration" tab in the Content tab in the Editing Pane of the form. This page will show to the user when the user successfully completes and submits a form.
