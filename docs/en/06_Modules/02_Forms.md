@@ -115,19 +115,21 @@ For example, you may wish to hide one form if the answer to another form makes a
 
 Custom rules allow you to only show the email field if and when the checkbox for "Contact me" is checked. Or you may wish to only show a dropdown box for US states if the user lives in the U.S.
 
-## Editing Options
+## Editing options
 
-Click on the "Options" tab under the "Content" tab in the Editing Pane to access the form options. You can choose to edit the text on the submission button by writing something in the "Text on submit button" field. You can also give your users an option to clear the form by clicking the checkbox next to "Clear Form Button".
+Click on the "Configuration" tab under the "Content" tab in the Editing Pane to access the form options. You can choose to edit the text on the submission button by writing something in the "Text on submit button" field. You can also give your users an option to clear the form by clicking the checkbox next to "Clear Form Button".
 
 ### Viewing submissions
 
-You can view submissions to the field by clicking on the "Submissions" tab on the content page of the CMS. By default, all submissions are stored in the CMS. You can disable saving submissions to the server by clicking the checkbox labeled "Disable Saving Submissions to Server."
+You can view submissions to the field by clicking on the "Submissions" tab on the content page of the CMS. By default, all submissions are stored in the CMS.
 
 ![Viewing submissions](/_images/submissions.jpg)
 
+You can disable saving submissions to the server by clicking the checkbox labeled "Disable Saving Submissions to Server" under the Configuration tab.
+
 ### When the form is completed
 
-You can create a "Form Received" or "Thank You" page by clicking on the "On Complete" tab in the Content tab in the Editing Pane of the form. This page will show to the user when the user successfully completes and submits a form.
+You can create a "Form Received" or "Thank You" page by clicking on the "Configuration" tab in the Content tab in the Editing Pane of the form. This page will show to the user when the user successfully completes and submits a form.
 
 ### Creating an email recipient
 
