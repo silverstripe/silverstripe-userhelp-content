@@ -44,7 +44,6 @@ Why should you care? It's useful to know where and how the different names are d
 * The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 * The **URL** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilveStripe CMS generates will be fine, but you can manually change it if necessary.
-* The **Title** is what appears in the browser's title bar and tabs, and in Google's search results page (the &lt;title&gt; meta tag.) Page titles should be unique, and shouldn’t exceed 65 characters (spaces included), as Google only shows the first 65 characters in search result titles.
 
 <div class="note" markdown="1">
 ### Notes:
@@ -60,16 +59,16 @@ In this case, it's a good idea to manually change the URLs to something more mea
 Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be http://website.com/offices/new-york/staff/john-smith
 </div>
  
-### Keywords and meta tags
+### Meta tags
 
 Meta tags also make your web page more findable. The Description meta attribute should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
-
-Keywords can be used to further describe your page, and help to make your page more findable by search engines. Think about the words users would type in a search engine to find your pages, and make sure that your page includes those words within it.
 
 <div class="note" markdown="1">
 ### Notes:
 
-Google doesn’t like repetition of keywords and phrases in the title, description or keywords. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
+The meta fields for title and keywords have been removed in v3.1. Meta title uses the title by default and keyword have been removed due after an official Google press release which confirmed that Google doesn't use the keywords tag anymore (see [link](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
+
+Google doesn’t like repetition of keywords and phrases in the description. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
 </div>
 
 ### Clean HTML
@@ -110,7 +109,7 @@ In addition, you may also want to add title text for your image. Title text is f
 
 Mark up your headings by selecting the right heading style from the Format dropdown. Using headings properly gives your content hierarchy and, for example, allows users with screen readers to skip ahead to the next heading. Note that Heading 1 will be the title of your page, and all lower-level headings should be nested properly (e.g., Heading 3 should be within a Heading 2 section, etc.)
 
-![Headings](/_images/headings.png)
+![Headings](_images/headings.png)
 
 If your content uses lists, select either bullets (unordered list) or numbers (ordered list) - don't use dashes or asterisks to mark up lists.
 
