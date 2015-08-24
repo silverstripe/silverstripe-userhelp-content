@@ -64,7 +64,7 @@ Meta tags also make your web page more findable. The Description meta attribute 
 <div class="note" markdown="1">
 ### Notes:
 
-The meta fields for title and keywords have been removed in v3.1. Meta title uses the title by default and keyword have been removed due after an official Google press release which confirmed that Google doesn't use the keywords tag anymore (see [link](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
+The meta fields for title and keywords have been removed in v3.1. Keyword have been removed due after an official Google press release which confirmed that Google doesn't use the keywords tag anymore (see [link](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
 
 Google doesn’t like repetition of keywords and phrases in the description. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
 </div>
