@@ -118,7 +118,7 @@ One other option is to hyperlink to a document  that you have uploaded to your w
  
 ## Saving your page as a draft
 
-To save your page as a draft, simply hit the "Save" button (not the "Save and Publish" button, if it is available) in the Publishing Bar at the bottom of the screen. Saving your page as a draft allows you to preview the page on a "Draft Site" available to you and others who have access to the CMS, but does not publish the page to the live website.  
+To save your page as a draft, simply hit the "Save draft" button (not the "Save and publish" button, if it is available) in the Publishing Bar at the bottom of the screen. Saving your page as a draft allows you to preview the page on a "Draft Site" available to you and others who have access to the CMS, but does not publish the page to the live website.  
 
 ![SilverStripe3 Content Editing (publishing options)](/_images/publishing-bar.jpg)
 
@@ -128,4 +128,4 @@ After you save your page as a draft, you can preview the page by clicking on "Pr
 
 ## Publishing your page, or submitting your page for publication:
 
-If you do not have the workflow module installed, or you are the site's administrator, you can publish the page at any time by hitting the "Save and Publish" button.  Once the "Save and Publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing. 
+If you do not have the workflow module installed, or you are the site's administrator, you can publish the page at any time by hitting the "Save and publish" button.  Once the "Save and publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing. 

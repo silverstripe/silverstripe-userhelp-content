@@ -24,7 +24,7 @@ The simplest way to insert an image stored on your local hard drive into a webpa
 
 ![Sample image](/_images/KittenStockLookingScaredbyGraciesStock.jpg) 
 
-In the Images popup, the "From your computer" tab should be selected as default. Click "Choose file(s) to upload...". You can then upload a file from your hard drive. A progress bar should appear in the "Details & dimensions" section below. 
+In the Images popup, the "From your computer" tab should be selected as default. Click "Choose files to upload...". You can then upload a file from your hard drive. A progress bar should appear in the "Details & dimensions" section below. 
 
 ![Uploading an image](/_images/uploading-an-image.jpg) 
 
@@ -36,13 +36,13 @@ Once the image is uploaded you will see a small thumbnail on the left of the pro
 
 ![Image details](/_images/image-details.jpg) 
 
-It is possible to insert mulitple images using the "on-the-fly" method. You can upload them one at a time (clicking the "Choose file(s) to upload..." again once an image has uploaded) or you can select multiple image files by holding "control" (Windows) or "command" (Mac) on the keyboard while clicking the chosen images. This last method is the fastest as all images load simultaneously.
+It is possible to insert mulitple images using the "on-the-fly" method. You can upload them one at a time (clicking the "Choose files to upload..." again once an image has uploaded) or you can select multiple image files by holding "control" (Windows) or "command" (Mac) on the keyboard while clicking the chosen images. This last method is the fastest as all images load simultaneously.
 
 ![Multiple images](/_images/multiple-images.jpg) 
 
 You can also flick between the "From your computer", "From the web" and "From the CMS" tabs (See [Inserting uploaded images](working-with-images-and-documents/#inserting-uploaded-images) section for more details on this tab), adding images from multiple locations.
 
-Once you have uploaded all the images you need, you can click the "update" button in the bottom right of the pane to insert the images into your content.
+Once you have uploaded all the images you need, you can click the "Insert" button in the bottom right of the pane to insert the images into your content.
 
 ![Update button](/_images/update-button.jpg) 
 
@@ -66,11 +66,11 @@ Using the "From the web" tab you can also embed other media into the page conten
 
 Let's take as an example embedding of a the ["What's new in SilverStripe 3 in under 100 seconds"](http://vimeo.com/44911918) video from Vimeo.
 
-First of all, insert the "http://vimeo.com/44911918" into the "Add URL" field of the "From the web" and press the "+" button:
+First of all, insert the "http://vimeo.com/44911918" into the "Add URL" field of the "From the web" and press the "+ Add url" link:
 
 ![Embedding - add media](/_images/embedding-media-add.jpg) 
 
-You can then tweak the specific options for the given media and press "Update" to finish the embedding. 
+You can then tweak the specific options for the given media and press "Insert" to finish the embedding. 
 
 ![Embedding media - update](/_images/embedding-media-embed.jpg) 
 
@@ -78,7 +78,7 @@ You can then tweak the options by reselecting the media in the editor and pressi
 
 ![Embedding media - tweak](/_images/embedding-media-adjust.jpg) 
 
-Once you are done press "Update" to adjust the embedded media.
+Once you are done press "Insert" to adjust the embedded media.
 
 ### Uploading images to the CMS from the Files Menu.
 
@@ -89,7 +89,7 @@ Before you upload your images/files, create a new folder (See the section below 
 
 ![Files selection](/_images/files-section.jpg) 
 
-From the upload files page, click on the "Choose File(s) to upload" button to choose your first file to upload or drag your files into the "Drop Area" (this will automatically start the upload).
+From the upload files page, click on the "Choose files to upload" button to choose your first file to upload or drag your files into the "Drop Area" (this will automatically start the upload).
 
 ![Files upload page](/_images/files-upload-page.jpg) 
 
@@ -117,7 +117,7 @@ This should bring up the insert image pop up. Click on the "From the CMS" tab an
 
 When you see the image you want, click on the image to select it. You can now edit the details of the image by clicking on the edit button. Here you can then add alternative text, which is shown if the image cannot be displayed (for example, on text-only web browsers, or screen readers for the blind) and title text, which shows additional information about the image when the mouse rolls over the image.  If you wish to add a caption, you can do so.  You can also choose the alignment and text wrapping properties of the image as well as the dimensions of the image to be displayed in the site.  
 
-When you are done entering this information, hit the "Update" button on the bottom right of the Insert Images popup. This will place the image in your text where your cursor was in the editing pane.  
+When you are done entering this information, hit the "Insert" button on the bottom right of the Insert Images popup. This will place the image in your text where your cursor was in the editing pane.  
 
 ![The inserted image](/_images/inserted-image.jpg) 
 
@@ -127,7 +127,7 @@ To upload documents, such as PDF files, Word .DOC documents, and downloadable au
 
 Click on the "Upload" button above the list of files in the "Files" pane and follow the instructions from the [Uploading images to the CMS from the Files Menu](working-with-images-and-documents/#uploading-images-to-the-cms-from-the-files-menu) section above the same process applies to all file types.
 
-To link to documents, return to the page you wish to create the link in by clicking on the "Pages" Navigation tab, and choose the page you wish to edit. Highlight the text you would like to make into a hyperlink, and click the "hyperlink" button to bring up the "Insert Link" popup.
+To link to documents, return to the page you wish to create the link in by clicking on the "Pages" Navigation tab, and choose the page you wish to edit. Highlight the text you would like to make into a hyperlink, and click the "hyperlink" button to bring up the "Insert link" popup.
 
 ![Insert link to file](/_images/insert-link-file.jpg) 
 
@@ -135,7 +135,7 @@ From the "link to" step (1) choose "Download a file" from the list of options. Y
 
 ![Link popup](/_images/link-popup.jpg) 
 
-Finally, to insert the link, click the "Insert Link" button at the bottom-right of the popup.
+Finally, to insert the link, click the "Insert link" button at the bottom-right of the popup.
 
 ## Managing files
 
