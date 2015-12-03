@@ -1,7 +1,5 @@
-<!--
-pagenumber: 6
-title: Forms
--->
+title: Creating forms in the CMS
+summary: Working with the UserForms module to create drag and drop forms.
 
 # Forms
 In this section:

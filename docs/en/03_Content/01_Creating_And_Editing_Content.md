@@ -1,7 +1,5 @@
-<!--
-pagenumber: 1
-title: Creating and Editing Content
--->
+title: Creating and editing content
+summary: How to create, edit and publish content for website pages.
 
 # Creating and Editing Content
 

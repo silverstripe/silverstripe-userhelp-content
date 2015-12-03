@@ -1,7 +1,5 @@
-<!--
-pagenumber: 7
 title: Forums
--->
+summary: Setting up and running forums on your website.
 
 # Forums
 

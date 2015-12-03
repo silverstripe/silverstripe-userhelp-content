@@ -1,6 +1,5 @@
-<!--
-pagenumber: 5
--->
+title: Blogging
+summary: Working with blogging and comments in SilverStripe CMS.
 
 # Blogs
 

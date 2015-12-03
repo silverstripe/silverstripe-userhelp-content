@@ -1,7 +1,5 @@
-<!--
-pagenumber: 4
 title: Web content best practices
--->
+summary: Useful tips to improve your content management.
 
 
 # Web content best practices

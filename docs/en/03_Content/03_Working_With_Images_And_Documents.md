@@ -1,7 +1,5 @@
-<!--
-pagenumber: 2
 title: Images and documents
--->
+summary: Uploading and working with files and images.
 
 # Working with images and documents 
 

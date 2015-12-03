@@ -1,7 +1,5 @@
-<!--
 title: Changing & managing users
-pagenumber: 1
--->
+summary: Managing users access in the CMS administration interface.
 
 # Changing and managing users
 

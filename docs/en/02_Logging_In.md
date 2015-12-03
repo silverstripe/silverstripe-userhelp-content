@@ -1,7 +1,5 @@
-<!--
-pagenumber: 1
-title: Introduction & Logging In
--->
+title: Introduction & logging In
+summary: Logging into a SIlverStripe CMS website to start editing content.
 
 # Introduction & Logging In
 

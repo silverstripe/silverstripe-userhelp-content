@@ -1,7 +1,5 @@
-<!--
 title: Roles & permissions
-pagenumber: 2
--->
+summary: Manging CMS access and permissions using groups and roles.
 
 # Managing roles and permissions
 

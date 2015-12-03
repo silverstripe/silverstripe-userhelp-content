@@ -1,7 +1,5 @@
-<!--
-pagenumber: 3
 title: Managing your site
--->
+summary: How to work with your content structure, page history and batch publishing. 
 
 # Managing your site
 

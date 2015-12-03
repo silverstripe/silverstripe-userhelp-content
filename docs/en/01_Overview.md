@@ -1,7 +1,6 @@
-<!--
-pagenumber: 2
-title: Basic overview
--->
+title: Overview
+summary: Introducing the SilverStripe CMS administration interface.
+
 
 # Basic Overview
 
