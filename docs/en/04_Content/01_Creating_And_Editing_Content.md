@@ -65,7 +65,7 @@ There is one other button that needs explanation.  That is the button marked "HT
 <div class="note" markdown="1"> 
 ### Notes:
 
-** Cutting & pasting from a Word Processor **
+** Cutting and pasting from a Word Processor **
 You may want to bring some text you have already written on a word processor, such as Microsoft Word into your page content.
 
 Generally, you can paste any text from a "plain text editor" such as Notepad.exe on Windows systems, TextEdit.app on Macintosh systems, and gEdit on Ubuntu Linux, et al.
