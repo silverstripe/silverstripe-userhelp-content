@@ -1,7 +1,5 @@
-<!--
-pagenumber: 1
-title: Creating and Editing Content
--->
+title: Creating and editing content
+summary: How to create, edit and publish content for website pages.
 
 # Creating and Editing Content
 
@@ -18,11 +16,11 @@ title: Creating and Editing Content
 
 * Make sure you are in the "Pages" section on the Navigation Tabs. 
 
-![SilverStripe3 'Pages' Section](_images/Pages-Section.jpg)
+![SilverStripe3 'Pages' Section](/_images/Pages-Section.jpg)
 
 To manage and edit any of the existing pages of the site, select the page from the site tree in the Tree Management section (by default, when you login you will be taken to the 'Page Management' Section..  Or you can add a new page by clicking on the "Add new" button:
 
-![SilverStripe3 'Add New Page' button](_images/Add-New-Page.jpg)
+![SilverStripe3 'Add New Page' button](/_images/Add-New-Page.jpg)
 
 <div class="note" markdown="1"> 
 ### Notes:
@@ -34,7 +32,7 @@ Don't worry if you create your page in the "wrong" place.  Pages can be moved an
 
 In the Page Management Section, you will need to ensure you are on the 'Content' tab to use the WYSIWYG editor:
 
-![SilverStripe3 Content Editing](_images/Content-Editing.jpg)
+![SilverStripe3 Content Editing](/_images/Content-Editing.jpg)
 
 The first field, is for the Page Name - this will define what the page will be known as in the CMS, but it will also be used to form the "default" navigation label and URL for the page, though both can be changed manually and be independent of the page name.  
 
@@ -42,11 +40,11 @@ Below it, you will find the URL Segment where you can specify the path this page
 
 The Navigation Label below will define what the page will show up as when listed in site navigation on the public-facing front page of your site. If you fill in the Page Name first, it will automatically put the page name in the navigation label field. It is usually, but not always, a good idea to leave it the same.  If you wish to change the navigation label but not the page name, you can do so here.  
 
-![SilverStripe3 Content Editing (Page Fields)](_images/Page-fields.jpg)
+![SilverStripe3 Content Editing (Page Fields)](/_images/Page-fields.jpg)
 
 Finally, there is the Content Box (a text-area element).  This will contain the bulk of text to appear on your webpage.  Type the text that will appear in the page on the Website.  You can also use the formatting toolbar at the top of the Content Box in order to format your page the way you would prefer.
 
-![SilverStripe3 Content Editing (Content Box)](_images/formating-content.jpg)
+![SilverStripe3 Content Editing (Content Box)](/_images/formating-content.jpg)
 
 ## Formatting content
 
@@ -94,7 +92,7 @@ Creating a link to another page on the site
 
 To link to another page on the site, choose "Page on the Site" from the list of options pop-up box that follows clicking the 'insert link' button.  You can then select the page you want to link to from the drop-down box.  Then, to confirm your action, click the "Insert Link" button.
 
-![SilverStripe3 Content Editing (link options)](_images/hyperlinks.jpg)
+![SilverStripe3 Content Editing (link options)](/_images/hyperlinks.jpg)
 
 ## Creating a link to an external page
 
@@ -122,7 +120,7 @@ One other option is to hyperlink to a document (a PDF file, DOC file, audio file
 
 To save your page as a draft, simply hit the "Save" button (not "Save and Publish," if it is available) in the Publishing Bar (at the bottom of the screen). Saving your page as a draft allows you to preview the page on a "Draft Site" available to you and others who have access to the CMS, but does not publish the page to the live website.  
 
-![SilverStripe3 Content Editing (publishing options)](_images/publishing-bar.jpg)
+![SilverStripe3 Content Editing (publishing options)](/_images/publishing-bar.jpg)
 
 After you save your page as a draft, you can preview the page by clicking on "Preview" in the Publishing Bar. 
 

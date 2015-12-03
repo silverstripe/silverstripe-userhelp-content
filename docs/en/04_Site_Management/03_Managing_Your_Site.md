@@ -1,7 +1,5 @@
-<!--
-pagenumber: 3
 title: Managing your site
--->
+summary: How to work with your content structure, page history and batch publishing. 
 
 # Managing your site
 
@@ -45,11 +43,11 @@ There are many different types of pages in SilverStripe, each with its own funct
 
 To change a page type, look in the Pages pane for the page you wish to change. 
 
-![Choosing page type](_images/choosing-page.jpg)
+![Choosing page type](/_images/choosing-page.jpg)
 
 Click on it, and head to the "Settings" tab in the editing pane. You can change the page type from the "Page type" drop-down menu. Save your changes by pressing "Save Draft" or "Save & Publish" in the actions menu at the bottom of the editing pane.
 
-![Changing page type](_images/change-page-type.jpg)
+![Changing page type](/_images/change-page-type.jpg)
  
 ### Moving pages within the site
 
@@ -57,7 +55,7 @@ To move a page within the site, make sure you are in the "Pages" pane (selected 
 
 Make sure that "Drag'n'drop" is selected from the Display menu, then you can move a page by clicking on it in the "page tree", and dragging it to its new position in the website.
 
-![Moving pages](_images/moving-pages.jpg)
+![Moving pages](/_images/moving-pages.jpg)
  
 ### Hiding pages
 
@@ -69,7 +67,7 @@ You can remove your site from being listed in search results by removing the che
 
 After you have made these changes, hit the "Save & Publish" button in the actions menu at the bottom of the editing pane.
 
-![Hiding pages](_images/hiding-pages.jpg)
+![Hiding pages](/_images/hiding-pages.jpg)
  
 ### Deleting pages
 
@@ -83,7 +81,7 @@ The "Delete Draft" button will remove the current webpage from the back-end CMS,
 
 To completely delete a webpage, click on "Unpublish" first, then click on "Delete Draft".
 
-![Delete a single page](_images/delete-single-page.jpg)
+![Delete a single page](/_images/delete-single-page.jpg)
 
 #### Deleting multiple pages
 
@@ -97,7 +95,7 @@ Once you have chosen the intended action click the go button next to the drop-do
 
 To completely delete multiple pages, you must do both. The order of deletions in "Batch Actions" does not matter, though it's generally a good idea to delete from the published site first, then delete from the draft site.
 
-![Delete multiple pages](_images/delete-multiple-pages.jpg)
+![Delete multiple pages](/_images/delete-multiple-pages.jpg)
  
 ### Previous versions of pages
 
@@ -105,7 +103,7 @@ To completely delete multiple pages, you must do both. The order of deletions in
 
 Click on the page you want to view a previous version of in the "Page" pane's "Page Tree". Click on it, and head to the "History" tab in the editing pane.
 
-![View page version](_images/view-page-version.jpg)
+![View page version](/_images/view-page-version.jpg)
 
 Click on any of the listed versions to look at the content of the page. If you want to view draft versions of pages as well as published versions, click the "Show unpublished versions" checkbox.
 
@@ -131,7 +129,7 @@ The default search mode is by text, and you can type any text to search your pag
 
 Search results will remain the only items in the Page Tree until the "Clear" button is pressed.
 
-![Searching pages](_images/searching-pages.jpg)
+![Searching pages](/_images/searching-pages.jpg)
 
 You can also earch by different criteria, including "Date", "Pages" (All pages, Changed pages, and All pages including deleted) and "Page Type".
 

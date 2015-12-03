@@ -1,9 +1,7 @@
-<!--
-pagenumber: 1
-title: Introduction & Logging In
--->
+title: Logging In
+summary: Logging into a SilverStripe CMS website to start editing content.
 
-# Introduction & Logging In
+# Logging In
 
 Hello, and welcome to the SilverStripe CMS web help. Hopefully, you should be able to find the topic you're looking for in our navigation bar to the left, or, if you prefer, you can use our search function to find what you are looking for. 
 
@@ -11,7 +9,7 @@ If you have not yet installed SilverStripe, but want to follow along, you can us
 
 You can access this Help document by clicking on "Help" inside your SilverStripe installation at any time. 
 
-## Logging In
+## Logging in to the CMS
 
 To access the SilverStripe CMS, you need a username and password.  Usernames and passwords can only be given by the site's administrator.  If you don't have a username or password, contact the person or organization that created the website.  
 
@@ -21,7 +19,7 @@ To get to the login page for the site administration, type in your website addre
 
 On the login page, enter your login (usually your e-mail address) and password.  This will take you to the CMS main screen. 
 
-![Login to SilverStripe CMS](_images/general-login.png)
+![Login to SilverStripe CMS](/_images/general-login.png)
 
 <div class="note" markdown="1">
 ## Notes

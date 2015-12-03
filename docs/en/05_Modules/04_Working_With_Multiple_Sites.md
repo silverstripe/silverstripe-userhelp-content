@@ -27,17 +27,17 @@ The SilverStripe Subsites module allows you to manage multiple related sites thr
 
 To edit a particular subsite, choose the subsite from the dropdown menu in the left-hand menu.
 
-![Subsites menu](_images/subsites-menu.jpg)
+![Subsites menu](/_images/subsites-menu.jpg)
 
 ## Creating subsites
 
 In the Subsites section of the CMS, click on "Add Subsite". This will bring up the Subsite configuration tab in the Editing Pane.
 
-![Add subsite](_images/add-subsite.jpg)
+![Add subsite](/_images/add-subsite.jpg)
 
 In the Configuration tab, you can edit the name of the subsite, add a domain for the subsite, set a language for the site, enable or disable public access for the subsite, and choose the theme for the website.
 
-![Configure subsite](_images/configure-subsite.jpg)
+![Configure subsite](/_images/configure-subsite.jpg)
 
 
 ## Using subsite templates
@@ -48,7 +48,7 @@ You can set up a collection of pages, files, and images and save it as a templat
 
 To create a new template, click on the "Subsite Template" tab then "Add subsite template". Make sure you add a name that will make it easy to see that it's a template. Press the "Create" button at the bottom of the screen.
 
-![Add subsite template](_images/add-subsite-template.jpg)
+![Add subsite template](/_images/add-subsite-template.jpg)
 
 You can edit the template, like any other subsite, by selecting the template in the subsite dropdown menu in the left menu.  By editing it, you create a template structure which can be copied to newly created subsites using the "Copy Structure From" dropdown menu when configuring a new subsite.
 
@@ -58,7 +58,7 @@ When you create a new subsite, you can now choose to Copy structure from your te
 
 You can, at this point, choose a site from which to copy pages and files if you wish, by choosing a template in the "Copy Structure From" drop-down menu. See "Using Subsite Templates" for more information. 
 
-![Copy structure](_images/copy-structure.jpg)
+![Copy structure](/_images/copy-structure.jpg)
 
 To add your subsite, click the "Create" button at the bottom of the screen.
 
@@ -66,11 +66,11 @@ To add your subsite, click the "Create" button at the bottom of the screen.
 
 To edit an existing subsite, you must first find it using the subsites "Filter".  Pressing the "Apply Filter" button in the left-hand "Filter" panel while all fields are blank will return a list of all subsites.  If there are many subsites, and you know the site's name in the CMS or the site's domain name, you can search specifically for that site.  
 
-![Filter on existing subsite](_images/subsites-filter.jpg)
+![Filter on existing subsite](/_images/subsites-filter.jpg)
 
 In either case, once you see the name of your subsite in the search results, click on the subsite's name to bring up the configuration tab.
 
-![Subsite configuration tab](_images/subsite-configtab.jpg)
+![Subsite configuration tab](/_images/subsite-configtab.jpg)
 
 ## Enable/disable public access to subsites
 

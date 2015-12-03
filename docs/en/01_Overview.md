@@ -1,13 +1,12 @@
-<!--
-pagenumber: 2
-title: Basic overview
--->
+title: Overview
+summary: Introducing the SilverStripe CMS administration interface.
+
 
 # Basic Overview
 
 The latest SilverStripe CMS administration panel, is arranged in four main sections, shown below:
 
-![SilverStripe3 Administration Panel](_images/Basic-Overview_2.jpg)
+![SilverStripe3 Administration Panel](/_images/Basic-Overview_2.jpg)
 
 ## Navigation tabs
 
@@ -51,4 +50,4 @@ The Page Management area (on the right hand side of the page) shows various data
 
 The Publishing bar on the bottom of the page allows you to save, delete, publish (make publicly available), unpublish or preview your work (published or draft versions).  The options for previewing the draft or the published site are shown on the bottom left of the page, when in preview mode.
 
-![SS3 Preview Options (Draft Site/ Published Site)](_images/preview-options.jpg)
+![SS3 Preview Options (Draft Site/ Published Site)](/_images/preview-options.jpg)
