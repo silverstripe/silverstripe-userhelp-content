@@ -1,6 +1,5 @@
-<!--
-pagenumber: 5
--->
+title: Blogging
+summary: Working with blogging and comments in SilverStripe CMS.
 
 # Blogs
 
@@ -21,7 +20,7 @@ pagenumber: 5
 
 On the top of the Contents pane, you will find a button marked "Create."  Click it, and a drop-down menu will show up. Select "Blog Holder."  Then hit the "Go" button.
 
-![Creating a new blog](_images/creating-a-blog.jpg)
+![Creating a new blog](/_images/creating-a-blog.jpg)
 
 You will notice that a new blog holder page has been created, with the name of "New Blogholder".
 
@@ -43,13 +42,13 @@ Below it, you will find the Navigation Label. This will define what the blog wil
 
 Finally, there is the Content box. In the content box, you can write a description of the blog's contents. This is optional but helps to eliminate ambiguity.
 
-![Naming your blog](_images/naming-your-blog.jpg)
+![Naming your blog](/_images/naming-your-blog.jpg)
 
 ### Creating a blog post
 
 To create a blog post, click on your Blog Holder page in the Page Tree in the site-tree Pane.  Then click the "Add new" button at the top of the the site tree pane.  Select "Blog Entry" from the pagetype list, and click "Create." This will create a new blog entry as a subpage of your blog holder page.  You may then edit the page like a normal page (see ["Creating and Editing Content"](creating-and-editing-content) for more details).
 
-![Creating a blog post](_images/creating-a-blog-post.jpg)
+![Creating a blog post](/_images/creating-a-blog-post.jpg)
  
 ### Enabling and disabling comments
 

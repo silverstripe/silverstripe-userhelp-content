@@ -1,7 +1,5 @@
-<!--
-pagenumber: 6
-title: Forms
--->
+title: Creating forms in the CMS
+summary: Working with the UserForms module to create drag and drop forms.
 
 # Forms
 In this section:
@@ -20,7 +18,7 @@ To create a new form, first decide where in the site you want your form to be. I
 
 On the top of the Contents Pane, you will find a button marked "Create." Click it, and a drop-down menu will show up. Select "User Defined Form" Then hit the "Go" button.
 
-![Create new form](_images/create-new-form.jpg)
+![Create new form](/_images/create-new-form.jpg)
 
 You will notice that a new page has been created, with the name of "New UserDefinedForm."
 
@@ -40,13 +38,13 @@ The purpose of this little block of text is to tell the website where in the pag
 
 If $UserDefinedForm is deleted by accident or on purpose, SilverStripe automatically puts the form at the end of all the content.
 
-![Form in content](_images/form-in-content.jpg)
+![Form in content](/_images/form-in-content.jpg)
 
 ## Adding fields
 
 To add a field to the form, click on the "Form" tab under the "Content" tab in the Editing Pane. Select the type of field you want to add from the drop-down menu and press the "Add" button. You can label any field by typing in the appropriate label field in the backend.
 
-![Adding fields](_images/add-fields.jpg)
+![Adding fields](/_images/add-fields.jpg)
 
 ### Field types
 
@@ -121,7 +119,7 @@ Click on the "Options" tab under the "Content" tab in the Editing Pane to access
 
 You can view submissions to the field by clicking on the "Submissions" tab on the content page of the CMS. By default, all submissions are stored in the CMS. You can disable saving submissions to the server by clicking the checkbox labeled "Disable Saving Submissions to Server."
 
-![Viewing submissions](_images/submissions.jpg)
+![Viewing submissions](/_images/submissions.jpg)
 
 ### When the form is completed
 

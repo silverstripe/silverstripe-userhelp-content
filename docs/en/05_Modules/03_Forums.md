@@ -1,7 +1,5 @@
-<!--
-pagenumber: 7
 title: Forums
--->
+summary: Setting up and running forums on your website.
 
 # Forums
 
@@ -25,17 +23,17 @@ Make sure you are in the "Pages" section on the navigation tabs in the Content M
 
 Click on the new "Forums" Forum Holder page. Now click the "Add new" button at the top of the "site tree" side-pane. Go ahead and select "Forum" from the list and then hit the "Create" button.
 
-![Add new forum](_images/new-forum.jpg)
+![Add new forum](/_images/new-forum.jpg)
 
 You will notice that a new forum page has been created, with the name of "New Forum". 
 
-![New forum created](_images/created-new-forum.jpg)
+![New forum created](/_images/created-new-forum.jpg)
 
 Once you have created the new forum page it should automatically open up the editing pane.
 
 If you head back to the pages pane you will also notice it has a yellow "losenge" saying "Draft" next to "New Forum". "Draft" pages are new and have never been published.
 
-![Draft forum](_images/draft-forum.jpg)
+![Draft forum](/_images/draft-forum.jpg)
 
 <div class="note" markdown="1">
 ### Notes:
@@ -57,19 +55,19 @@ Finally, there is the Content box. In the content box, you can write a descripti
 
 If you have many forums on your site, you may want to organise them by category. For example, if your website was about farming, and had a separate forums for each product, you may want to group them into categories, such as: Fruits, Veggies, Meat & Dairy, and Livestock.
 
-![Adding categories](_images/add-category.jpg)
+![Adding categories](/_images/add-category.jpg)
 
 To enable categories, click on the forum holder "Forums" in the left hand "PageTree" Pane. (The forum holder is the root page of all your forums.) In the Editing Pane, click on the "Content" tab, then "Settings". Check the box next to "Show forums in categories," and hit save.
 
-![Enable categories](_images/show-forum-category.jpg)
+![Enable categories](/_images/show-forum-category.jpg)
 
 To create categories, click on any of your site's forums in the Contents pane, and click on the "Category" tab on the editing pane. Click on Add Forum Category. This will bring up a pop-up menu where you can add a category title and set a priority for the category. Categories with a higher priority (100 is high, 1 is low) will be listed before lower priority categories. Hit Save. You may enter multiple categories at this time, by typing in additional category names and hitting Save after each one. When you are finished adding categories, close the window.
 
-![Create categories](_images/add-forum-category-fields.jpg)
+![Create categories](/_images/add-forum-category-fields.jpg)
 
 To sort forums into different categories, click on each forum you wish to sort in the Contents pane, and go to the "Category" tab in the Editing Pane on each one. Select the category you wish each forum to be in, in turn, and hit Save in the bottom right corner of the Editing pane. 
 
-![Sorting Forums into categories](_images/category-list.jpg)
+![Sorting Forums into categories](/_images/category-list.jpg)
 
 ### Creating New Topics (a.k.a. Threads)
 
@@ -122,7 +120,7 @@ To move a topic from one forum to another, browse to the topic in question, and 
 
 To administrate users, make sure you are in the CMS "backend" for administration, and press the "Security" navigation tab. This should give you a list of all the users that have registered on the forum or website. 
 
-![Administrating forum users](_images/forum-users.png)
+![Administrating forum users](/_images/forum-users.png)
 
 ### Deleting user accounts
 
@@ -132,15 +130,15 @@ To delete a user account, click on the red "X" icon next to the username for the
 
 To assign moderation responsibilities, click on the "edit" icon next to the username for the account. This will bring up the profile of the user.
 
-![Edit forum user](_images/edit-forum-user.jpg)
+![Edit forum user](/_images/edit-forum-user.jpg)
 
 Click on the "Forum" tab in the user profile, and change the "User Rating" drop-down menu to "Moderator." Hit Save.
 
-![User rating](_images/edit-user-forum-tab.jpg)
+![User rating](/_images/edit-user-forum-tab.jpg)
 
 Click on the "Moderated Forums" tab in the user profile, and place a checkmark next to any forums the user will be given moderation access to. Hit Save.
 
-![Moderated forums](_images/moderated-forums.jpg)
+![Moderated forums](/_images/moderated-forums.jpg)
 
 After you are done, click the "security" link in the breadcrumbs at the top of the screen and it will take you back to the list of users.
 
