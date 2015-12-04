@@ -174,6 +174,6 @@ You can also delete the file from here too. To do this click the delete button w
 
 By default, uploaded files are placed in the "Uploads" directory.
 
-If you place an image in a webpage, and later move or rename that image in "Files & Images," SilverStripe CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page. [Editor's Note: Isn't that awesome?]
+If you place an image in a webpage, and later move or rename that image in "Files and Images," SilverStripe CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page. [Editor's Note: Isn't that awesome?]
 </div>
 

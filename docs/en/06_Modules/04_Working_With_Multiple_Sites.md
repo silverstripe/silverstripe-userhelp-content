@@ -1,7 +1,5 @@
-<!--
-pagenumber: 8
 title: Working with multiple sites
--->
+summary: Setting up and editing multiple websites using SilverStripe
 
 # Working with multiple sites
 
@@ -20,7 +18,7 @@ title: Working with multiple sites
 * Make sure you have the SilverStripe Subsites module installed.
 * Make sure you are in the "Subsites" section on the Navigation Tabs. 
 * Make sure you have full administrative rights on your site.
- 
+
 ## Understanding subsites
 
 The SilverStripe Subsites module allows you to manage multiple related sites through a single CMS interface. Because all sites run on a single installation of SilverStripe, they can share users, content and assets. They can all use the same templates, or each use different ones.

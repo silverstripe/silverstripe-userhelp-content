@@ -2,7 +2,7 @@ title: Overview
 summary: Introducing the SilverStripe CMS administration interface.
 
 
-# Basic Overview
+# Overview
 
 The latest SilverStripe CMS administration panel, is arranged in four main sections, shown below:
 

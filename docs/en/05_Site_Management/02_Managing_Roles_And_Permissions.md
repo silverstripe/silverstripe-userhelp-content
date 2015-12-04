@@ -55,7 +55,7 @@ Click on the "Create" button to save the changes. Click the "Security" link in t
 
 A role can have any number of permissions.
 
-For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
+For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files and Images," (they can browse the "Files and Images section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
 </div>
  
 ## Editing roles
