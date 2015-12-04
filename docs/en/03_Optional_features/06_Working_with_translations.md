@@ -1,11 +1,9 @@
-<!--
-pagenumber: 8
 title: Working with translations
--->
+summary: Adding translated content to your website.
 
 # Working with translation
 
-![Translatable](_images/TranslatableImage.jpg)
+![Translatable](/_images/TranslatableImage.jpg)
 
 ## In this section:
 
@@ -35,29 +33,29 @@ To begin translating content select a page in your site tree from the "Pages" ad
 * The language drop down above your site tree - This allows you to select which translated pages to edit
 * The 'Translations' tab - This allows you to create a translated version of the selected page
 
-![Translatable Default Pages Form](_images/TranslatableInstalledDefault.jpg)
+![Translatable Default Pages Form](/_images/TranslatableInstalledDefault.jpg)
 
 ## Translating content
 
 To translate a selected page, click on the 'Translations' tab. 
 
-![Add Translation](_images/TranslatableCreateForm.jpg)
+![Add Translation](/_images/TranslatableCreateForm.jpg)
 
 Then select the desired language you want to translate the content into from the 'Language' drop down field.
 
-![Select language dropdown menu](_images/SelectlanguagetoCreate.jpg)
+![Select language dropdown menu](/_images/SelectlanguagetoCreate.jpg)
 
 Then click 'Create'.
 
 You will then be presented with a new site tree in the "Pages" admin containing a duplicated page for the language you selected:
 
-![Translated Site tree](_images/EnsureLangaugeSelect.jpg)
+![Translated Site tree](/_images/EnsureLangaugeSelect.jpg)
 
-![Translatable page](_images/TranslatedPage.jpg)
+![Translatable page](/_images/TranslatedPage.jpg)
 
 You can now edit this page's content with the desired translated content. You can enter translated content directly into each field of the page, for example you can enter translated content into the Page Name, Navigation Label and content fields.
 
-![Translatable page after content as been added](_images/TranslatedPageFinished.jpg)
+![Translatable page after content as been added](/_images/TranslatedPageFinished.jpg)
 
 Just like publishing your standard content, click 'Save & Publish' and you now have a translated version of the original page you selected.
 
@@ -66,8 +64,8 @@ Just like publishing your standard content, click 'Save & Publish' and you now h
 
 To translate your site title and settings, select 'Settings' from the left menu, then click the 'Translations' tab, then select the language from the list of existing languages you wish to edit.
 
-![Translatable settings](_images/SettingsJapanSelect.jpg)
+![Translatable settings](/_images/SettingsJapanSelect.jpg)
 
 You can then add your translated content into each field:
 
-![Translatable settings Japanese](_images/JapanSiteTitleandSettings.jpg)
+![Translatable settings Japanese](/_images/JapanSiteTitleandSettings.jpg)

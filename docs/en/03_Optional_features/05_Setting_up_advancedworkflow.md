@@ -1,7 +1,5 @@
-<!--
 title: Setting up AdvancedWorkflow
-pagenumber: 3
--->
+summary: How to set up publishing workflows in the CMS.
 
 # Setting up advanced workflow
 
@@ -38,7 +36,7 @@ You will need to configure the workflow in the ‘workflows’ admin interface. 
 1. Content Publishers can view and then reject or approve the change.
 1. An email is then sent to Content Authors to notify them of the rejection or that the content is to be published.
 
-![Flow diagram of advanced workflow objective](_images/advancedworkflow-review-and-approve.jpg)
+![Flow diagram of advanced workflow objective](/_images/advancedworkflow-review-and-approve.jpg)
 
 ### **Step 1. Set up user groups**
 CMS Administrators must first set up user groups to be configured in the Workflow, _see_ [http://userhelp.silverstripe.org/framework/en/for-website-administrators/changing-and-managing-users](http://userhelp.silverstripe.org/framework/en/for-website-administrators/changing-and-managing-users) _for setting up users and groups in the Secuirty admin_. 
@@ -51,7 +49,7 @@ For this example workflow we have the following user groups set up:
 
 You must ensure the above user groups have the following permissions checked:
 
-![Workflow permissions](_images/advancedworkflow-checked-permissions.jpg)
+![Workflow permissions](/_images/advancedworkflow-checked-permissions.jpg)
 
 Once your user groups are set, you can apply Workflow actions to these user groups. 
 
@@ -64,11 +62,11 @@ There is no default workflow in SilverStripe 3 since actual workflows vary great
 
 1. To create a Workflow Definition, select the _Workflows_ admin in the Left Hand Menu to show the Workflow administration.
 
-![Workflow CMS section](_images/advancedworkflow-modeladmin.jpg)
+![Workflow CMS section](/_images/advancedworkflow-modeladmin.jpg)
 
 2. Click on ‘Add Workflow Definition’ to bring up the Workflow form.
 
-![Add Workflow Definition](_images/advancedworkflow-workflowdefinition.jpg)
+![Add Workflow Definition](/_images/advancedworkflow-workflowdefinition.jpg)
 
 Enter:
 **Title**
@@ -106,7 +104,7 @@ This creates a Workflow Button on a page, which then assigns the workflow proces
 
 Next, add your transitions as in the below example, by clicking “Add Transition” on each action, setting a title and a "next Action":
 
-![Flow diagram of advanced workflow objective](_images/advancedworkflow-transitions.jpg)
+![Flow diagram of advanced workflow objective](/_images/advancedworkflow-transitions.jpg)
 
 As you can see in the above workflow, the “Approval” action is the decision point at which one of the two transitions to either Publish or Reject actions is selected.
 
@@ -119,7 +117,7 @@ The first is the workflow process itself, that is, which users will be restricte
 
 This is set via the Workflow Definition ‘Restrict to Users’ or ‘Restrict to Groups’ fields. In this example, we apply the workflow restrictions to Content Authors who wish to make content changes. Select "Content Authors" from the drop down.
 
-![Restrict to Users](_images/advancedworkflow-restrictworkflow.jpg)
+![Restrict to Users](/_images/advancedworkflow-restrictworkflow.jpg)
 
 Next, you must assign the correct users to each action. For example when a Content Author triggers the workflow, it is the Content Publishers who must then receive and action the next step in the workflow process. 
 
@@ -129,7 +127,7 @@ For this workflow action, select the Content Publishers Security group. These us
 
 Next, select the "Notify Publishers" action and fill out the "Notification Email". You can use several placeholders to create your email template. Set the from email, address, and subject fields. See the "Formatting Help" drop down for help.
 
-![Notify Publishers](_images/advancedworkflow-notifyuser.jpg)
+![Notify Publishers](/_images/advancedworkflow-notifyuser.jpg)
 
 Repeat these steps for the other actions (assign and notify) but this time setting the user to the "Initiator".
 
@@ -144,4 +142,4 @@ Now that you have a Workflow, it must be assigned to a page.
 3. Select the ‘Workflow’ tab
 4. Select the desired workflow from the ‘Applied Workflow’ drop down
 
-![Apply workflow](_images/advancedworkflow-applyworkflow.jpg)
+![Apply workflow](/_images/advancedworkflow-applyworkflow.jpg)
