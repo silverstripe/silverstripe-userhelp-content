@@ -107,7 +107,7 @@ In addition, you may also want to add title text for your image. Title text is f
 
 Mark up your headings by selecting the right heading style from the Format dropdown. Using headings properly gives your content hierarchy and, for example, allows users with screen readers to skip ahead to the next heading. Note that Heading 1 will be the title of your page, and all lower-level headings should be nested properly (e.g., Heading 3 should be within a Heading 2 section, etc.)
 
-![Headings](_images/headings.png)
+![Headings](/_images/headings.png)
 
 If your content uses lists, select either bullets (unordered list) or numbers (ordered list) - don't use dashes or asterisks to mark up lists.
 
