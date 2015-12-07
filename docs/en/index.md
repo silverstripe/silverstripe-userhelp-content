@@ -1,6 +1,7 @@
 title: SilverStripe CMS user help guide
 introduction: Help for SilverStripe CMS content editors and website administrators.
 
+# SilverStripe CMS user help guide
 This site is a user-focused reference targeted at editors and administrators who create and manage content on SilverStripe CMS websites. 
 This guide applies to version 3.0 of the CMS.
 
@@ -13,5 +14,11 @@ and visit our [developer documentation](https://docs.silverstripe.org).
 
 Customers of SilverStripe Ltd., the company behind the CMS, should visit [silverstripe.com](https://www.silverstripe.com/).
 
-## Get started managing your website
-[CHILDREN]
+## Managing your website
+[CHILDREN Folder=01_Managing_your_website]
+
+## Creating pages and content
+[CHILDREN Folder=02_Creating_pages_and_content]
+
+## Optional features
+[CHILDREN Folder=03_Optional_features]

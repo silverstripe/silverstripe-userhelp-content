@@ -1,8 +1,8 @@
-title:  Advanced and optional features
+title: Optional features
 summary: This section includes optional modules that add extra features to a SilverStripe CMS website.
 introduction: This section includes optional modules that add extra features to a SilverStripe CMS website.
 
-# Advanced and optional features
+# Optional features
 
 SilverStripe CMS can be highly customised using many of the modules listing in the [SilverStripe CMS module catalogue](https://addons.silverstripe.org). 
 This section highlights some of the CMS features provided by the [SilverStripe CMS supported modules](https://www.silverstripe.org/software/addons/supported-modules-definition/). 
