@@ -21,7 +21,7 @@ On the login page, enter your login (usually your e-mail address) and password. 
 
 *Page viewable by browsing to http://www.mysite.com/admin*
 
-![Login to SilverStripe CMS](_images/general-login.png)
+![Login to SilverStripe CMS](/_images/general-login.png)
 
 <div class="note" markdown="1">
 If you select "Remember me next time?," the login fields will prepopulate the next time you log into the CMS. Only use this option on a computer where you alone have access.

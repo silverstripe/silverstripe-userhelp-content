@@ -18,11 +18,11 @@ summary: Managing users access in the CMS administration interface.
 
 You can create a user by clicking on the "Users" tab in the Editing Pane and then clicking on the "Add Member" button, which takes you to the "New Member" pane.
 
-![Add new user](/_images/users-add-member.jpg)
+![Add new user](/_images/users-add-member.png)
 
 Here, in the Main tab in the "New Member" pane, you can edit the user's details. The two most important parts of the user details are the user's email (which is also used for loginng in) and password.
 
-![User details](/_images/user-details.jpg)
+![User details](/_images/user-details.png)
 
 If you have a forum, you can alter administrative settings for forums, grant administrative access for the forum as a whole from the "Forum" tab, and assign users moderation powers over specific forums from the "Moderated Forums" tab. You can also assign the user to one or more security groups from the Groups tab (Security groups are covered below).
 
@@ -30,7 +30,7 @@ If you have a forum, you can alter administrative settings for forums, grant adm
 
 You can edit or delete a user by clicking on the "Edit" or "Delete" icons to the right of the user's entry. 
 
-![Managing and deleting users](/_images/edit-delete-user.jpg)
+![Managing and deleting users](/_images/edit-delete-user.png)
 
 <div class="note" markdown="1"> 
 ### Notes:
@@ -44,4 +44,4 @@ To change a user's password, find the user under the "Users" tab in the Security
 
 Underneath the Email field in the User Details, there is a Change Password link. This will open up a password field and a confirm password field.  Change the password and confirm it (both must match) and hit "Save" on the bottom of the "Edit Member" pane.
 
-![Changing a user's password](/_images/change-password.jpg)
+![Changing a user's password](/_images/change-password.png)

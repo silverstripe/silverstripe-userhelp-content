@@ -18,7 +18,7 @@ There are two ways to upload images: on-the-fly, while you're editing a page, or
 
 The simplest way to insert an image stored on your local hard drive into a webpage is to go to that webpage in the Pages tab, and click the "Insert Images" button on the toolbar in the Editing Pane. (It's the picture of the little tree). This will bring up the insert/edit images pop up.
 
-![Insert images](_images/insert-Images.png) 
+![Insert images](/_images/insert-images.png) 
 
 ** Sample Image: **
 
@@ -85,7 +85,7 @@ To upload images to the CMS, head to "Files" in the Navigation on the left side 
 You should see a list of all of the files (and folders containing files) that have been uploaded to the CMS, where the Editing pane would normally be.
 Before you upload your images/files, create a new folder (See the section below on [Managing Files](working-with-images-and-documents/#managing-files)) to put your images in or click on the folder you would like the images to be uploaded to. To upload a file or image, click on the "Upload" button located above the list of files. This will take you to the upload files pane.
 
-![Files selection](_images/files-section.png) 
+![Files selection](/_images/files-section.png) 
 
 From the upload files page, click on the "Choose File(s) to upload" button to choose your first file to upload or drag your files into the "Drop Area" (this will automatically start the upload).
 
