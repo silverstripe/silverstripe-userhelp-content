@@ -61,12 +61,7 @@ Finally, the "Insert Horizontal Ruler" button will insert a horizontal line on t
 
 There is one other button that needs explanation.  That is the button marked "HTML." If you want to go in and edit the source code of the page directly, pressing the HTML button will bring up the HTML source of the page.  It is recommended that you only do this if you have a good knowledge of HTML formatting. This can be useful when you need to directly add some source code to a page, for example, when embedding YouTube videos. 
 
-<<<<<<< HEAD
-<div class="note" markdown="1"> 
-Cutting & pasting from a Word Processor:
-=======
 ### Cutting and pasting from a Word Processor
->>>>>>> b039a4f... misc text/image fixes for content, added links
 
 You may want to bring some text you have already written on a word processor, such as Microsoft Word into your page content.
 
@@ -111,13 +106,9 @@ If you enter in an internal link URL in the external link field, SilverStripe CM
 To link to an e-mail address, choose "Email Address" from the list of options.  You can then paste or type in the e-mail address that you would like to link to, in the 'Details' field provided.  Then, to insert the link, click the 'Insert link' button.
 
 <div class="note" markdown="1"> 
-<<<<<<< HEAD
-One other option is to hyperlink to a document (a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage) that you have uploaded to your website. This is a more advanced topic, however, and we will cover it in "[Working with Images and Documents](working-with-images-and-documents)."
-=======
 ### Notes:
 
 One other option is to hyperlink to a document  that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. This is a more advanced topic, however, and we will cover it in "[Working with Images](working-with-images-and-documents)."
->>>>>>> b039a4f... misc text/image fixes for content, added links
 </div>
  
 ## Saving your page as a draft
