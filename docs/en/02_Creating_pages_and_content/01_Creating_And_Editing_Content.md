@@ -25,7 +25,7 @@ To manage and edit any of the existing pages of the site, select the page from t
 <div class="note" markdown="1"> 
 ### Notes:
 
-Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](managing-your-site)." 
+Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](/managing_your_website)." 
 </div>
  
 ## Writing content
@@ -113,7 +113,7 @@ To link to an e-mail address, choose "Email Address" from the list of options.  
 <div class="note" markdown="1"> 
 ### Notes:
 
-One other option is to hyperlink to a document (a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage) that you have uploaded to your website. This is a more advanced topic, however, and we will cover it in "[Working with Images and Documents](working-with-images-and-documents)."
+One other option is to hyperlink to a document (a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage) that you have uploaded to your website. This is a more advanced topic, however, and we will cover it in "[Working with Images and Documents](https://userhelp.silverstripe.org/en/3.0/creating_pages_and_content/working_with_images_and_documents/)."
 </div>
  
 ## Saving your page as a draft
