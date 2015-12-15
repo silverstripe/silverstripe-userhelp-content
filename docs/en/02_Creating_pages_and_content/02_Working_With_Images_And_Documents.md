@@ -153,7 +153,7 @@ To search for an image, type the whole or partial filename in the "Search" field
 
 ![Searching for files](/_images/search-files.png)
 
-## Moving, deleting and Renaming images and documents
+## Moving, deleting, renaming images and documents
 
 Locate the file you wish to edit, (you may need to use the search filter if there are a large number of images in the folder). To edit the location or details of a document, click the edit icon in the actions column to the right of the file listing. This will bring up the file details pane. If you wish to delete a file, simply click the delete icon in the actions column to the right of the file listing.
 
