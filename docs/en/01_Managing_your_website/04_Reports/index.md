@@ -9,9 +9,9 @@ This section shows reports for your site. This will depend on which version of S
 ## Default reports
 
 These are avaliable as part of the default installation of SilverStripe:
-* *VirtualPages pointing to deleted pages*
+* *[VirtualPages](creating_pages_and_content/pages/#basic-pages) pointing to deleted pages*
 * *Pages with broken files*
-* *RedirectorPages pointing to deleted pages*
+* *[RedirectorPages](creating_pages_and_content/pages/#basic-pages) pointing to deleted pages*
 * *Broken links report*
 * *Pages with no content*
 * *Pages edited in the last 2 weeks*
