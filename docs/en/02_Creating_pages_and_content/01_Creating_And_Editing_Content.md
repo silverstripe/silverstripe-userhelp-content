@@ -62,20 +62,17 @@ Finally, the "Insert Horizontal Ruler" button is used to insert a horizontal lin
 
 There is one other button that needs explanation: the button marked "HTML." If you want to go in and edit the source code of the page directly, pressing the HTML button will bring up the HTML source of the page.  It is recommended that you only do this if you have a good knowledge of HTML formatting. This can be useful when you need to directly add some source code to a page, for example, when embedding YouTube videos. 
 
-<div class="note" markdown="1"> 
-### Notes:
+### Cutting and pasting from a Word Processor
 
-** Cutting and pasting from a Word Processor **
 You may want to bring some text you have already written on a word processor, such as Microsoft Word into your page content.
 
 Generally, you can paste any text from a "plain text editor" such as Notepad.exe on Windows systems, TextEdit.app on Macintosh systems, and gEdit on Ubuntu Linux, et al.
 
 Pasting directly from most word processors or other application often inserts bits of "rich text" formatting code that usually doesn't work well with the HTML markup code used on Websites. SilverStripe offers two solutions to this problem.
 
-The first is "Paste as Text." [Screenshot].  Paste As Text removes all formatting from copied text before adding it to the website.
+The first is ** Paste as Text **, it removes all formatting from copied text before adding it to the website.
 
-The second is "Paste from Word," where SilverStripe takes the "rich text" formatting code from Microsoft Word, and translates that into HTML markup code. However, this only works with Microsoft Word, and not with other word processors such as OpenOffice.org, Word Perfect, or Apple Pages.  
-</div>
+The second is ** Paste from Word **, where SilverStripe takes the "rich text" formatting code from Microsoft Word, and translates that into HTML markup code. However, this only works with Microsoft Word, and not with other word processors such as OpenOffice.org, Word Perfect, or Apple Pages.  
  
 ## Describing your content
 
@@ -87,12 +84,13 @@ In the lower portion of the Page Management section, beneath the Content Box for
 
 To create a hyperlink in a webpage, highlight the text you wish to make a link in the Editing Pane, and press the "Insert Link" button on the toolbar.  This will bring up the Link sidebar on the right side of the screen.
 
-SilverStripe3 Content Editing (creating hyperlinks)
-Creating a link to another page on the site
+![SilverStripe3 Content Editing (creating hyperlinks)](/_images/hyperlinks.jpg)
+
+## Creating a link to another page on the site
 
 To link to another page on the site, choose "Page on the Site" from the list of options pop-up box that follows clicking the 'insert link' button.  You can then select the page you want to link to from the drop-down box.  Then, to confirm your action, click the "Insert Link" button.
 
-![SilverStripe3 Content Editing (link options)](/_images/hyperlinks.jpg)
+![SilverStripe3 Content Editing (link options)](/_images/link-options.jpg)
 
 ## Creating a link to an external page
 
@@ -113,7 +111,7 @@ To link to an e-mail address, choose "Email Address" from the list of options.  
 <div class="note" markdown="1"> 
 ### Notes:
 
-One other option is to hyperlink to a document  that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. This is a more advanced topic, however, and we will cover it in "[Working with Images .ts](working-with-images-and-documents)."
+One other option is to hyperlink to a document  that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. This is a more advanced topic, however, and we will cover it in "[Working with Images](working-with-images-and-documents)."
 </div>
  
 ## Saving your page as a draft
@@ -124,7 +122,9 @@ To save your page as a draft, simply hit the "Save draft" button (not the "Save 
 
 After you save your page as a draft, you can preview the page by clicking on "Preview" in the Publishing Bar. 
 
-**Remember to save early and often.**  
+<div class="note" markdown="1"> 
+**Remember to save early and often.**
+</div>
 
 ## Publishing your page, or submitting your page for publication:
 
