@@ -18,7 +18,7 @@ There are two ways to upload images: on-the-fly, while you're editing a page, or
 
 The simplest way to insert an image stored on your local hard drive into a webpage is to go to that webpage in the Pages tab, and click the "Insert Images" button on the toolbar in the Editing Pane. (It's the picture of the little tree). This will bring up the insert/edit images pop up.
 
-![Insert images](/_images/insert-images.png) 
+![Insert images](/_images/insert-Images.png) 
 
 ** Sample Image: **
 
