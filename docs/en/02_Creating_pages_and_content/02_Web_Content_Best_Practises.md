@@ -35,15 +35,17 @@ When you first create a new page, start by entering its name in the Page name fi
 
 Why should you care? It's useful to know where and how the different names are displayed.
 
-![Page Title](/_images/Page-Title.png)
+![Page names](/_images/page-names.jpg)
 
-![Meta Description](/_images/Meta-Description.png)
+![Meta titles](/_images/meta-title.jpg)
 
-* The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content, and is also used for the browser title.
-* The **URL Segment** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilveStripe CMS generates will be fine, but you can manually change it if necessary.
+* The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
+* The **URL** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilveStripe CMS generates will be fine, but you can manually change it if necessary.
 
 <div class="note" markdown="1">
+### Notes:
+
 Your website developer will have configured your SilverStripe site for either simple or hierarchical URLs.
 
 Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be http://website.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
@@ -55,36 +57,29 @@ In this case, it's a good idea to manually change the URLs to something more mea
 Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be http://website.com/offices/new-york/staff/john-smith
 </div>
  
-### Meta description field
+### Meta tags
 
-Meta tags also make your web page more findable. The Description meta attribute
-should contain a concise and relevant summary of what the page contains. This
-will show in search engine results, and helps visitors understand the content
-of the page.
+Meta tags also make your web page more findable. The Description meta attribute should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
+
+<div class="note" markdown="1">
+### Notes:
+
+The meta fields for title and keywords have been removed in v3.1. Keyword have been removed due after an official Google press release which confirmed that Google doesn't use the keywords tag anymore (see [link](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
+
+Google doesn’t like repetition of keywords and phrases in the description. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
+</div>
 
 ### Clean HTML
 
-SilverStripe CMS generates clean HTML code when you type your content into the
-CMS. However, often you already have content in another format, such as Microsoft
-Word, which you need to simply transfer into the CMS.
+SilverStripe CMS generates clean HTML code when you type your content into the CMS. However, often you already have content in another format, such as Microsoft Word, which you need to simply transfer into the CMS.
 
-Avoid cutting and pasting directly from a word processor with the standard cut
-and paste functions. Always "Paste from Word" if using Microsoft Word, or
-"Paste as Text" if using another word processor. Word processors tend to do
-poor jobs of creating web markup code and often insert extraneous code which
-make your site less search-engine friendly and accessible.
+Avoid cutting and pasting directly from a word processor with the standard cut and paste functions. Always "Paste from Word" if using Microsoft Word, or "Paste as Text" if using another word processor. Word processors tend to do poor jobs of creating web markup code and often insert extraneous code which make your site less search-engine friendly and accessible.
 
 ## Making your content accessible
 
 ### Why does accessibility matter?
 
-An accessible website means that it can be viewed by the widest audience
-possible. Accessibility not only refers to people with physical disabilities
-(such as blind users), but also people with cognitive, learning or motor
-skills disabilities, and people who access your site with mobile devices or old,
-outdated technology. Lastly, as mentioned previously, search engines can be
-considered disabled users in the sense that they can't' see your design or
-images or interact with your site.
+An accessible website means that it can be viewed by the widest audience possible. Accessibility not only refers to people with physical disabilities (such as blind users), but also people with cognitive, learning or motor skills disabilities, and people who access your site with mobile devices or old, outdated technology. Lastly, as mentioned previously, search engines can be considered disabled users in the sense that they can't' see your design or images or interact with your site.
 
 Accessibility is important for a number of reasons:
 
