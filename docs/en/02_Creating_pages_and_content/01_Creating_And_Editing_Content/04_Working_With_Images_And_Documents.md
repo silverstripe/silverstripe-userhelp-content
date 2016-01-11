@@ -30,7 +30,7 @@ This same process can be used for filetypes other than images as well, which we 
 
 Once you have uploaded an image, you can insert it into any page.  Make sure the page you want to add the image to is in the Editing Pane, then click on the "Insert Images" button. 
 
-![Inserting uploaded images](/_images/insert-images.png) 
+![Inserting uploaded images](/_images/insert-Images.png) 
 
 This should bring up the insert image pop up. Click on the "From the CMS" tab and you should see a list of files. If you do not see the image you want, it may be in another folder.  You can choose which folder you would like to view by clicking on the "Folder" drop-down box above the list of files. Additionally, you can use the provided search box to search by the image's filename.
 
