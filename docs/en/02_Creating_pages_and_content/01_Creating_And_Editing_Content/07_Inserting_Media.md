@@ -15,7 +15,7 @@ summary: Adding video and other media to your content.
 
 ## Embedding
 
-To add a media suh as video into a page, you should first upload it to a video hosting service such as YouTube or Vimeo. This means they will take care of everything involved in insuring the video will play on a wide range of devices such as computers, tablets & smartphones.
+To add a media such as video into a page, you should first upload it to a video hosting service such as YouTube or Vimeo. This means they will take care of everything involved in insuring the video will play on a wide range of devices such as computers, tablets & smartphones.
 
 YouTube allows you to mark a video as **Unlisted** so that it will not appear on YouTube.com search results etc. Also adverts shall **not** be displayed on your video unless you enable that option from within YouTube.
 
