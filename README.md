@@ -8,10 +8,10 @@ Requires the [docsviewer](https://github.com/silverstripe/silverstripe-docsviewe
 
 ## License
 
-[CC Attribution-Noncommercial-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+[CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
 ## Thanks
-
+Thanks to James Cocker ([purplespider](https://github.com/purplespider)) for vast content contributions to the user help guide.
 Thanks to Brian Boyko for authoring the 2.4 guide.
 Thanks to the following people for helping us beta test:
 Fred Condo, Anita Graham, [Nigel Vining](http://www.greenskate.co.nz/), Stephen Metcalfe, 
