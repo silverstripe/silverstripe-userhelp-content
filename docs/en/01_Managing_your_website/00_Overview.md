@@ -8,11 +8,6 @@ The latest SilverStripe CMS administration panel is arranged in four main sectio
 
 ![SilverStripe3 Administration Panel](/_images/basic-overview.png)
 
-## Navigation tabs
-
-The Navigation Tabs (found on the far left of the page) allow you to navigate to the main sections of the SilverStripe CMS. Here, you can choose to manage pages or files and images, run reports or manage security, adjust site settings and even get help.  Some modules and options add additional navigation tabs. Click on the relevant tab to display the associated information in the current window.
-
-Specific tabs may change depending on what modules are installed. However, the following tabs are part of a typical SilverStripe installation:
 
 ### Pages
 
