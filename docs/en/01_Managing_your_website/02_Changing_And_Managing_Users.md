@@ -24,8 +24,6 @@ Here, in the Main tab in the "New Member" pane, you can edit the user's details.
 
 ![User details](/_images/user-details.png)
 
-If you have a forum, you can alter administrative settings for forums, grant administrative access for the forum as a whole from the "Forum" tab, and assign users moderation powers over specific forums from the "Moderated Forums" tab. You can also assign the user to one or more security groups from the Groups tab (Security groups are covered below).
-
 ## Managing and deleting users
 
 You can edit or delete a user by clicking on the "Edit" or "Delete" icons to the right of the user's entry. 
