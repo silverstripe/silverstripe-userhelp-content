@@ -24,7 +24,7 @@ Roles are collections of permissions.  For example, you might create an editor r
 
 Security groups are collections of users, and whatever permissions they have apply to a subset of pages. So, for example, the marketing team could have access to the parts of the website dealing with marketing, and the development team could have access to the parts of the website dealing with development.
 
-One of the ways that the two can be used together is to assign similar roles to different groups.  You only need to define an "editor" role once, but by applying the "editor" role to different groups with different access to different pages, so if you assigned the "editor" role to both the marketing team and development team security groups, the marketing team would be able to edit the marketing pages, and the development team would be able to edit the development pages, but they would not be able to edit each other's pages.
+One of the ways that the two can be used together is to assign similar roles to different groups.  You only need to define an "editor" role once, but by applying the "editor" role to different groups with different access to different pages, so if you assigned the "editor" role to both the marketing team and development team security groups, the marketing team would be able to edit the marketing pages, and the customer support team would be able to edit the customer enquiry pages, but they would not be able to edit each other's pages.
 
 As a general rule of thumb, Roles define what can be done, and Security Groups define who can do it, and where.
 
@@ -44,7 +44,7 @@ To set up roles, click on the "Roles" tab in the "Security" Pane.
 
 ![The roles pane](/_images/roles-pane.jpg)
 
-Click on "Add Role." A pop-up dialog should prompt you for information ont the role, including the title of the role.  Select the appropriate permissions from the Permissions checklist. Hover over a permission to see more information about it as a tooltip.
+Click on "Add Role." A pop-up dialog should prompt you for information on the role, including the title of the role.  Select the appropriate permissions from the Permissions checklist. Hover over a permission to see more information about it as a tooltip.
 
 ![Creating roles](/_images/creating-roles.jpg)
 
