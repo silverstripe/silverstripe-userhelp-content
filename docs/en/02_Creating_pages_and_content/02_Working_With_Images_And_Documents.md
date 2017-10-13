@@ -85,6 +85,7 @@ Once you are done press "Insert" to adjust the embedded media.
 To upload images to the CMS, head to "Files" in the Navigation on the left side of the page. (Be sure to save any page you are working on in the editing page to a draft before doing so, otherwise you may lose any changes you have made since the last save).
 
 You should see a list of all of the files (and folders containing files) that have been uploaded to the CMS, where the Editing pane would normally be.
+
 Before you upload your images/files, create a new folder (See the section below on [Managing Files](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#managing-files)) to put your images in or click on the folder you would like the images to be uploaded to. To upload a file or image, click on the "Upload" button located above the list of files. This will take you to the upload files pane.
 
 ![Files selection](/_images/files-section.jpg) 
