@@ -20,11 +20,9 @@ You can create a user by clicking on the "Users" tab in the Editing Pane and the
 
 ![Add new user](/_images/users-add-member.png)
 
-Here, in the Main tab in the "New Member" pane, you can edit the user's details. The two most important parts of the user details are the user's email (which is also used for loginng in) and password.
+Here, in the Main tab in the "New Member" pane, you can edit the user's details. The two most important parts of the user details are the user's email (which is also used for logging in) and password.
 
 ![User details](/_images/user-details.png)
-
-If you have a forum, you can alter administrative settings for forums, grant administrative access for the forum as a whole from the "Forum" tab, and assign users moderation powers over specific forums from the "Moderated Forums" tab. You can also assign the user to one or more security groups from the Groups tab (Security groups are covered below).
 
 ## Managing and deleting users
 

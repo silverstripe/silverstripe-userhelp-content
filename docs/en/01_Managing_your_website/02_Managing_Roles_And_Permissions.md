@@ -16,13 +16,15 @@ Learn how to restrict access by IP address
 
 * Make sure you are in the "Security" section on the navigation tabs.
 
+![Security tab main view](/_images/security_pane_main_view.png)
+
 ## Explaining security groups and roles
 
 Instead of assigning individual permissions to access, create, edit, or delete content per user, you can use Security Groups and Roles to organise what accounts have which permissions.  
 
 Roles are collections of permissions.  For example, you might create an editor role to give a group read/write access to all content, or a "contributor" role who has the right to add content to the CMS but not to publish it, or a "spectator" role which gives a person a right to view the backend of the CMS, but not any ability to edit it.
 
-Security groups are collections of users, and whatever permissions they have apply to a subset of pages. So, for example, the marketing team could have access to the parts of the website dealing with marketing, and the development team could have access to the parts of the website dealing with development.
+Security groups are collections of users, and whatever permissions they have apply to a subset of pages. So, for example, the marketing team could have access to the parts of the website dealing with marketing, and the customer support team could have access to the parts of the website dealing with customer queries.
 
 One of the ways that the two can be used together is to assign similar roles to different groups.  You only need to define an "editor" role once, but by applying the "editor" role to different groups with different access to different pages, so if you assigned the "editor" role to both the marketing team and development team security groups, the marketing team would be able to edit the marketing pages, and the development team would be able to edit the development pages, but they would not be able to edit each other's pages.
 

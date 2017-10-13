@@ -17,7 +17,7 @@ Open your web browser. (It is best to use the latest version of your browser for
 
 To get to the login page for the site administration, type in your website address, and add "/admin" to the end.  For example, if your website was http://www.yoursite.com/, your login page would be found at http://www.yoursite.com/admin.  
 
-On the login page, enter your login (usually your e-mail address) and password.  This will take you to the CMS main screen. 
+On the login page, enter your login (usually your email address) and password.  This will take you to the CMS main screen. 
 
 *Page viewable by browsing to http://www.mysite.com/admin*
 
