@@ -20,7 +20,7 @@ You can create a user by clicking on the "Users" tab in the Editing Pane and the
 
 ![Add new user](/_images/users-add-member.jpg)
 
-Here, in the Main tab in the "New Member" pane, you can edit the user's details. The two most important parts of the user details are the user's email (which is also used for loginng in) and password.
+Here, in the Main tab in the "New Member" pane, you can edit the user's details. The two most important parts of the user details are the user's email (which is also used for logging in) and password.
 
 ![User details](/_images/user-details.jpg)
 
