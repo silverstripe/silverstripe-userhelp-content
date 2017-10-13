@@ -16,7 +16,7 @@ Learn how to restrict access by IP address
 
 * Make sure you are in the "Security" section on the navigation tabs.
 
-![Security tab main view](/_images/securitypanemainview.png)
+![Security tab main view](/_images/security_pane_main_view.png)
 
 ## Explaining security groups and roles
 
