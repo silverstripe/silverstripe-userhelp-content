@@ -52,14 +52,17 @@ The Page Management area is on the right of the page and shows various data rela
 
 ## Publishing Bar
 
-The Publishing bar on the bottom of the page allows you to save, delete, publish (make publicly available), unpublish or preview your work (published or draft versions).  The options for previewing the draft or the published site are shown on the bottom left of the page when in preview mode.
+The Publishing bar on the bottom of the page allows you to save, delete, publish (make publicly available) or add a page to a Campaign. 
 
-![SS4 Preview Options (Draft Site/ Published Site)](/_images/preview-options.png)
+![SS4 Publishing Options (Draft Site/ Published Site)](/_images/publishing-options.png)
+
+Options for previewing the draft or the published site are shown on the bottom right of the page when in preview mode using the mode switcher.
 
 ## Mode switcher
-You can review content changes in different ways, either as a side-by-side preview in “Split mode” or as a full screen preview in “Preview mode”. 
+You can review content changes in different ways, including editing mode, a side-by-side preview in “Split mode” or as a full screen preview in “Preview mode”. 
 
 ![SS4 Mode Switcher (Split/Preview/Edit modes)](/_images/mode_switcher.png)
+![SS4 Mode Switcher (Split/Preview/Edit modes)](/_preview-options.png)
 
 These options are described in more detail: 
 [Previewing content changes](https://userhelp.silverstripe.org/en/3.6/creating_pages_and_content/creating_and_editing_content/previewing_changes/)
