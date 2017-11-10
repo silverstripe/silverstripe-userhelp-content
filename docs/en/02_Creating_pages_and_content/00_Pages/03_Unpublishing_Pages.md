@@ -6,7 +6,7 @@ introduction: If you wish to temporarily remove a page from the live site, for e
 
 ## Quick Reminder
 
- 1. Click on ![more options](/_images/more-options.png)
+ 1. Click on ![more options](/_images/more-options.png) at the bottom
  2. Click on ![unpublish link](/_images/unpublish-link.png)
 
 ## Unpublish
@@ -22,7 +22,7 @@ As soon as you wish to republish the page to the live site again, simply click o
 
 Pages that exist on the Draft site, but are not yet on the live site, shall be marked with a ![draft label](/_images/draft-label.png) label in the site tree.
 
-Note: When in editing mode, only labels for the current page are displayed in the Site Tree. To view labels for all other pages, you must click on the ![pages tab single](/_images/pages-tab-single.png) tab, or on the ![edit tree button](/_images/edit-tree-button.png) button.
+Note: When in editing mode, only labels for the current page are displayed in the Site Tree. To view labels for all other pages, you must click on the ![pages tab single](/_images/pages-tab-single.png) tab.
 
 When you create a new page, it shall exist only on the Draft site, until you click on the save ![save publish](/_images/save-publish.png).
 
