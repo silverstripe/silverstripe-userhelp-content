@@ -7,18 +7,16 @@ summary: Performing actions on multiple pages at once.
 
 To publish multiple pages, you can follow the same steps as in the archiving multiple pages step.
 
-When viewing the tree, select "Publish" from the batch actions dropdown.
+When viewing the tree, select "Publish" from the Batch actions dropdown.
 Check all the pages you want to publish, and then click the go button next to the drop-down.
 
 ### Archiving multiple pages
 
-To archive or unpublish multiple pages, you can use the bulk action tool on the
-"Pages" pane. This can be accessed either by clicking "Pages" in the main menu
-or "Edit Tree" when editing a page.
+To archive or unpublish multiple pages, you can use the Batch actions tool on the
+"Pages" pane. This can be accessed by clicking "Pages" in the main menu.
 
-From the "Actions" drop-down menu at the top of the "Pages" pane, choosing
-"Archive" or "Unpublish". Available pages for the select action will have a checkbox
-disabled beside them.
+From the "Actions" drop-down menu at the top of the "Pages" pane, choose
+"Unpublish and archive" or "Unpublish". Available pages for the select action will have a tickable checkbox beside them.
 
 Select any number of pages, and then press "Go" to perform the selected action.
 
