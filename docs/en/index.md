@@ -3,7 +3,7 @@ introduction: Help for SilverStripe CMS content editors and website administrato
 
 # SilverStripe CMS user help guide
 This site is a user-focused reference targeted at editors and administrators who create and manage content on SilverStripe CMS websites.
-This guide applies to version 4.0 of the CMS.
+This guide applies to version 4.x of the CMS (all releases in the SilverStripe 4 release line).
 
 This user help also covers a number of [modules](https://addons.silverstripe.org)
 which may or may not be installed for your site. Refer to the intro for each chapter to find out the prerequisites for using a feature.
