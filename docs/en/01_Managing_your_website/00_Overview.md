@@ -22,7 +22,7 @@ This section enables you to access and edit the content of the pages on your web
 
 This section allows you to create and group new content together to be released all at once. For example, this might include several pages, images and blocks of content on existing pages that need to be published at the same time across your website for a promotion.
 
-### Files 
+### Files
 
 This section allows you to add or delete files and to synchronise your view with the actual files on the server.  You can also organise your files into folders.
 
@@ -52,21 +52,16 @@ The Page Management area is on the right of the page and shows various data rela
 
 ## Publishing Bar
 
-The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign. 
+The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
 
 ![SS4 Publishing Options (Draft Site/ Published Site)](/_images/publishing-options.png)
 
 Options for previewing the draft or the published site are shown on the bottom right of the page when in preview mode using the mode switcher.
 
 ## Mode switcher
-You can review content changes in different ways, including editing mode, a side-by-side preview in “Split mode” or as a full screen preview in “Preview mode”. 
+You can review content changes in different ways, including editing mode, a side-by-side preview in “Split mode” or as a full screen preview in “Preview mode”.
 
-![SS4 Mode Switcher (Split/Preview/Edit modes)](/_images/mode_switcher.png)
+![SS4 Mode Switcher (Split/Preview/Edit modes)](/_images/Preview-Bar.png)
 
-![SS4 Mode Switcher (Preview options)](/_preview-options.png)
-
-These options are described in more detail: 
+These options are described in more detail:
 [Previewing content changes](https://userhelp.silverstripe.org/en/3.6/creating_pages_and_content/creating_and_editing_content/previewing_changes/)
-
-
-
