@@ -6,7 +6,7 @@ summary: If you archived a page, and then later changed your mind, don't worry, 
 ## Quick Reminder
 
  1. Go to the main ![pages tab single](/_images/pages-tab-single.png) tab.
- 2. Click on ![filter closed](/_images/filter-closed.png)
+ 2. Click on ![filter closed](/_images/filter.png)
  3. Click on the **Pages** dropdown
  4. Select **All pages, including archived**
  5. Click ![apply filter button](/_images/apply-filter-button.png)
@@ -19,7 +19,7 @@ You can then click on Clear Filter above the site tree to hide the archived page
 ## Recovering archives
 
  1. Go to the main **Pages** tab, by clicking ![pages tab single](/_images/pages-tab-single.png) on the left.
- 2. In between the column of tabs on the left and the site tree of pages on the right, you'll see a narrow column containing ![filter closed](/_images/filter-closed.png) 
+ 2. In between the column of tabs on the left and the site tree of pages on the right, you'll see a narrow column containing ![filter button](/_images/filter.png)
  3. **Click in this column to expand it**. This form allows you to filter which pages are displayed in the site tree to the right.
  4. Click in the **Pages** dropdown that will currently say **All pages**.
  5. Select the option labelled **All pages, including archived** from the dropdown.
@@ -31,4 +31,3 @@ You can then click on Clear Filter above the site tree to hide the archived page
 You can then click on the Clear Filter link above the site tree to hide the other archived pages again.
 
 <div class="note" markdown="1">If after clicking on Clear Filter, you no longer see the page you recovered in the site tree, don't worry, just refresh the CMS by clicking on the reload button in your browser and it should reappear.</div>
-
