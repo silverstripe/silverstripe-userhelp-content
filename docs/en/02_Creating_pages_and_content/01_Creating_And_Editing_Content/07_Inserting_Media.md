@@ -38,5 +38,3 @@ YouTube allows you to mark a video as **Unlisted** so that it will not appear on
  8. Click on **Add url** Note: If you wish, you can now click on Edit to change options for the video such as alignment.
  9. Click ![update button](/_images/update-button.png) to add the media into the page.
  10. Click ![insert button](/_images/insert-image-button.png) to make your changes live.
-
-

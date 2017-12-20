@@ -16,9 +16,8 @@ To archive or unpublish multiple pages, you can use the Batch actions tool on th
 "Pages" pane. This can be accessed by clicking "Pages" in the main menu.
 
 From the "Actions" drop-down menu at the top of the "Pages" pane, choose
-"Unpublish and archive" or "Unpublish". Available pages for the select action will have a tickable checkbox beside them.
+"Unpublish and archive" or "Unpublish". Available pages for the select action will have singular checkboxes beside them.
 
 Select any number of pages, and then press "Go" to perform the selected action.
 
-![Delete multiple pages](/_images/Archive-Multiple-Pages.png)
- 
+![Archive multiple pages](/_images/Archive-Multiple-Pages.png)

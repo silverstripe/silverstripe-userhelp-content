@@ -16,7 +16,7 @@ introduction: If you wish to temporarily remove a page from the live site, for e
 
 You can then make changes as you wish, and clicking ![save draft button](/_images/save-draft-button.png) shall save those changes without making the page live.
 
-As soon as you wish to republish the page to the live site again, simply click on the ![save publish](/_images/save-publish.png) button.
+As soon as you wish to republish the page to the live site again, simply click on the ![save/publish](/_images/save-publish.png) button.
 
 ### How do I know which pages have been unpublished?
 
@@ -24,6 +24,6 @@ Pages that exist on the Draft site, but are not yet on the live site, shall be m
 
 Note: When in editing mode, only labels for the current page are displayed in the Site Tree. To view labels for all other pages, you must click on the ![pages tab single](/_images/pages-tab-single.png) tab.
 
-When you create a new page, it shall exist only on the Draft site, until you click on the save ![save publish](/_images/save-publish.png).
+When you create a new page, it shall exist only on the Draft site, until you click on the save ![save/publish](/_images/save-publish.png).
 
 If you don't have any plans to re-publish the page in the near future, perhaps you'd be better off just Deleting the page (you can always restore it later if you change your mind!).

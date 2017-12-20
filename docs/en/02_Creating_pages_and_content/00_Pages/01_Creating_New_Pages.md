@@ -21,7 +21,7 @@ summary: Add a new pages and descriptions of the default page types.
     <div class="note" markdown="1"> Different page types will usually have different content fields for you to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create News Article pages etc.</div>  
 
  4. Click on ![create button](/_images/create-button.png)  
- 5. Your new page shall be created, you can now enter it's content, and click on ![save publish](/_images/save-publish.png) to make it live. Don't forget to give it a Page name!
+ 5. Your new page shall be created, you can now enter it's content, and click on ![save/publish](/_images/save-publish.png) to make it live. Don't forget to give it a Page name!
 
     <div class="note" markdown="1">
 Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we cover that under "[Pages](pages) section."
