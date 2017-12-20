@@ -1,5 +1,5 @@
 title: Saving Changes for Later
-summary: Saving draft changes and how to know what iif you have unplublished changes.
+summary: Saving draft changes and how to know what if you have unplublished changes.
 
 # Saving Changes for Later
 
@@ -13,9 +13,9 @@ If another CMS user clicks on the page they will also see your changes, so they 
 
 ## To Make the Saved Changes Live
 
- 1. Click on the ![save publish](/_images/save-publish.png) button.
+ 1. Click on the ![save/publish](/_images/save-publish.png) button.
 
- Once the "Save and Publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing. 
+ Once the "Save and Publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing.
 
 ## How do I know if a page has unpublished changes?
 

@@ -1,4 +1,4 @@
-title: Linking documention
+title: Linking documentation
 summary: Uploading and linking documents from your content.
 
 ## Uploading and linking to documents
@@ -9,10 +9,10 @@ Click on the "Upload" button above the list of files in the "Files" pane and fol
 
 To link to documents, return to the page you wish to create the link in by clicking on the "Pages" Navigation tab, and choose the page you wish to edit. Highlight the text you would like to make into a hyperlink, and click the "hyperlink" button to bring up the "Insert Link" popup.
 
-![Insert link to file](/_images/insert-link-file.png) 
+![Insert links](/_images/insert-link-file.png)
 
 From the "link to" step (1) choose "Download a file" from the list of options. Click 'From files' to link a document from the CMS or 'From your computer' to directly upload and link a document.
 
-![Link popup](/_images/link-popup.png) 
+![Link popup](/_images/link-popup.png)
 
 Finally, to insert the link, click the "Insert Link" button at the bottom-right of the popup.

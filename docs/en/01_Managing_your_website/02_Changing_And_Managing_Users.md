@@ -26,16 +26,16 @@ Here, in the Main tab in the "New Member" pane, you can edit the user's details.
 
 ## Managing and deleting users
 
-You can edit or delete a user by clicking on the "Edit" or "Delete" icons to the right of the user's entry. 
+You can edit or delete a user by clicking on the "Edit" or "Delete" icons to the right of the user's entry.
 
 ![Managing and deleting users](/_images/edit-delete-user.png)
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 ### Notes:
 
 Users can be in multiple groups.  If you delete a user from a group, they are only removed from that group, not from the system.  To fully delete a user from the system, you need to be in the root of Security.  You can reach the security group root by clicking on "Security" link in the breadcrumbs at the top of the Security Pane.
 </div>
- 
+
 ## Changing a user's password
 
 To change a user's password, find the user under the "Users" tab in the Security Pane, and click on the "Edit" button. This should take you to the "Edit Member" pane.  

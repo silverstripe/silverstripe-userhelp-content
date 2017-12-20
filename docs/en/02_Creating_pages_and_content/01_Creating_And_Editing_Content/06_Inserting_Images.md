@@ -17,7 +17,7 @@ summary: Inserting and resizing images in your content.
 ## Inserting an image
  1. Position the text cursor where you wish to insert the top of the image. To keep things tidy it's usually best if you place it on it's own line, or at the very start of a paragraph.
  2. Click on the ![insert icon](/_images/insert-media-icon.png)Insert Media icon in the toolbar.
- 3. Click on the ![choose files button](/_images/choose-files-button.png) button. You can also drag & drop files from your computer onto the marked area (not available in all browsers).
+ 3. Click on the ![upload files](/_images/choose-files-button.png) button. You can also drag & drop files from your computer onto the marked area (not available in all browsers).
  4. Locate the image(s) you'd like to insert, and click on the Open or Choose button.
  5. The image(s) shall then upload.
  6. Once they have uploaded click on the ![insert button](/_images/insert-image-button.png) button.
@@ -41,7 +41,7 @@ If you are using Internet Explorer, you should only select 1 image to insert at 
 To change the alignment of an image that you have already inserted into a page:
 
  1. Click on the image in the Content box to select it, little square drag handles should appear on the image.
- 2. Click on the ![insert icon](/_images/insert-media-icon.png)Insert Media icon.
+ 2. Click on the ![insert icon](/_images/insert-media-icon.png) Insert Media icon.
  3. A box will open allowing you to change the alignment settings of the image.
  4. Click ![update button](/_images/update-button.png)
 

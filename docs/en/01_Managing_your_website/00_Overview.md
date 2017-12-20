@@ -6,7 +6,7 @@ summary: Introducing the SilverStripe CMS administration interface.
 
 The latest SilverStripe CMS administration panel is arranged in four main sections, as shown below:
 
-![SilverStripe3 Administration Panel](/_images/basic-overview.png)
+![SS4 Administration Panel](/_images/basic-overview.png)
 
 ## Navigation tabs
 
@@ -32,7 +32,7 @@ This section shows reports for your site such as, pages with broken links or pag
 
 ### Security
 
-The Security section enables you to set up and administer users and user groups as well as control access to various pages. You can also upload these settings in the form of a csv file.
+The Security section enables you to set up and administer users and user groups as well as control access to various pages. You can also upload these settings in the form of a CSV file.
 
 ### Settings
 
@@ -54,7 +54,7 @@ The Page Management area is on the right of the page and shows various data rela
 
 The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
 
-![SS4 Publishing Options (Draft Site/ Published Site)](/_images/publishing-options.png)
+![SS4 Publishing Options (Draft Site/Published Site)](/_images/publishing-options.png)
 
 Options for previewing the draft or the published site are shown on the bottom right of the page when in preview mode using the mode switcher.
 

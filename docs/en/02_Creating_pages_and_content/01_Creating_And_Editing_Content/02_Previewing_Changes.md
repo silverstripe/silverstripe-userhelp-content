@@ -4,7 +4,7 @@ introduction: If you've made some substantial changes to a page, and wish to che
 
 # Previewing changes
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 **Remember to save early and often.**
 </div>
 
@@ -25,4 +25,3 @@ This will allow you to view a preview of your draft content alongside your edita
 live updates to the draft site and see the preview immediately.
 
 ![Preview View](/_images/Preview.png)
-
