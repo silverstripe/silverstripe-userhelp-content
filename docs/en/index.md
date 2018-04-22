@@ -8,11 +8,11 @@ This guide applies to version 4.x of the CMS (all releases in the SilverStripe 4
 This user help also covers a number of [modules](https://addons.silverstripe.org)
 which may or may not be installed for your site. Refer to the intro for each chapter to find out the prerequisites for using a feature.
 
-If you are a developer, we encourage you to join the
-[development community](https://www.silverstripe.org/community/forums/) as the first port of call for help,
-and visit our [developer documentation](https://docs.silverstripe.org).
+We've moved the [forum!](https://www.silverstripe.org/community/forums/) We encourage you to use [forum.silverstripe.org](https://forum.silverstripe.org/) for any new questions. You can also use the [community Slack channel](https://www.silverstripe.org/community/slack-signup) or [StackOverflow](https://stackoverflow.com/questions/tagged/silverstripe) to ask for help.
 
-Customers of SilverStripe Ltd., the company behind the CMS, should visit [silverstripe.com](https://www.silverstripe.com/).
+Check out our [community](https://www.silverstripe.org/community/) overview for more options to contribute and visit our [developer documentation](https://docs.silverstripe.org).
+
+For customers of SilverStripe Ltd., the company behind the CMS, visit [silverstripe.com](https://www.silverstripe.com/).
 
 ## Managing your website
 [CHILDREN Folder=01_Managing_your_website]
