@@ -37,7 +37,7 @@ Why should you care? It's useful to know where and how the different names are d
 
 ![Page names](/_images/page-names.png)
 
-![Meta titles](/_images/meta-title.jpg)
+![Meta titles](/_images/meta-title.png)
 
 * The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
@@ -101,7 +101,7 @@ When embedding images in your content, always provide alternative text that can 
 
 In addition, you may also want to add title text for your image. Title text is for additional information about your image, such as the name of the photographer, or the date when it was taken. The title text appears as a tooltip when the user hovers over the image.
 
-![Alt text for images](/_images/alt-image-text.jpg)
+![Alt text for images](/_images/alt-image-text.png)
 
 #### Headings and lists
 
@@ -141,4 +141,4 @@ It's a good idea to create a custom 404 page for your site. On this page, you ca
 
 To create a custom error page, click **Add new** in the Pages pane and select **Error Page**. In the **Content** tab, select Error code **404 - not found**, then create your content as for any other page. Note that you can also create custom pages for other errors, but Page not found is by far the most common one that your users will encounter so you can usually safely ignore the other options.
 
-![Error page](/_images/error-page.jpg)
+![Error page](/_images/error-page.png)
