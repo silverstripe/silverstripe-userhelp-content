@@ -1,7 +1,6 @@
 title: Web content best practices
 summary: Useful tips to improve your content management.
 
-
 # Web content best practices
 
 ## In this section:
@@ -11,19 +10,19 @@ summary: Useful tips to improve your content management.
 
 ## Making your content search engine friendly
 
-Much of your website traffic will come from search engines. To ensure your website is findable, you need to write and mark up your content in a way that allows the search engine to present the most relevant results. Put another way, search engine friendly content will get more relevant traffic to your site.
+The majority of your website traffic will come from search engines. To ensure your website is findable, you need to write and mark up your content in a way that allows the search engine to present the most relevant results. In other words, search engine friendly content will get more relevant traffic to your site.
 
-What makes a site search engine friendly? Two things:
+What makes a site search engine friendly?
 
 * Relevant content.
-* A site built to standards, in other words, in an accessible way.
+* A site built to meet accessibility standards.
 
-Search engine friendliness and accessibility are very closely related - you can think of Google as just another blind user.
+Search engine friendliness and accessibility are very closely related - you can think of Google as just another blind user. SilverStripe CMS automatically does a number of things that make your site search-engine friendly and accessible.
 
-SilverStripe CMS automatically does a number of things that make your site search-engine friendly and accessible. As a website editor, you don't have to concern yourself with the code side of things. However, there is much you can do to when it comes to your content:
-
+As a website editor, you should be aware of creating accessible content such as:
+<!-- To do -->
 * Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
-* If it's important to you to rank highly for **specific phrases**, it's key to literally mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
+* If it's important to you to rank highly for **specific phrases**, it's key to mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
 * Use CMS tools for to properly **mark up** your content.
 * Ensure **correct spelling** across all your content - typos make the site rank lower.
 * Ensure there are **no broken links** in your site - again, broken links will make your site rank lower.
@@ -31,17 +30,13 @@ SilverStripe CMS automatically does a number of things that make your site searc
 
 ### URLs, page names, titles and navigation labels
 
-When you first create a new page, start by entering its name in the Page name field on the "Content" tab. SilverStripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually.
-
-Why should you care? It's useful to know where and how the different names are displayed.
+When you first create a new page, start by entering its name in the **Page name** field on the **Content** tab. SilverStripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually. It's useful to know where and how the different names are displayed.
 
 ![Page names](/_images/page-names.png)
 
-![Meta titles](/_images/meta-title.png)
-
 * The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
+* The **URL Segment** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
-* The **URL** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
 
 <div class="note" markdown="1">
 ### Notes:
@@ -59,14 +54,16 @@ Hierarchical URLs provide a logical path for a page as it exists in the site's s
 
 ### Meta tags
 
-Meta tags also make your web page more findable. The Description meta attribute should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
+Meta tags also make your web page more findable. The **Meta Description** field should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
+
+![Meta titles](/_images/meta-title.jpg)
 
 <div class="note" markdown="1">
 ### Notes:
 
-The meta fields for title and keywords have been removed in v3.1. Keyword have been removed due after an official Google press release which confirmed that Google doesn't use the keywords tag anymore (see [link](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
+The meta fields for title and keywords have been removed in v3.1. Keywords have been removed due to an official Google press release which confirmed that [Google doesn't use the keywords tag anymore](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
 
-Google doesn’t like repetition of keywords and phrases in the description. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
+It is best to avoid repetition of keywords and phrases in the description. Google sees this as 'keyword stuffing', which is looked at as search engine spam.
 </div>
 
 ### Clean HTML
@@ -79,7 +76,7 @@ Avoid cutting and pasting directly from a word processor with the standard cut a
 
 ### Why does accessibility matter?
 
-An accessible website means that it can be viewed by the widest audience possible. Accessibility not only refers to people with physical disabilities (such as blind users), but also people with cognitive, learning or motor skills disabilities, and people who access your site with mobile devices or old, outdated technology. Lastly, as mentioned previously, search engines can be considered disabled users in the sense that they can't' see your design or images or interact with your site.
+An accessible website means that it can be viewed by the widest audience possible. Accessibility not only refers to people with physical disabilities (such as blind users), but also people with cognitive, learning or motor skills disabilities, and people who access your site with mobile devices or old, outdated technology. Lastly, as mentioned previously, search engines can be considered disabled users in the sense that they can't see your design or images or interact with your site.
 
 Accessibility is important for a number of reasons:
 
@@ -91,15 +88,15 @@ Accessibility is important for a number of reasons:
 
 Accessibility is not something you implement once and then have it. There is an infinite number of types of disability, platforms, devices, configurations, so you have to choose to what level you want to comply.
 
-The more you know about your users, the better. Web stats, such as Google Analytics, can help you find out about your users' most frequently used browsers and operating systems. User research can help to learn more about how users with disabilities interact with the site - but that's costly and often not an option. Automated tools can help and are a useful first step as they look for all the obvious issues and generate a list of problems. However, it still requires a person to assess and interpret the results and make decisions about items flagged by the automated tools. For example, you can use an automated tool to check whether all your images have alternative text, but you as the editor of your site need to determine if the text in the alt attribute is descriptive and appropriate.
+The more you know about your users, the better. Web stats, such as Google Analytics, can help you find out about your users' most frequently used browsers and operating systems. User research can help to learn more about how users with disabilities interact with the site. Automated tools can help and are a useful first step as they look for all the obvious issues and generate a list of problems. However, it still requires a person to assess and interpret the results and make decisions about items flagged by the automated tools. For example, you can use an automated tool to check whether all your images have alternative text, but you as the editor of your site need to determine if the text in the alt attribute is descriptive and appropriate.
 
 The following paragraphs describe some of the quick wins—things you can do easily to greatly increase the accessibility of your site.
 
-#### Alternative text for images
+#### Alternative text (ALT tag) for images
 
-When embedding images in your content, always provide alternative text that can serve as a placeholder in case the image itself cannot be displayed. Alternative text is often referred to as the "ALT tag", although that's not technically correct :-). Alternative text is important for those who cannot see the actual image, such as vision impaired users, people with text-only browsers, or search engine, and it should be meaningful and describe what the image shows.
+When embedding images in the HTML editor, always provide alternative text that can serve as a placeholder in case the image itself cannot be displayed. Alternative text is often referred to as the "ALT tag". Alternative text is important for those who cannot see the image, such as vision impaired users, people with text-only browsers, or search engine, and it should be meaningful and describe what the image shows.
 
-In addition, you may also want to add title text for your image. Title text is for additional information about your image, such as the name of the photographer, or the date when it was taken. The title text appears as a tooltip when the user hovers over the image.
+In addition, you may also want to add **Title text** for your image. Title text is for additional information about your image, such as the name of the photographer, or the date when it was taken. The title text appears as a tooltip when the user hovers over the image.
 
 ![Alt text for images](/_images/alt-image-text.png)
 
@@ -125,20 +122,20 @@ If your site uses graphs to convey information, also provide text-based summarie
 
 For tables, make sure you mark them up so that screen readers can interpret them correctly (for example, mark header rows/columns as such.) It's also a good idea to provide a text-based summary of the information contained in the table.
 
-Further reading: [Introduction to Web Accessibility](http://webaim.org/intro/) (external link)
-
 ## Other best practices
 
 ### Image dimensions
 
-When you embed images in your content, always specify width and height. This allows the browser to start rendering the page before downloading the actual image, which speeds up page loading. SilverStripe CMS pre-populates the image dimensions automatically, so unless you want to change them, you don't have to do anything special.
+When you embed images in your content, always specify width and height. This allows the browser to start rendering the page before downloading the actual image, which speeds up page loading. SilverStripe CMS pre-populates the image dimensions automatically, so you do not need to edit them unless you would like to change the dimensions.
 
 ### Custom error pages
 
-Sometimes your users will get a Page not Found error because they clicked on an outdated link or misspelled the URL of the page they were looking for. The "Page not Found" error is also known as a "404 error."
+Sometimes your users will get a **Page not Found** error because they clicked on an outdated link or misspelled the URL of the page they were looking for. The **Page not Found** error is also known as a "404 error".
 
 It's a good idea to create a custom 404 page for your site. On this page, you can refer your users to key pages on your site, encourage them to use search or a sitemap, and give them information on how to contact you about problems with the website.
 
-To create a custom error page, click **Add new** in the Pages pane and select **Error Page**. In the **Content** tab, select Error code **404 - not found**, then create your content as for any other page. Note that you can also create custom pages for other errors, but Page not found is by far the most common one that your users will encounter so you can usually safely ignore the other options.
+To create a custom error page, select ***Add new*** in the **Pages** section and choose **Error Page** from the page types listed. In the **Content** tab, from the **Error code** field select "404 - not found" and add your error message. Note that you can also create custom pages for other errors. "Page not found" is the most common error type that your users will encounter.
 
-![Error page](/_images/error-page.png)
+![Error page](/_images/error-page.jpg)
+
+To learn more about best practices see Web Aim's [Introduction to Web Accessibility](http://webaim.org/intro/) guide.
