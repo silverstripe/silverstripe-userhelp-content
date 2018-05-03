@@ -2,6 +2,7 @@ title: Rolling Back to a Previous Page Version
 summary: Viewing the history, comparing changes and rolling back to old page versions.
 introduction: Whenever you click the Save draft or Save & publish buttons a snapshot of the page is created that can be rolled back to at any point in the future. This is useful for undoing any saved changes or recovering any content that had previously been removed.
 
+<!-- to do -->
 # Rolling Back to a Previous Page Version
 
 ## Quick Reminder
