@@ -3,26 +3,26 @@ summary: Using the drag and drop interface to organise your content.
 
 # Reordering page structure
 
-## Quick Reminder
- 1. From the main ![pages tab single](/_images/pages-tab-single.png) tab, click & drag a page to it's new position.
+## Moving pages with drag and drop
 
+1. Navigate to the **Pages** section within the main menu ![pages tab single](/_images/pages-tab-single.png)
 
- 2.Click on the page, and then click on ![save/publish](/_images/save-publish.png), to make it's new position live.
+2. Drag a page to it's new position within the site tree.
 
-## Moving pages with drag & drop
+You can either drag and drop:
+ * **in-between** two other pages.
+ * **on top of** a page, which will move the page inside that section, as a subpage.
 
- 1. From the main ![pages tab single](/_images/pages-tab-single.png) tab, click & drag a page to it's new position.
-Dragging a page **between** two other pages, will move the page in-between.
-Dragging a page **on top of** another page, shall move the page inside that section, as a subpage.
- 2. Once you have reordered any pages, you must click on a page and the ![save/publish](/_images/save-publish.png) to make the new page order live.
-
-## Moving pages between sections without drag & drop
-
-You can also change the section a page appears within, without having to use drag & drop:
-
- 1. Click on the page you wish to move, to enter the Editing mode.
- 2. Click on the ![settings tab](/_images/settings-tab.png) tab in the top right-hand corner.
- 3. Under **Page location** you can then choose whether you wish this page to appear at the Top Level, or as a sub page, underneath a parent page.
- 4. Click ![save/publish](/_images/save-publish.png)
+3. Select the moved page and click the button ***Publish***. Although the page has been moved, the changes will not be reflected on the site until selecting ***Publish***.
 
 ![Moving pages](/_images/Moving-Pages.png)
+
+## Moving pages between sections without drag and drop
+
+You can also change the section a page appears within, without having to use drag and drop:
+ 1. Select the page you want to move, to enter edit mode.
+ 2. Click the ***Settings*** tab.
+ 3. Select **Page location** and choose whether you would like this page to appear as a "Top-level page", or a "Sub-page underneath a parent page".
+ 4. Click ***Publish***.
+
+![Settings drag and drop](/_images/settings-move-pages.png)
