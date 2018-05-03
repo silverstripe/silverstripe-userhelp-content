@@ -30,16 +30,18 @@ Don't worry if you create your page in the wrong location. Pages can be moved an
 
 There are many different page types in SilverStripe, each with their own functionality and purpose.
 
-### Different page types and their functions
+### Different basic page types and their functions
 
-#### Basic pages
-
-* **Page** - The most generic content page type. "Page" contains HTML content, and has no customised functionality. Most pages you create on your site will be of this type.
-* **Home Page** - The "Home Page" behaves like any other page, with the exception that it is the home page for your site. Users will see this page first if they browse directly to the root of your domain.
-* **Error Page** - This page will display an error when produced by the website. Error pages can be created for individual error types, such as, a 404 "Page not found" can look different from a 403 "Forbidden" page.
-* **Redirector Page** - This page type redirects the user to either an internal page on your website, or a page on an external website.
-* **Virtual Page** - A virtual page displays the content of an existing page on your website.
-Note: This is different from a redirector page, as a redirector essentially links one location on the website to another, while a virtual page copies the content of another page. Editing the virtual page will, in turn, edit the copied virtual page.
+#### Page
+The most generic content page type. "Page" contains HTML content, and has no customised functionality. Most pages you create on your site will be of this type.
+#### Home Page
+The "Home Page" behaves like any other page, with the exception that it is the home page for your site. Users will see this page first if they browse directly to the root of your domain.
+#### Error Page
+This page will display an error when produced by the website. Error pages can be created for individual error types, such as, a 404 "Page not found" can look different from a 403 "Forbidden" page.
+#### Redirector Page
+This page type redirects the user to either an internal page on your website, or a page on an external website.
+#### Virtual Page
+A virtual page displays the content of an existing page on your website. This is different from a redirector page, as a redirector essentially links one location on the website to another, while a virtual page copies the content of another page. Editing the virtual page will, in turn, edit the copied virtual page.
 
 #### Other types of pages
 

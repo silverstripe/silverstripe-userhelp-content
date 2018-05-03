@@ -19,8 +19,6 @@ You can either drag and drop:
 
 ![Moving pages](/_images/Moving-Pages.png) <!-- to do -->
 
-![Moving pages](/_images/Moving-Pages.png)
-
 ## Moving pages between sections without drag and drop
 
  1. Select the page you want to move, to enter edit mode.

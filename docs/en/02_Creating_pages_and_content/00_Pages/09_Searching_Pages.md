@@ -3,7 +3,7 @@ summary: Using the site tree search to find pages.
 
 # Searching for pages
 
-To search for a page, click the button ***Search*** which can be navigated to in site tree of the ***Pages*** section. Enter the page you are searching for in the empty **Search** form in the search panel.
+To search for a page, click the button ***Search*** which can be navigated to in site tree of the ***Pages*** section. In the empty **Search** field type a page you would like to locate.
 
 ![search](/_images/search.png)
 
