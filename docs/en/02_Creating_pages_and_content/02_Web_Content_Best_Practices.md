@@ -17,15 +17,15 @@ What makes a site search engine friendly?
 * Relevant content.
 * A site built to meet accessibility standards.
 
-Search engine friendliness and accessibility are very closely related - you can think of Google as just another blind user. SilverStripe CMS automatically does a number of things that make your site search-engine friendly and accessible.
+Search engine friendliness and accessibility are very closely related—you can think of Google as just another blind user. SilverStripe CMS automatically does a number of things that make your site search engine friendly and accessible.
 
 As a website editor, you should be aware of creating accessible content such as:
 <!-- To do -->
 * Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
 * If it's important to you to rank highly for **specific phrases**, it's key to mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
 * Use CMS tools for to properly **mark up** your content.
-* Ensure **correct spelling** across all your content - typos make the site rank lower.
-* Ensure there are **no broken links** in your site - again, broken links will make your site rank lower.
+* Ensure **correct spelling** across all your content—typos make the site rank lower.
+* Ensure there are **no broken links** in your site—again, broken links will make your site rank lower.
 * Provide **text alternatives** for media content, such as ALT text for your images, since search engines can't see images, just their descriptions.
 
 ### URLs, page names, titles and navigation labels
@@ -80,9 +80,9 @@ An accessible website means that it can be viewed by the widest audience possibl
 
 Accessibility is important for a number of reasons:
 
-* **Ethical** — being inclusive is the right thing to do and has a positive impact on how your audience perceives you or your organisation.
-* **Business** — sites that can be used by everyone have a larger audience. They are more findable and therefore generate more traffic/business. Accessible sites are also easier to maintain, resulting in fewer ongoing costs.
-* **Legal** — many governments require websites to comply with certain standards. Details depend on your country, however, typically the guidelines are based on the Web Content Accessibility Guidelines developed by the World Wide Web Consortium (W3C.)
+* **Ethical**—being inclusive is the right thing to do and has a positive impact on how your audience perceives you or your organisation.
+* **Business**—sites that can be used by everyone have a larger audience. They are more findable and therefore generate more traffic/business. Accessible sites are also easier to maintain, resulting in fewer ongoing costs.
+* **Legal**—many governments require websites to comply with certain standards. Details depend on your country, however, typically the guidelines are based on the Web Content Accessibility Guidelines developed by the World Wide Web Consortium (W3C.)
 
 ### What can content editors do?
 
@@ -106,7 +106,7 @@ Mark up your headings by selecting the right heading style from the Format dropd
 
 ![Headings](/_images/headings.png)
 
-If your content uses lists, select either bullets (unordered list) or numbers (ordered list) - don't use dashes or asterisks to mark up lists.
+If your content uses lists, select either bullets (unordered list) or numbers (ordered list)—don't use dashes or asterisks to mark up lists.
 
 #### Links
 
