@@ -1,12 +1,13 @@
 title: Restoring an archived page
 summary: If you archived a page, and then later changed your mind, don't worry, you can easily get it back!
 
+<!-- to do -->
 # Restoring an archived page
 
 ## Quick Reminder
 
- 1. Go to the main ![pages tab single](/_images/pages-tab-single.png) tab.
- 2. Click on ![filter](/_images/filter.png)
+ 1. Navigate to the **Pages** section within the main menu.
+ 2. Click on ![search](/_images/search.png)
  3. Click on the **Pages** dropdown
  4. Select **All pages, including archived**
  5. Click ![search button](/_images/search-button.png)
@@ -18,8 +19,8 @@ You can then click on Clear Filter above the site tree to hide the archived page
 
 ## Recovering archives
 
- 1. Go to the main **Pages** tab, by clicking ![pages tab single](/_images/pages-tab-single.png) on the left.
- 2. In between the column of tabs on the left and the site tree of pages on the right, you'll see a narrow column containing ![filter](/_images/filter.png)
+ 1. Navigate to the **Pages** section within the main menu
+ 2. In between the column of tabs on the left and the site tree of pages on the right, you'll see a narrow column containing ![search](/_images/search.png)
  3. **Click in this column to expand it**. This form allows you to filter which pages are displayed in the site tree to the right.
  4. Click in the **Pages** dropdown that will currently say **All pages**.
  5. Select the option labelled **All pages, including archived** from the dropdown.

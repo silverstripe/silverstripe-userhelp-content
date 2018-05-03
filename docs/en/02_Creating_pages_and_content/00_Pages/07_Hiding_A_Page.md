@@ -1,25 +1,25 @@
-title: Hiding a Page (From the Menus)
-summary: Hide a page so that it doesn't appear in the website navigation menus
-introduction: You can hide a page so that it doesn't appear in the website navigation menus, or in search engine results, but is still accessible via it's URL, or from any links.
+title: Hiding a Page (hide from menus and search)
+summary: Hide a page so it will not appear in the website navigation menus or search
+introduction: You can hide a page so it will not appear in the website navigation menus, or in search engine results, but is still accessible via it's URL, or from any links.
 
-# Hiding a Page (From the Menus)
+# Hiding a Page
 
-## Quick Reminder
+## Hiding pages (Hide from menus and search)
 
- 1. While in the editing mode for a page, click on the ![settings tab](/_images/settings-tab.png) tab in the top right.
- 2. Next to **Visibility** untick the **Show in menus?** checkbox.
- 3. Click in the **Page Priority** dropdown, and select **Not Indexed** to hide from search engines too.
- 4. Click ![save/publish](/_images/save-publish.png)
+ 1. Navigate to the **Pages** section within the main menu and select a page to enter edit mode.
+ 2. Navigate to the ***Settings*** tab in the top right-hand corner.
+ 3. Next to the **Visibility** field, unselect the ***Show in menus?*** checkbox field. This will stop the page appearing in your website navigation menus.
 
-## Hiding pages
+ **Note:** You can see which pages are hidden by the page names colored gray in the site tree.
 
- 1. While in the editing mode for a page, click on the ![settings tab](/_images/settings-tab.png) tab in the top right.
- 2. Next to **Visibility** untick the **Show in menus?** checkbox. This shall stop the page appearing in your website navigation menus. Note: You can tell which pages are hidden this way, as they are usually marked in gray in the site tree.
- 3. Click in the Page Priority dropdown, and select Not Indexed. This shall stop the page from appearing in search engine results. Note: If changing this on an existing page, it may take a few weeks for the page to disappear from search engine results.
- 4. Click ![save/publish](/_images/save-publish.png)
+ 4. Next to the **Visibility** field, unselect the ***Show in search?*** checkbox field to stop the page from appearing in search engine results.
 
-Now only people who know the full URL of the page shall be able to find it. However, you can still link to the page from other pages using the [Insert Link](../creating_and_editing_content/inserting_links) option.
+ **Note:** If you are changing the search visibility on an existing page, it may take a few weeks for the page to disappear from search engine results.
 
-<div class="note" markdown="1">You can choose to hide the page from the menus or from search engines, you do not need to do both.</div>
+ 5. Click the button ***Publish***
+
+Only people who have access to the full page URL will be able to find the page. However, you can still link to the page from other pages using the [Insert Link](../creating_and_editing_content/inserting_links) option.
+
+<div class="note" markdown="1">You can either choose to hide the page from the menus or from search engines, you do not need to do both.</div>
 
 ![Page visibility](/_images/Hiding-Pages.png)
