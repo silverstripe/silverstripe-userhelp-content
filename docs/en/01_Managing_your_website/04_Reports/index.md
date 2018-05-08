@@ -1,23 +1,24 @@
 title: CMS Reports
-summary: Help on accessing and managing report data.
-introduction: This section includes help on accessing report data in the CMS.
+summary: Guidance on accessing and managing report data.
+introduction: This section includes guidance on accessing report data in the CMS.
 
 # Reports
 
-This section shows reports for your site. This will depend on which version of SilverStripe you are running and what modules you have installed.
+This section includes guidance on accessing and managing reports for your site. This will depend on which version of SilverStripe you are running and what modules you have installed.
 
 ## Default reports
 
-These are avaliable as part of the default installation of SilverStripe:
-* *[VirtualPages](creating_pages_and_content/pages/#basic-pages) pointing to deleted pages*
-* *Pages with broken files*
-* *[RedirectorPages](creating_pages_and_content/pages/#basic-pages) pointing to deleted pages*
-* *Broken links report*
-* *Pages with no content*
-* *Pages edited in the last 2 weeks*
+The following reports are available as part of the default installation of SilverStripe:
 
-## Optional reports
+* Broken links report
+* Pages with broken files
+* [RedirectorPages](creating_pages_and_content/pages/#basic-pages) pointing to deleted pages
+* [VirtualPages](creating_pages_and_content/pages/#basic-pages) pointing to deleted pages
+* Pages with no content
+* Pages edited in the last 2 weeks
 
-These could be installed as part of a module
+## Additional reports
+
+Additional reports are installed as part of optional module installations.
 
 [CHILDREN]

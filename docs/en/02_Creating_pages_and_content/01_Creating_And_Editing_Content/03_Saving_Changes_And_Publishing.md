@@ -1,25 +1,20 @@
-title: Saving Changes for Later
-summary: Saving draft changes and how to know what if you have unplublished changes.
+title: Saving changes for later
+summary: Saving Draft changes and how to know if you have unpublished changes.
 
-# Saving Changes for Later
+# Saving changes for later
 
-If you are in the middle of making some changes to a page, and wish to save them to come back to later, or to get someone else to review, and you don't wish to make the changes live, you can do so:
+ 1. Click the button ***Save***.
 
- 1. Just click on the ![save draft button](/_images/save-draft-button.png) button.
+The changes will be saved as a **Draft**, but not published to the live site. You can safely log out of the CMS, and next time you select the page to edit you will see your saved changes and continue where you left off.
 
-The changes will be saved, but will not be published. You can safely then close down your computer, and next time you click on this page to edit it you shall see your saved changes and can continue where you left off.
+If another CMS user selects the page they will also see your changes and can review, add content or Publish the page depending on their user permissions.
 
-If another CMS user clicks on the page they will also see your changes, so they can review them, make changes if they wish and Publish them.
+## Making saved changes live
 
-## To Make the Saved Changes Live
+ 1. Click the button ***Publish***.
 
- 1. Click on the ![save/publish](/_images/save-publish.png) button.
-
- Once the "Save and Publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing.
+ Once published, the content will be live, so be careful that you are not publishing typos or any confidential information.
 
 ## How do I know if a page has unpublished changes?
 
-Pages with changes that have been **Saved** but not **Published**, shall be marked with a ![modified](/_images/modified.png) label in the site tree.
-
-<div class="note" markdown="1">
-When in editing mode, only labels for the current page are displayed in the Site Tree. To view labels for all other pages, you must click on the ![pages tab single](/_images/pages-tab-single.png) tab, or on the ![edit tree button](/_images/edit-tree-button.png) button.</div>
+Pages with changes that have been Saved but not Published, will be marked with a **Modified** label in the site tree.

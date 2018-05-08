@@ -1,6 +1,7 @@
 title: Web content best practices
 summary: Useful tips to improve your content management.
 
+<!-- to do bigger refactor piece possibly could be removed -->
 # Web content best practices
 
 ## In this section:
@@ -20,7 +21,6 @@ What makes a site search engine friendly?
 Search engine friendliness and accessibility are very closely related—you can think of Google as just another blind user. SilverStripe CMS automatically does a number of things that make your site search engine friendly and accessible.
 
 As a website editor, you should be aware of creating accessible content such as:
-<!-- To do -->
 * Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
 * If it's important to you to rank highly for **specific phrases**, it's key to mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
 * Use CMS tools for to properly **mark up** your content.
@@ -34,9 +34,9 @@ When you first create a new page, start by entering its name in the **Page name*
 
 ![Page names](/_images/page-names.png)
 
-* The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
-* The **URL Segment** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
-* The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
+* **Page name**—generates the main headline (the &lt;h1&gt; tag) for the page's content.
+* **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
+* **Navigation label**—appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 
 <div class="note" markdown="1">
 ### Notes:
@@ -79,7 +79,6 @@ Avoid cutting and pasting directly from a word processor with the standard cut a
 An accessible website means that it can be viewed by the widest audience possible. Accessibility not only refers to people with physical disabilities (such as blind users), but also people with cognitive, learning or motor skills disabilities, and people who access your site with mobile devices or old, outdated technology. Lastly, as mentioned previously, search engines can be considered disabled users in the sense that they can't see your design or images or interact with your site.
 
 Accessibility is important for a number of reasons:
-
 * **Ethical**—being inclusive is the right thing to do and has a positive impact on how your audience perceives you or your organisation.
 * **Business**—sites that can be used by everyone have a larger audience. They are more findable and therefore generate more traffic/business. Accessible sites are also easier to maintain, resulting in fewer ongoing costs.
 * **Legal**—many governments require websites to comply with certain standards. Details depend on your country, however, typically the guidelines are based on the Web Content Accessibility Guidelines developed by the World Wide Web Consortium (W3C.)

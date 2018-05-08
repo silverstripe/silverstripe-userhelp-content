@@ -1,6 +1,8 @@
 title: Images and documents
 summary: Uploading and working with files and images.
 
+<!-- to do bigger future refactor piece -->
+
 # Working with images and documents
 
 ## Uploading images to the CMS from the Files Menu.
@@ -28,27 +30,27 @@ This same process can be used for filetypes other than images as well, which we 
 
 ### Inserting uploaded images
 
-Once you have uploaded an image, you can insert it into any page.  Make sure the page you want to add the image to is in the Editing Pane, then click on the "Insert Images" button.
+Once you have uploaded an image, you can insert it into any page. Make sure the page you want to add the image to is in the Editing Pane, then click on the "Insert Images" button.
 
 ![Inserting uploaded images](/_images/insert-Images.png)
 
-This should bring up the insert image pop up. Click on the "From the CMS" tab and you should see a list of files. If you do not see the image you want, it may be in another folder.  You can choose which folder you would like to view by clicking on the "Folder" drop-down box above the list of files. Additionally, you can use the provided search box to search by the image's filename.
+This should bring up the insert image pop up. Click on the "From the CMS" tab and you should see a list of files. If you do not see the image you want, it may be in another folder. You can choose which folder you would like to view by clicking on the "Folder" drop-down box above the list of files. Additionally, you can use the provided search box to search by the image's filename.
 
 ![Images from the CMS](/_images/images-from-cms.png)
 
-When you see the image you want, click on the image to select it. You can now edit the details of the image by clicking on the edit button. Here you can then add alternative text, which is shown if the image cannot be displayed (for example, on text-only web browsers, or screen readers for the blind) and title text, which shows additional information about the image when the mouse rolls over the image.  If you wish to add a caption, you can do so.  You can also choose the alignment and text wrapping properties of the image as well as the dimensions of the image to be displayed in the site.  
+When you see the image you want, click on the image to select it. You can now edit the details of the image by clicking on the edit button. Here you can then add alternative text, which is shown if the image cannot be displayed (for example, on text-only web browsers, or screen readers for the blind) and title text, which shows additional information about the image when the mouse rolls over the image. If you wish to add a caption, you can do so. You can also choose the alignment and text wrapping properties of the image as well as the dimensions of the image to be displayed in the site.
 
-When you are done entering this information, hit the "Update" button on the bottom right of the Insert Images popup. This will place the image in your text where your cursor was in the editing pane.  
+When you are done entering this information, hit the "Update" button on the bottom right of the Insert Images popup. This will place the image in your text where your cursor was in the editing pane.
 
 ![Inserted image](/_images/inserted-image.png)
 
 ## Managing files
 
-To manage your uploaded files, head to "Files" in the Navigation on the left side of the page. The main CMS pane will now show a list of the directories that hold files in your website.  This includes both images and documents such as PDF files, and can also include javascript files.
+To manage your uploaded files, head to "Files" in the Navigation on the left side of the page. The main CMS pane will now show a list of the directories that hold files in your website. This includes both images and documents such as PDF files, and can also include javascript files.
 
 ## Creating, moving, and deleting folders
 
-You can create new folders to store images and documents by clicking on the "Add folder" button on the top of the Files Pane.  The newly created folder will be placed in whatever folder you are currently viewing.
+You can create new folders to store images and documents by clicking on the "Add folder" button on the top of the Files Pane. The newly created folder will be placed in whatever folder you are currently viewing.
 
 ![Add folder](/_images/add-folder.png)
 
@@ -77,5 +79,5 @@ You can also delete the file from here too. To do this click the delete button w
 <div class="note" markdown="1">
 By default, uploaded files are placed in the "Uploads" directory.
 
-If you place an image in a webpage, and later move or rename that image in "Files & Images," SilverStripe CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page. [Editor's Note: Isn't that awesome?]
+If you place an image in a webpage, and later move or rename that image in "Files & Images," SilverStripe CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page.
 </div>
