@@ -57,8 +57,8 @@ If you are using Internet Explorer, you should only select 1 image to insert at 
 
 To change the alignment of an image that you have already inserted into a page:
 
- 1. Select the image in the Content box to select it, square drag handles should appear on the image.
- 2. Click the button ***Insert Media***.
+ 1. Select the image in the editor (a box should appear around the image).
+ 2. Click the button ***Insert from Files***.
 
  ![insert icon](/_images/insert-file-icon.png)
  3. A box will open allowing you to change the alignment settings of the image.
