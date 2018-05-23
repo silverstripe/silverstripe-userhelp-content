@@ -32,7 +32,7 @@ Note: Groups represent a group of members, and you can assign a Group with a set
 
 ## Using roles
 
-The most typical user roles are:
+The most typical user roles:
 
 * **Administrator**—has full rights for the management of the site, including the ability to create users and roles.
 * **Author**—create and edit content, but not publish.
