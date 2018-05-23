@@ -46,7 +46,7 @@ Headings represent the outline structure of a document. H1 is generally consider
 
 ### Horizontal Ruler
 
-***Insert Horizontal Ruler*** will insert a horizontal line on the page, and the button ***Insert Special Character***, marked by the Greek Omega symbol, is used to insert special characters into the text. This is useful for foreign loanwords with special symbols, such as "resumé," proper names such as "François Mitterrand," and metal umlauts, such as "Mötley Crüe".
+***Insert horizontal ruler*** will insert a horizontal line on the page, and the button ***Insert special character***, marked by the Greek Omega symbol, is used to insert special characters into the text. This is useful for foreign loanwords with special symbols, such as "resumé," proper names such as "François Mitterrand," and metal umlauts, such as "Mötley Crüe".
 
 ### HTML
 
