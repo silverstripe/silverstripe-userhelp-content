@@ -38,7 +38,7 @@ The Paragraph dropdown field allows you to choose a format for that paragraph in
 
 ### Headings
 
-Headings represent the outline organisation of a document. H1 is generally considered the highest level of the document, while H6 is the lowest level. By using the Heading paragraph formats, it will automatically make all paragraphs marked with the same heading number the same format. If you want to change the style of your page at a later date, you will only need to change the heading definitions in one place, rather than changing the format of multiple headings in your text individually.
+Headings represent the outline structure of a document. H1 is generally considered the highest level of the document, while H6 is the lowest level. By using the Heading paragraph formats, it will automatically make all paragraphs marked with the same heading number the same format. If you want to change the style of your page at a later date, you will only need to change the heading definitions in one place, rather than changing the format of multiple headings in your text individually.
 
 ### Blockquote
 
@@ -58,7 +58,7 @@ If you want to edit the source code of the page directly, click the button ***HT
 
 You may want to bring some text you have already written on a word processor, such as Microsoft Word into your page content.
 
-Generally, you can paste any text from a plain text editor such as Notepad.exe on Windows systems, TextEdit.app on Macintosh systems, and gEdit on Ubuntu Linux, et al.
+Generally, you can paste any text from a plain text editor such as Notepad.exe on Windows systems, TextEdit.app on Macintosh systems, and gEdit on Ubuntu Linux, and others.
 
 Pasting directly from most word processors or other application often inserts "rich text" formatting code that usually doesn't work well with the HTML markup code used on websites.
 
