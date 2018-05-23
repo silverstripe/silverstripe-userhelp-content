@@ -18,7 +18,7 @@ Instead of "click here" or "Click here to read more about widgets" as the link t
 ### Link to another page on your website (internal link)
 
  1. Select the option **Page on this site**.
- 2. Select a page from the **Select a Page** dropdown field.
+ 2. Select a page from the **Select a page** dropdown field.
  3. Select a page to link and click the button ***Insert link***.
 
 <div class="note" markdown="1">
