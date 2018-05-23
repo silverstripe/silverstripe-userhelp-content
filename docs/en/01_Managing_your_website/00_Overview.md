@@ -5,23 +5,23 @@ summary: Introducing the SilverStripe CMS administration interface.
 
 # Overview
 
-The latest SilverStripe CMS administration panel is arranged in four main sections, as shown below:
+The latest SilverStripe CMS administration panel is arranged in four main areas, as shown below:
 
 ![SS4 Administration Panel](/_images/basic-overview.png)
 
 ## CMS menu
 
-This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. The CSM menu lets you manage pages or files and images, run reports or manage security, adjust site settings and even get help. Some modules and optional features add additional sections to the CMS menu. Select the relevant tab to display the associated information in the current window.
+This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and get CMS user help.
 
 The menu you see may change depending on what modules are installed. However, the following tabs are part of a typical SilverStripe installation:
 
 ### Pages
 
-This section enables you to access and edit the content of the pages on your website. You can also change the order of pages, remove pages and add new ones. While in this section, the Publishing Bar is available.
+This section enables you to order, remove, and add pages. When you have a page selected you can edit the content, publish, unpublish or archive a page among many other things.
 
 ### Campaigns
 
-This section allows you to create and group new content together to be released all at once. For example, this might include several pages, images and blocks of content on existing pages that need to be published at the same time across your website for a promotion.
+This section allows you to create and group new content together to be released all at once. For example, this might include several pages, images and blocks of content that need to be published at the same time across your website for a promotion.
 
 ### Files
 
@@ -33,7 +33,7 @@ This section shows reports for your site such as, pages with broken links or pag
 
 ### Security
 
-The Security section enables you to set up and administer users and user groups as well as control access to various pages. You can also upload these settings in the form of a CSV file.
+The Security section enables you to set up and administer users and user groups as well as control access to various pages or sections. You can also upload these settings in the form of a CSV file.
 
 ### Settings
 
@@ -41,25 +41,27 @@ Here is where you can manage some global settings like the site name, themes and
 
 ### Help
 
-Help provides direct access to SilverStripe user help. This is the site you are looking at right now!
+Help provides direct access to SilverStripe User Help. This is the site you are looking at right now!
 
-## Tree Management
+## Areas within the Pages section
 
-The Tree Management area is found between the page and the CMS menu and displays the Site Tree in a hierarchical format. The page you are working on will be shown on the right, in the Page Management area. Select the page in the tree you want to work on, or add a new page. You can also switch to 'edit' mode with the "Edit Tree" button, enabling you to rearrange your page hierarchy or modify page status. Because pages can be placed 'beneath' one another in the hierarchy, you may need to expand items in the tree to see all of them.
+### Tree Management
 
-## Page Management
+The Tree Management area is found between the CMS menu and page details, and displays as a site tree in a hierarchical format. If a page is selected in the tree its details will be shown in the Page Management area. You can rearrange your page hierarchy. The site tree will indicate if a page is Draft, Modified, or Archived by a page status, if a page is published no status will be shown. Because pages can be placed 'beneath' one another in the hierarchy, you may need to expand items in the tree to see items beneath them.
 
-The Page Management area is on the right of the page and shows various data relating to individual pages such as: page name, navigation label (label in the menu), URL and general content. The text and image content of each page is edited through the TinyMCE WYSIWYG (What You See Is What You Get) editor, which behaves in a similar fashion to a word processing application (such as Microsoft Word). More advanced users can also select to edit the page's html directly.
+### Page Management
 
-## Publishing Bar
+The Page Management area shows various data relating to individual pages such as: page name, navigation label (label in the website menu), URL and general content. The content of each page is typically edited through a text editor (TinyMCE WYSIWYG), which behaves in a similar fashion to a word processing application (such as Microsoft Word). Content authors can also select to edit the page's html directly through the editor.
+
+#### Publishing Bar
 
 The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
 
 ![SS4 Publishing Options (Save/Publish)](/_images/Publishing-options.png)
 
-## Edit mode toggle
+### View mode toggle and page preview
 
-You can review content changes in different ways, including Edit mode, a side-by-side preview in Split mode or as a full screen preview in Preview mode. You can also toggle between preview states ***Draft*** and ***Published***.
+You can choose view the interface in a few different ways, including Edit Mode, Split Mode (side-by-side edit and preview) or Preview Mode (preview only). Within the preview area you can also toggle between preview states ***Draft*** and ***Published***.
 
 ![SS4 Edit mode toggle (Split/Preview/Edit modes)](/_images/Preview-Bar.png)
 
