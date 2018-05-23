@@ -1,18 +1,36 @@
 title: Linking documentation
-summary: Uploading and linking documents from your content.
+summary: Uploading and linking documents from the SilverStripe CMS.
 
 ## Uploading and linking to documents
 
-To upload documents, such as PDF files, Word .DOC documents, and downloadable audio and video files, head to "Files" in the Navigation on the left side of the page. (Be sure to save any page you are working on in the editing page to a draft before doing so, otherwise you may lose any changes you have made since the last save).
+To upload documents, such as PDF files, Word .DOC documents, and downloadable audio and video files, navigate to the **Files** area in the CMS menu.
 
-Click on the "Upload" button above the list of files in the "Files" pane and follow the instructions from the [Uploading images to the CMS from the Files Menu](https://userhelp.silverstripe.org/en/3.2/creating_pages_and_content/working_with_images_and_documents/#uploading-images-to-the-cms-from-the-files-menu) section above the same process applies to all file types.
+Note: Be sure to Save any page you are working on in the editing page to a Draft before doing so, otherwise you may lose any changes you have made since the last save.
 
-To link to documents, return to the page you wish to create the link in by clicking on the "Pages" Navigation tab, and choose the page you wish to edit. Highlight the text you would like to make into a hyperlink, and click the "hyperlink" button to bring up the "Insert Link" popup.
+Click the button ***Upload***, see [Uploading images to the CMS from the Files Menu](https://userhelp.silverstripe.org/en/3.2/creating_pages_and_content/working_with_images_and_documents/#uploading-images-to-the-cms-from-the-files-menu) to learn more.
+Note: the same process applies to all file types.
+
+1. Navigate to the **Pages** section within the CMS menu and select the page you want to add a hyperlink to in the site tree.
+2. Highlight the text or click where you would like to add the hyperlink.
+
+You can either:
+* Click the button ***Hyperlink*** which is shown as a link icon in the HTML editor.
+![insert link icon](/_images/insert-link-icon.png)
+* Right click in the HTML editor to view the ***Insert link*** options.
+
+3. Select the option **Link to a file** which will open the files area as a modal.
 
 ![Insert links](/_images/insert-link-file.png)
 
-From the "link to" step (1) choose "Download a file" from the list of options. Click 'From files' to link a document from the CMS or 'From your computer' to directly upload and link a document.
+4. You can choose to ***Upload*** a file from your computer or select a file from the CMS.
 
-![Link popup](/_images/link-popup.png)
+Select the file to edit the following:
+* Link text
+* Link description
+* Open in new window/tab
 
-Finally, to insert the link, click the "Insert Link" button at the bottom-right of the popup.
+5. Click the button ***Insert file***.
+
+![Link file modal](/_images/link-file-modal.png)
+
+Note: Click the link from the HTML editor to further edit or remove the link.

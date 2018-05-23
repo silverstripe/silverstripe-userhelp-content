@@ -1,12 +1,12 @@
 title: Changing your CMS Password
-summary: You can change the password you use to log in to your SilverStripe CMS account.
+summary: Guidance on how to change the password of your SilverStripe CMS account.
 
 # Changing your CMS Password
 
- 1. Log in to the CMS
- 2. Click on your name in the top left corner.
- 3. Click on the Change Password link.
- 4. Enter your new password into both boxes.
- 5. Click ![save button](/_images/save-button.png)
+ 1. Log in to the CMS.
+ 2. Select your account name in the CMS menu.
+ 3. Click the link ***Change password***.
+ 4. Enter your current, new and confirmed password.
+ 5. Click the button ***Save***.
 
-<div class="note" markdown="1">You can also update your e-mail address and name if you wish.</div>
+<div class="note" markdown="1">You can also update your e-mail address and name.</div>
