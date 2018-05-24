@@ -9,6 +9,7 @@ Search results will remain the only items in the page list view until selecting 
 
 ![Searching pages](/_images/searching-pages.png)
 
+
 You can also search by different criteria, including:
 * **Page status**
   * All pages

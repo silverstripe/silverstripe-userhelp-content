@@ -3,14 +3,13 @@ summary: Using the drag and drop interface to organise your content.
 
 # Reordering page structure
 
- 1. Navigate to the **Pages** section within the CMS menu and click and drag a page to it's new position.
-
- You can either drag and drop:
+ 1. Navigate to the **Pages** section within the CMS menu and click and drag a page to it's new position. You can either drag and drop:
  * **in-between** two other pages.
  * **on top of** a page, which will move the page inside that section, as a subpage.
  2. Once you have reordered any page(s), you must select the page and the click the button ***Publish*** to make it's new position and order live.
 
-![Moving pages](/_images/Moving-Pages.png) <!-- to do update once CSS fix -->
+![Moving pages](/_images/Moving-Pages.png)
+
 
 ## Moving pages between sections without drag and drop
 

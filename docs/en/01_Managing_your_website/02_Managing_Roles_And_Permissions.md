@@ -18,6 +18,7 @@ summary: Managing CMS access and permissions using groups and roles.
 
 ![Security tab main view](/_images/security_pane_main_view.png)
 
+
 ## Explaining security groups and roles
 
 Instead of assigning individual permissions to access, create, edit, or delete content per user, you can use Security Groups and Roles to organise which accounts have certain permissions.
@@ -47,9 +48,11 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 
 ![The roles section](/_images/roles-pane.png)
 
+
 2. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist. Hover over a permission checkbox label to see a tooltip with more information.
 
 ![Creating roles](/_images/creating-roles.png)
+
 
 3. Click the button ***Create***.
 
@@ -70,6 +73,7 @@ To see details or edit an existing role, select the list item.
 Each CMS user for your website belongs to one or more groups. For example, you may have a group who can only access the News section of your website, and another group who can only access the Events section of your website. The users in each group would be the people who manage the content for the respective section.
 
 ![The groups section](/_images/groups-pane.png)
+
 
 Unlike roles, there are no basic groups that typically apply to all sites. Instead, the groups you set up depend on your organisation, and who is involved in updating your website. We recommend thinking about who manages which areas or sections of your website, and then create groups based on those areas of responsibility.
 
@@ -92,7 +96,7 @@ You can nest groups, and create sub-groups which may represent different roles. 
  2. Navigate to the ***Members*** tab.
  3. When typing in the first name, last name, or e-mail address in the **Find members by...** dropdown field will show a choice of autocomplete names. Select the member you're looking for and click the button ***Link Existing***.
 
-![Adding members to a group](/docs/en/_images/Adding-member-to-group.png)
+![Adding members to a group](/_images/Adding-member-to-group.png)
 
 If you wish to add a new member instead of choosing from an already established member, click the button ***Add Member***.
 

@@ -11,9 +11,7 @@ If another CMS user selects the page they will also see your changes and can rev
 
 ## Making saved changes live
 
- 1. Click the button ***Publish***.
-
- Once published, the content will be live, so be careful that you are not publishing typos or any confidential information.
+Click the button ***Publish***. Once published, the content will be live, so be careful that you are not publishing typos or any confidential information.
 
 ## How do I know if a page has unpublished changes?
 

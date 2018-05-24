@@ -19,4 +19,5 @@ Note: Available pages for the selected action will have checkbox fields beside t
  2. Select the action **Unpublish and archive** or **Unpublish** to perform from the dropdown field.
  3. Select any number of pages, and click the button ***Go*** to perform the selected action.
 
+
 ![Archive multiple pages](/_images/Archive-Multiple-Pages.png)

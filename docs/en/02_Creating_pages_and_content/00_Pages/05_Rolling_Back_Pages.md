@@ -4,13 +4,6 @@ introduction: Anytime you ***Save*** or ***Publish*** a snapshot of the page is 
 
 # Rolling Back to a Previous Page Version
 
-<!-- to do ## Quick Reminder
-
- 1. Navigate to the ***History*** tab.
- 2. Select a version from the left sidebar.
- 3. Click the button ***Revert to this version***.
- 4. Click the button ***Publish***. -->
-
 ## Rolling back
 
  1. Select a page you want to roll back to enter edit mode, navigate to the ***History*** tab. You will see a list of each version of the page in the left sidebar, along with the pages date, and the user who published it.
