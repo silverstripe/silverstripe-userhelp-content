@@ -9,6 +9,7 @@ The latest SilverStripe CMS administration panel is arranged in four main areas,
 
 ![SS4 Administration Panel](/_images/basic-overview.png)
 
+
 ## CMS menu
 
 This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and get CMS user help.
@@ -57,7 +58,7 @@ The Page Management area shows various data relating to individual pages such as
 
 The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
 
-![SS4 Publishing Options (Save/Publish)](/_images/Publishing-options.png)
+![SS4 Publishing Options](/_images/Publishing-options.png) <!-- to do check -->
 
 ### View mode toggle and page preview
 

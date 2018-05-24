@@ -6,19 +6,19 @@ summary: Add new pages and descriptions of the default page types.
 ## Creating a new page
 
  1. Navigate to the **Pages** section within the CMS menu.
- 2. Click the button ***Add new***.
- 3. You can either create the page:
+ 2. Click the button ***Add new***. You can either create the page:
  * **Top Level** the page will appear in the main navigation bar.
  * **Under another page** this will allow you to select an existing page in the site where you can create a new page type, as a subpage.
 
  For example, if you'd like to create a new page in the "About Us" section of your site, select the "About Us" page from the dropdown field.
- 4. Choose the desired page type from the selection available. In this example select the most generic content page type, ***Page***.
+
+ 3. Choose the desired page type from the selection available. In this example select the most generic content page type, ***Page***.
 
     <div class="note" markdown="1"> Different page types will usually have different content fields to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create "News Article" page types etc.</div>
 
 
- 5. Click the button ***Create***.
- 6. Your new page will be created, you can now enter some content. Make sure you consider the length of your ***Page name*** for site tree and front-end clarity. Click the button ***Publish*** to make your changes live.
+ 4. Click the button ***Create***.
+ 5. Your new page will be created, you can now enter some content. Make sure you consider the length of your ***Page name*** for site tree and front-end clarity. Click the button ***Publish*** to make your changes live.
 
 Don't worry if you create your page in the wrong location. Pages can be moved and re-ordered easily, see [Reordering Pages](02_Reordering_Pages.md) to learn more.
 
@@ -44,8 +44,10 @@ It is also possible to change from one page type to another. To edit an existing
 
 ![Choosing page type](/_images/Choosing-A-Page.png)
 
+
  1. Navigate to the ***Settings*** tab.
  2. You can select a new page type from the **Page type** dropdown field.
  3. Click the button ***Publish*** to make your changes live.
+
 
 ![Changing page type](/_images/Changing-Page-Type.png)
