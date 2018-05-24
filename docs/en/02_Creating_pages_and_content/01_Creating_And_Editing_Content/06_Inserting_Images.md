@@ -2,70 +2,38 @@ title: Inserting images
 summary: Inserting and resizing images in your content.
 
 <!-- to do bigger future refactor piece -->
+ <!-- ![insert icon](/docs/en/_images/insert-file-icon.png) -->
 
 # Inserting images
 
-![insert media](/_images/insert-images-upload.png)
+![Images from the CMS](/docs/en/_images/Images-from-cms.png)
 
-<!-- to do ## Quick Reminder
-
- 1. **Position the text cursor** where you wish the top of the image to line up.
- 2. Click the button **Insert Media** in the HTML editor.
-
- ![insert icon](/_images/insert-file-icon.png)
- 3. Click the button
-
-![choose files](/_images/choose-files-button.png)
- 4. Choose the images to upload
- 5. Click the button
-
- ![insert button](/_images/insert-image-button.png) -->
-
-## Inserting an image
- 1. Position the text cursor where you wish to insert the top of the image. To keep things tidy it's usually best if you place it on it's own line, or at the very start of a paragraph.
+## Inserting an image (HTML editor)
+ 1. Position the text cursor where you want to insert the top of the image. To keep things tidy it's usually best if you place the image on it's own line, or at the very start of a paragraph.
  2. Click the button **Insert from files** shown as a file icon in the HTML editor.
-
- ![insert icon](/_images/insert-file-icon.png)
- 3. Click the button... You can also drag & drop files from your computer onto the marked area (not available in all browsers).
-
- ![upload files](/_images/choose-files-button.png)
+ 3. Click the button ***Upload***. You can also drag & drop files from your computer onto the marked area or select an image from the CMS. <!-- (not available in all browsers). to do -->
  4. Locate the image(s) you'd like to insert, and click the button **Open**.
- 5. The image(s) will then upload.
- 6. Once they have uploaded click the button
+ 5. Once the image(s) have uploaded click the button ***Insert file***.
 
-![insert button](/_images/insert-image-button.png)
- 7. You can then drag the little drag handles on the image to resize it to your required size.
+Note: You can select the image in the HTML editor and drag the drag handles to resize to your required size. <!-- to do -->
 
 <div class="note" markdown="1">
-Image files for a website must be in either JPG, GIF or PNG format. If your image currently exists in a Word or Publisher file, you must first save the image as one of these file types, usually by right clicking on it, and selecting Save as Picture...</div>
+Image files for a website must be in either JPG, GIF or PNG format. If your image currently exists in a Word or Publisher file, you must first save the image as one of these file types.</div>
 
-<div class="note" markdown="1">
+<!-- <div class="note" markdown="1">
 If you are using Internet Explorer, you should only select 1 image to insert at a time. Also Internet Explorer isn't able to resize images while keeping it's proportions, so you may wish to use another browser such as Google Chrome or Mozilla FireFox, or use the Edit interface (see below) to manually enter it's size.
-</div>
+</div> -->
 
 ## Setting the alignment of an image
 
- 1. After the images have uploaded in step 5 above, click the button link next to an image.
-
- ![image edit](/_images/image-edit.png)
- 2. You can then choose from various alignments in the alignment/style dropdown.
- 3. Click the button... as normal, to insert the image
-
- ![insert button](/_images/insert-image-button.png)
-
-## Changing the alignment of an image that's already been inserted
-
-To change the alignment of an image that you have already inserted into a page:
-
- 1. Select the image in the editor (a box should appear around the image).
- 2. Click the button ***Insert from Files***.
-
- ![insert icon](/_images/insert-file-icon.png)
- 3. A box will open allowing you to change the alignment settings of the image.
- 4. Click the button ***Update***.
-
- ![update button](/_images/update-button.png) <!-- No update button to do -->
+1. Select the image and click the button **Insert from files** shown as a file icon in the HTML editor.
+2. Navigate to the ***Placement*** tab.
+3. Select the alignment for your image from the **Alignment** dropdown field.
+* Left
+* Center
+* Left or right wrap
+4. Click the ***Insert file*** button.
 
 ## Repositioning an Image
 
-To change the position of an image that you have already inserted, simply **click and drag** it, moving the text cursor to the position you'd to move the image to. Then release the mouse button. Remember, the **text cursor position only defines the position of the top of the image**, so you're best dragging it to the very start of a paragraph, or onto it's own line. To change the left/right alignment of the image, see above.
+To change the position of an image that you have inserted, simply click and drag it, moving the text cursor to the position you want to move the image to. Remember, the text cursor position only defines the position of the top of the image, so you're best dragging it to the very start of a paragraph, or onto it's own line.
