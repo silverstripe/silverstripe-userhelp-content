@@ -16,17 +16,17 @@ You can either upload files within the Files section or directly from pages thro
 <div class="note" markdown="1">
 By default, uploaded files are placed in the "Uploads" directory.
 
-If you place an image in a page, and later move or rename that image the CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page.
+If you place an image in a page, and later move or rename that image the CMS will automatically keep track of those changes, so your webpage will remain unchanged—you don't even have to republish the page.
 </div>
 
 
 ## Uploading images to the Files library
 
-Navigate to the **Files** section in the CMS menu. You should see a grid or list of files (and folders containing files) that have already been uploaded to the CMS, otherwise you have a empty files area.
+Navigate to the **Files** section in the CMS menu. You should see a grid or list of files (and folders containing files) that have already been uploaded to the CMS, otherwise you probably have an empty files area.
 
 Before you upload your images or files you may wish to create a new folder, or navigate to an existing folder to upload a file into in order to keep your files orderly (More about this in the section [Managing Files](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/working_with_images_and_documents/#managing-files)). You can navigate up and down the folder structure by clicking on folders or clicking the back arrow.
 
-Click the button ***Upload*** button to choose your file(s) from your computer to upload, or alternatively you can drag and drop your file(s) into the main **Files** area.
+Click the button ***Upload*** button to choose your file(s) from your computer which you wish to upload, or alternatively you can drag and drop your file(s) into the main **Files** library area.
 <!-- (this will automatically start the upload). -->
 
 ![Files selection](/docs/en/_images/files-section.png)
@@ -82,11 +82,11 @@ Basic functionality and options for files:
 
 ## Creating, deleting folders
 
-Folders can be used to organise images and documents, and if a new folder is created, it is added to the view you are currently in. To create a new folder click the ***Add folder*** button (also shown as folder icon). The new folder will appear on the right side of the library and will require a **Folder name** before you save it and it appears in the File library. 
+Folders can be used to organise images and documents, and if a new folder is created, it is added to the view you are currently in. To create a new folder click the ***Add folder*** button (also shown as folder icon). The new folder will appear on the right side of the library and will require a **Folder name** before you can save it and for it to appear in the File library. 
 
 ![Add folder](/docs/en/_images/add-folder.png)
 
-Extra care should be taken when deleting a folder as files contained within can be deleted at the same time. There are two ways to delete a folder: 
+Extra care should be taken when deleting a folder as files contained within it can be deleted at the same time. There are two ways to delete a folder: 
 
 * Select the folder checkbox field and click the button ***Delete*** shown as a trash icon.
 * Select a folder so its details shows in the edit panel (right of the file library), select **Delete** from the file options (accessible through the ellipsis icon).
