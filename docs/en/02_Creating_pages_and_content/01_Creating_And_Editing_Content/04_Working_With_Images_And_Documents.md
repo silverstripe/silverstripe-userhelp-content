@@ -26,7 +26,6 @@ Navigate to the **Files** section in the CMS menu. You should see a grid or list
 Before you upload your images or files you may wish to create a new folder, or navigate to an existing folder to upload a file into in order to keep your files orderly (More about this in the section [Managing Files](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/working_with_images_and_documents/#managing-files)). You can navigate up and down the folder structure by clicking on folders or clicking the back arrow.
 
 Click the button ***Upload*** button to choose your file(s) from your computer which you wish to upload, or alternatively you can drag and drop your file(s) into the main **Files** library area.
-<!-- (this will automatically start the upload). -->
 
 ![Files selection](/_images/files-section.png)
 
@@ -69,7 +68,6 @@ Basic functionality and options for files:
 * The **location** of the file within the Files library
 * **Alignment** and **text wrapping** properties of the image.
 * **Dimensions** of the image to be displayed in the site. 
-
 
 ![Moving files](/_images/Move-file.png)
 
