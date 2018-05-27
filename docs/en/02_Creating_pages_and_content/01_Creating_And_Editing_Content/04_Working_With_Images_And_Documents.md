@@ -1,7 +1,6 @@
 title: Images and documents
 summary: Working with files and images.
 
-<!-- to do bigger future refactor piece -->
 
 # Working with files (images and documents)
 
@@ -29,13 +28,13 @@ Before you upload your images or files you may wish to create a new folder, or n
 Click the button ***Upload*** button to choose your file(s) from your computer which you wish to upload, or alternatively you can drag and drop your file(s) into the main **Files** library area.
 <!-- (this will automatically start the upload). -->
 
-![Files selection](/docs/en/_images/files-section.png)
+![Files selection](/_images/files-section.png)
 
-![Drag and drop file](/docs/en/_images/files-drag-drop.png)
+![Drag and drop file](/_images/files-drag-drop.png)
 
 You should now see the files you uploaded within your chosen folder.
 
-![Uploaded files](/docs/en/_images/files-uploaded.png)
+![Uploaded files](/_images/files-uploaded.png)
 
 <div class="note" markdown="1">
 This same process can be used for filetypes other than images as well, see [Uploading and Linking to Documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents/) to learn more.
@@ -56,9 +55,9 @@ Pages that contain a HTML editor allow you to place files into the content area,
 6. Select the files you would like to add to your content, they will appear on the right side of your file library so that you can edit its details. 
 7. When you have finished editing click the ***Insert*** button. This will place the image in your text where your cursor was in the editing section.
 
-![Inserting uploaded images](/docs/en/_images/Insert-Images.png)
+![Inserting uploaded images](/_images/Insert-Images.png)
 
-![Images from the CMS](/docs/en/_images/Images-from-cms.png)
+![Images from the CMS](/_images/Images-from-cms.png)
 
 
 ## Editing files
@@ -71,33 +70,32 @@ Basic functionality and options for files:
 * **Alignment** and **text wrapping** properties of the image.
 * **Dimensions** of the image to be displayed in the site. 
 
-<!-- Once you have opened the File details section, and you can edit the files details and move the file to a new location by choosing a new parent folder from the folder dropdown. Hit "Save" at the bottom left of the section when you are done editing. -->
 
-![Moving files](/docs/en/_images/Move-file.png)
+![Moving files](/_images/Move-file.png)
 
 <!-- Details and Permissions -->
 
-![Inserted image](/docs/en/_images/Inserted-image.png)
+![Inserted image](/_images/Inserted-image.png)
 
 
 ## Creating, deleting folders
 
 Folders can be used to organise images and documents, and if a new folder is created, it is added to the view you are currently in. To create a new folder click the ***Add folder*** button (also shown as folder icon). The new folder will appear on the right side of the library and will require a **Folder name** before you can save it and for it to appear in the File library. 
 
-![Add folder](/docs/en/_images/add-folder.png)
+![Add folder](/_images/add-folder.png)
 
 Extra care should be taken when deleting a folder as files contained within it can be deleted at the same time. There are two ways to delete a folder: 
 
 * Select the folder checkbox field and click the button ***Delete*** shown as a trash icon.
 * Select a folder so its details shows in the edit panel (right of the file library), select **Delete** from the file options (accessible through the ellipsis icon).
 
-![Delete folder](/docs/en/_images/delete-folder.png)
+![Delete folder](/_images/delete-folder.png)
 
-![Editing and deleting files](/docs/en/_images/Edit-delete-files.png)
+![Editing and deleting files](/_images/Edit-delete-files.png)
 
 
 ## Searching for images and documents
 
 To search for an image, click the ***Search*** button (shown as a search icon). Type the whole or partial search term to  locate file(s). Click the button ***Advanced*** (or shown as an downward arrow) if you wish to filter by **File type**, **Last changed** or **Limit to current folder and its sub-folders** checkbox field.
 
-![Searching for files](/docs/en/_images/search-files.png)
+![Searching for files](/_images/search-files.png)
