@@ -10,7 +10,7 @@ Files are typically managed within the Files section of the CMS. This section sh
 
 Files can be displayed or linked to from multiple places. This means that by updating a file's details, all of the pages which use the file will recieve those updates (both the file and page would need to be published for these changes to be seen on the live site).
 
-You can either upload files within the Files section or directly from pages through the HTML editor. The Files section supports a range of different file types which are typical for use on the web including images, videos, and documents. See [Web content best practices](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/web_content_best_practices/) for additional tips on how to prepare files for use on the web. 
+You can either upload files within the Files section or directly from pages through the HTML editor. The Files section supports a range of different file types which are typical for use on the web including images, videos, and documents. See [Web content best practices](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/web_content_best_practices/) for additional tips on how to prepare files for use on the web.
 
 <div class="note" markdown="1">
 By default, uploaded files are placed in the "Uploads" directory.
@@ -50,13 +50,14 @@ Pages that contain a HTML editor allow you to place files into the content area,
 2. In the HTML editor click on the button ***Insert from Files*** which is shown as an image icon.  
 3. The Files area will open above the page management section.
 4. Navigate to the folder you would like to add your file(s).
-5. Either drag files from your computer/device or click the ***Upload*** button to add your file(s). 
-6. Select the files you would like to add to your content, they will appear on the right side of your file library so that you can edit its details. 
+5. Either drag files from your computer/device or click the ***Upload*** button to add your file(s).
+6. Select the files you would like to add to your content, they will appear on the right side of your file library so that you can edit its details.
 7. When you have finished editing click the ***Insert*** button. This will place the image in your text where your cursor was in the editing section.
 
-![Inserting uploaded images](/_images/Insert-Images.png)
+![Inserting uploaded images](/_images/insert-images.png)
 
-![Images from the CMS](/_images/Images-from-cms.png)
+
+![Images from the CMS](/_images/images-from-cms.png)
 
 
 ## Editing files
@@ -67,29 +68,28 @@ Basic functionality and options for files:
 * The **Caption** field can be used to enter text descriptions of an image.
 * The **location** of the file within the Files library
 * **Alignment** and **text wrapping** properties of the image.
-* **Dimensions** of the image to be displayed in the site. 
+* **Dimensions** of the image to be displayed in the site.
 
-![Moving files](/_images/Move-file.png)
+![Moving files](/_images/move-file.png)
 
-<!-- Details and Permissions -->
 
-![Inserted image](/_images/Inserted-image.png)
+![Inserted image](/_images/inserted-image.png)
 
 
 ## Creating, deleting folders
 
-Folders can be used to organise images and documents, and if a new folder is created, it is added to the view you are currently in. To create a new folder click the ***Add folder*** button (also shown as folder icon). The new folder will appear on the right side of the library and will require a **Folder name** before you can save it and for it to appear in the File library. 
+Folders can be used to organise images and documents, and if a new folder is created, it is added to the view you are currently in. To create a new folder click the ***Add folder*** button (also shown as folder icon). The new folder will appear on the right side of the library and will require a **Folder name** before you can save it and for it to appear in the File library.
 
 ![Add folder](/_images/add-folder.png)
 
-Extra care should be taken when deleting a folder as files contained within it can be deleted at the same time. There are two ways to delete a folder: 
+Extra care should be taken when deleting a folder as files contained within it can be deleted at the same time. There are two ways to delete a folder:
 
 * Select the folder checkbox field and click the button ***Delete*** shown as a trash icon.
 * Select a folder so its details shows in the edit panel (right of the file library), select **Delete** from the file options (accessible through the ellipsis icon).
 
 ![Delete folder](/_images/delete-folder.png)
 
-![Editing and deleting files](/_images/Edit-delete-files.png)
+![Editing and deleting files](/_images/edit-delete-files.png)
 
 
 ## Searching for images and documents

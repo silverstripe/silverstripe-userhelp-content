@@ -58,13 +58,13 @@ The Page Management area shows various data relating to individual pages such as
 
 The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
 
-![SS4 Publishing Options](/_images/Publishing-options.png) <!-- to do check -->
+![SS4 Publishing Options](/_images/publishing-options.png) <!-- to do change -->
 
 ### View mode toggle and page preview
 
 You can choose view the interface in a few different ways, including Edit Mode, Split Mode (side-by-side edit and preview) or Preview Mode (preview only). Within the preview area you can also toggle between preview states ***Draft*** and ***Published***.
 
-![SS4 Edit mode toggle (Split/Preview/Edit modes)](/_images/Preview-Bar.png)
+![SS4 Edit mode toggle (Split/Preview/Edit modes)](/_images/preview-bar.png)
 
 See,
 [Previewing content changes](https://userhelp.silverstripe.org/en/3.6/creating_pages_and_content/creating_and_editing_content/previewing_changes/) to learn more.

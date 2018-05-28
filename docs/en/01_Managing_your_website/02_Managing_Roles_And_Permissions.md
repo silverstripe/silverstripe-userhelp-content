@@ -96,7 +96,7 @@ You can nest groups, and create sub-groups which may represent different roles. 
  2. Navigate to the ***Members*** tab.
  3. When typing in the first name, last name, or e-mail address in the **Find members by...** dropdown field will show a choice of autocomplete names. Select the member you're looking for and click the button ***Link Existing***.
 
-![Adding members to a group](/_images/Adding-member-to-group.png)
+![Adding members to a group](/_images/adding-member-to-group.png)
 
 If you wish to add a new member instead of choosing from an already established member, click the button ***Add Member***.
 
