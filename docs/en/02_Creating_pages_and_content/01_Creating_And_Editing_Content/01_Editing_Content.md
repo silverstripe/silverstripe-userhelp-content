@@ -3,12 +3,11 @@ summary: Working with content in your pages.
 
 ## Editing content
 
- In the **Pages** section, select the page you want to edit in the site tree.
+1. In the **Pages** section, select the page you want to edit in the site tree.
 
 ![SS4 Content Editing](/_images/content-editing.png)
 
-
- 2. Navigate to the ***Content*** tab. For a standard content page, you can edit the following fields:
+2. Navigate to the ***Content*** tab. For a standard content page, you can edit the following fields:
 
  * **Page name**—appears at the top of the page, above the content.
  * **URL segment**—the website address for the page.
@@ -20,18 +19,15 @@ summary: Working with content in your pages.
 
 ![SilverStripe 4 Content Editing (Page Fields)](/_images/page-fields.png)
 
-
 3. Add your required field changes and click the button ***Save*** or ***Publish*** to save a draft or publish the changes to the live site.
 
 Note: Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.
-
 
 ## Formatting content
 
 Generally, most items in the HTML editor will behave much like they would in any word processor.
 
 ![SilverStripe 4 HTML Editor (Page Fields)](/_images/formatting-content.png)
-
 
 ### Styles
 

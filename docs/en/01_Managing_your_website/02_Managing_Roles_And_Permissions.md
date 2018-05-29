@@ -18,7 +18,6 @@ summary: Managing CMS access and permissions using groups and roles.
 
 ![Security tab main view](/_images/security_pane_main_view.png)
 
-
 ## Explaining security groups and roles
 
 Instead of assigning individual permissions to access, create, edit, or delete content per user, you can use Security Groups and Roles to organise which accounts have certain permissions.
@@ -43,18 +42,16 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 
 ## Setting up roles
 
- 1. Navigate to the **Security** section.
- 2. Navigate to the ***Roles*** tab.
+1. Navigate to the **Security** section.
+2. Navigate to the ***Roles*** tab.
 
 ![The roles section](/_images/roles-pane.png)
 
-
-2. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist. Hover over a permission checkbox label to see a tooltip with more information.
+3. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist. Hover over a permission checkbox label to see a tooltip with more information.
 
 ![Creating roles](/_images/creating-roles.png)
 
-
-3. Click the button ***Create***.
+4. Click the button ***Create***.
 
 Note: To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the north toolbar.
 
@@ -74,15 +71,14 @@ Each CMS user for your website belongs to one or more groups. For example, you m
 
 ![The groups section](/_images/groups-pane.png)
 
-
 Unlike roles, there are no basic groups that typically apply to all sites. Instead, the groups you set up depend on your organisation, and who is involved in updating your website. We recommend thinking about who manages which areas or sections of your website, and then create groups based on those areas of responsibility.
 
 ## Creating a new security group
 
- 1. In the **Security** section, navigate to the ***Groups*** tab.
- 2. Click the button ***Add Group***.
- 3. In the ***Members*** tab add the group name in the **Group Name** field.
- 4. Click the button ***Create***.
+1. In the **Security** section, navigate to the ***Groups*** tab.
+2. Click the button ***Add Group***.
+3. In the ***Members*** tab add the group name in the **Group Name** field.
+4. Click the button ***Create***.
 
 <div class="note" markdown="1">
 We recommend you set up a top-level group for your entire site, as well as for each section that is managed by specific people.
@@ -92,9 +88,9 @@ You can nest groups, and create sub-groups which may represent different roles. 
 
 ## Adding members to groups
 
- 1. Navigate to the **Groups** tab and select a group you want to add members to.
- 2. Navigate to the ***Members*** tab.
- 3. When typing in the first name, last name, or e-mail address in the **Find members by...** dropdown field will show a choice of autocomplete names. Select the member you're looking for and click the button ***Link Existing***.
+1. Navigate to the **Groups** tab and select a group you want to add members to.
+2. Navigate to the ***Members*** tab.
+3. When typing in the first name, last name, or e-mail address in the **Find members by...** dropdown field will show a choice of autocomplete names. Select the member you're looking for and click the button ***Link Existing***.
 
 ![Adding members to a group](/_images/adding-member-to-group.png)
 
@@ -106,13 +102,13 @@ Users can be in multiple groups. If you delete a user from a group, they are onl
 
 ## Editing and deleting groups
 
- 1. To edit a group, click the group name in the Groups list. This opens the group details. You can change the group name, and add, edit or delete members. Note that a single user can belong to more than one group.
- 2. To delete a group, click the ***Delete*** button shown as a trash icon. Note that deleting a group does not delete its members.
+1. To edit a group, click the group name in the Groups list. This opens the group details. You can change the group name, and add, edit or delete members. Note that a single user can belong to more than one group.
+2. To delete a group, click the ***Delete*** button shown as a trash icon. Note that deleting a group does not delete its members.
 
 ## Assigning roles to security group members
 
- 1. To assign roles to security group members, click the ***Roles*** tab.
- 2. Select the appropriate roles for your group and click the button ***Save***.
+1. To assign roles to security group members, click the ***Roles*** tab.
+2. Select the appropriate roles for your group and click the button ***Save***.
 
 ## Assigning permissions to security group members
 

@@ -1,7 +1,6 @@
 title: Images and documents
 summary: Working with files and images.
 
-
 # Working with files (images and documents)
 
 ## Managing files
@@ -17,7 +16,6 @@ By default, uploaded files are placed in the "Uploads" directory.
 
 If you place an image in a page, and later move or rename that image the CMS will automatically keep track of those changes, so your webpage will remain unchanged—you don't even have to republish the page.
 </div>
-
 
 ## Uploading images to the Files library
 
@@ -39,7 +37,6 @@ You should now see the files you uploaded within your chosen folder.
 This same process can be used for filetypes other than images as well, see [Uploading and Linking to Documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents/) to learn more.
 </div>
 
-
 ## Uploading images from a page
 
 <div class="note" markdown="1">
@@ -56,9 +53,7 @@ Pages that contain a HTML editor allow you to place files into the content area,
 
 ![Inserting uploaded images](/_images/insert-images.png)
 
-
 ![Images from the CMS](/_images/images-from-cms.png)
-
 
 ## Editing files
 
@@ -72,9 +67,7 @@ Basic functionality and options for files:
 
 ![Moving files](/_images/move-file.png)
 
-
 ![Inserted image](/_images/inserted-image.png)
-
 
 ## Creating, deleting folders
 
@@ -90,7 +83,6 @@ Extra care should be taken when deleting a folder as files contained within it c
 ![Delete folder](/_images/delete-folder.png)
 
 ![Editing and deleting files](/_images/edit-delete-files.png)
-
 
 ## Searching for images and documents
 

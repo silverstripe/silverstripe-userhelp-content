@@ -24,8 +24,8 @@ You can upload your video to one of the supported media services (many of the [s
 2. While viewing your video, copy the full URL of the page, by selecting the full address at the top of your browser or right click and copy the URL.
 3. While editing a pages content, position your cursor where you'd like the video to appear.
 3. Click the button ***Insert media from URL*** which is shown as a media icon in the HTML editor.
-![insert icon](/_images/insert-media-icon.png)
 
+![insert icon](/_images/insert-media-icon.png)
 
 4. Paste the full URL of your video into the empty field.
 5. Click the button ***Add media***.

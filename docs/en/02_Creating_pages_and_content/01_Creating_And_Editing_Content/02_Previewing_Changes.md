@@ -13,11 +13,9 @@ Click the button ***Save*** in the publishing bar.
  You can either:
  * Click the toggle ***Edit mode*** and select the option **Preview mode**.
 
-
-  ![view mode edit icon](/_images/view-mode-edit-icon.png)
+![view mode edit icon](/_images/view-mode-edit-icon.png)
 
  * Toggle between preview states ***Draft*** and ***Published***.
-
 
 ![preview mode site draft](/_images/preview-draft-published.png)
 
@@ -27,8 +25,6 @@ After you save your page, you can preview the page by selecting either **Preview
 
 ![Preview Menu](/_images/preview-Bar.png)
 
-
 This will allow you to view a preview of your draft content alongside the Page management section. That way you can make live updates to the Draft site and see the preview immediately.
-
 
 ![Preview View](/_images/preview.png)
