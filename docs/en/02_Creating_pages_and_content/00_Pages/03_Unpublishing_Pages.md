@@ -4,14 +4,13 @@ introduction: If you want to temporarily remove a page from the live site, for e
 
 ## Unpublishing pages
 
- 1. Select the page you want to unpublish, click the button ***More options*** which is shown as a ellipses icon.
+1. Select the page you want to unpublish, click the button ***More options*** which is shown as a ellipses icon.
 
- ![more options](/_images/more-options.png)
+![more options](/_images/more-options.png)
 
-
- 2. Select the option **Unpublish** and the page will be removed from the Draft site.
- 3. You can add any required changes, and click the button ***Save*** which will save those changes without making the page live.
- 4. Click the button ***Publish*** when you want to republish the page to the live site again.
+2. Select the option **Unpublish** and the page will be removed from the Draft site.
+3. You can add any required changes, and click the button ***Save*** which will save those changes without making the page live.
+4. Click the button ***Publish*** when you want to republish the page to the live site again.
 
 ### How do I know which pages have been unpublished?
 

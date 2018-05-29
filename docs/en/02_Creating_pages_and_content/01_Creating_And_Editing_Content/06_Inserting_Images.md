@@ -1,18 +1,16 @@
 title: Inserting images
 summary: Inserting and resizing images in your content.
 
-
 # Inserting images
 
 ![Images from the CMS](/_images/images-from-cms.png)
 
 ## Inserting an image (HTML editor)
- 1. Position the text cursor where you want to insert the top of the image. To keep things tidy it's usually best if you place the image on it's own line, or at the very start of a paragraph.
- 2. Click the button **Insert from files** shown as a file icon in the HTML editor.
- 3. Click the button ***Upload***. You can also drag & drop files from your computer onto the marked area or select an image from the CMS.
- 4. Locate the image(s) you'd like to insert, and click the button **Open**.
- 5. Once the image(s) have uploaded click the button ***Insert file***.
-
+1. Position the text cursor where you want to insert the top of the image. To keep things tidy it's usually best if you place the image on it's own line, or at the very start of a paragraph.
+2. Click the button **Insert from files** shown as a file icon in the HTML editor.
+3. Click the button ***Upload***. You can also drag & drop files from your computer onto the marked area or select an image from the CMS.
+4. Locate the image(s) you'd like to insert, and click the button **Open**.
+5. Once the image(s) have uploaded click the button ***Insert file***.
 Note: You can select the image in the HTML editor and drag the drag handles to resize to your required size.
 
 <div class="note" markdown="1">
