@@ -51,7 +51,7 @@ Pages that contain a HTML editor allow you to place files into the content area,
 6. Select the files you would like to add to your content, they will appear on the right side of your file library so that you can edit its details.
 7. When you have finished editing click the ***Insert*** button. This will place the image in your text where your cursor was in the editing section.
 
-![Inserting uploaded images](/_images/insert-images.png)
+![Insert images](/_images/insert-images.png)
 
 ![Images from the CMS](/_images/images-from-cms.png)
 
