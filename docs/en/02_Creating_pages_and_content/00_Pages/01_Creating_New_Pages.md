@@ -11,11 +11,10 @@ summary: Add new pages and descriptions of the default page types.
 * **Under another page** this will allow you to select an existing page in the site where you can create a new page type, as a subpage.
 For example, if you'd like to create a new page in the "About Us" section of your site, select the "About Us" page from the dropdown field.
 3. Choose the desired page type from the selection available. In this example select the most generic content page type, ***Page***.
-
-    <div class="note" markdown="1"> Different page types will usually have different content fields to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create "News Article" page types etc.</div>
-
 4. Click the button ***Create***.
 5. Your new page will be created, you can now enter some content. Make sure you consider the length of your ***Page name*** for site tree and front-end clarity. Click the button ***Publish*** to make your changes live.
+
+<div class="note" markdown="1"> Different page types will usually have different content fields to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create "News Article" page types etc.</div>
 
 Don't worry if you create your page in the wrong location. Pages can be moved and re-ordered easily, see [Reordering Pages](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/pages/reordering_pages/) to learn more.
 
