@@ -19,13 +19,15 @@ summary: Add new pages and descriptions of the default page types.
 4. Click the button ***Create***.
 5. Your new page will be created, you can now enter some content. Make sure you consider the length of your ***Page name*** for site tree and front-end clarity. Click the button ***Publish*** to make your changes live.
 
-Don't worry if you create your page in the wrong location. Pages can be moved and re-ordered easily, see [Reordering Pages](02_Reordering_Pages.md) to learn more.
+Don't worry if you create your page in the wrong location. Pages can be moved and re-ordered easily, see [Reordering Pages](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/pages/reordering_pages/) to learn more.
 
 ## Page types
 
 There are many different page types in SilverStripe, each with their own functionality and purpose.
 
 ### Different basic page types and their functions
+
+#### Basic pages
 
 * **Page**—The most generic content page type. Page contains HTML content, and has no customised functionality. Most pages you create on your site will be of this type.
 * **Home Page**—The Home Page behaves like any other page, with the exception that it is the home page for your site. Users will see this page first if they browse directly to the root of your domain.

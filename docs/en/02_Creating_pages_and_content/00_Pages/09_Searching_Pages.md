@@ -7,7 +7,7 @@ Click the button ***Search*** which is shown as a search icon in site tree of th
 
 Search results will remain the only items in the page list view until selecting the link ***Clear***.
 
-![Searching pages](/_images/searching-pages.png)
+![Searching for pages](/_images/searching-pages.png)
 
 You can also search by different criteria, including:
 * **Page status**

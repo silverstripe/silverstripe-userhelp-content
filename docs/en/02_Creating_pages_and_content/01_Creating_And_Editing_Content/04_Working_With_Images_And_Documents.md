@@ -7,25 +7,24 @@ summary: Working with files and images.
 
 Files are typically managed within the Files section of the CMS. This section shows a library of files available to use on your website. This includes both images and documents such as PDF files, and can also include javascript files.
 
-Files can be displayed or linked to from multiple places. This means that by updating a file's details, all of the pages which use the file will recieve those updates (both the file and page would need to be published for these changes to be seen on the live site).
+Files can be displayed or linked to from multiple places. This means that by updating a file's details, all of the pages which use the file will receive those updates (both the file and page would need to be published for these changes to be seen on the live site).
 
 You can either upload files within the Files section or directly from pages through the HTML editor. The Files section supports a range of different file types which are typical for use on the web including images, videos, and documents. See [Web content best practices](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/web_content_best_practices/) for additional tips on how to prepare files for use on the web.
 
 <div class="note" markdown="1">
 By default, uploaded files are placed in the "Uploads" directory.
-
 If you place an image in a page, and later move or rename that image the CMS will automatically keep track of those changes, so your webpage will remain unchanged—you don't even have to republish the page.
 </div>
 
-## Uploading images to the Files library
+## Uploading images
 
 Navigate to the **Files** section in the CMS menu. You should see a grid or list of files (and folders containing files) that have already been uploaded to the CMS, otherwise you probably have an empty files area.
 
-Before you upload your images or files you may wish to create a new folder, or navigate to an existing folder to upload a file into in order to keep your files orderly (More about this in the section [Managing Files](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/working_with_images_and_documents/#managing-files)). You can navigate up and down the folder structure by clicking on folders or clicking the back arrow.
+Before you upload your images or files you may wish to create a new folder, or navigate to an existing folder to upload a file to keep your files orderly. You can navigate up and down the folder structure by clicking on folders or clicking the back arrow.
 
-Click the button ***Upload*** button to choose your file(s) from your computer which you wish to upload, or alternatively you can drag and drop your file(s) into the main **Files** library area.
+Click the button ***Upload*** to choose your file(s) from your computer to upload, or alternatively you can drag and drop your file(s) into the main **Files** library area.
 
-![Files selection](/_images/files-section.png)
+![Files section](/_images/files-section.png)
 
 ![Drag and drop file](/_images/files-drag-drop.png)
 
@@ -34,13 +33,13 @@ You should now see the files you uploaded within your chosen folder.
 ![Uploaded files](/_images/files-uploaded.png)
 
 <div class="note" markdown="1">
-This same process can be used for filetypes other than images as well, see [Uploading and Linking to Documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents/) to learn more.
+This same process can be used for filetypes other than images, see [Linking Documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/linking_documents/) to learn more.
 </div>
 
 ## Uploading images from a page
 
 <div class="note" markdown="1">
-Pages that contain a HTML editor allow you to place files into the content area, some pages don't have a HTML editor area by default and might require a different [Page Type](/en/4/creating_pages_and_content/pages/creating_new_pages/) or for a Content Block to be added.
+Pages that contain a HTML editor allow you to place files into the content area, some pages don't have a HTML editor area by default and might require a different [Page type](/creating_pages_and_content/pages/creating_new_pages/) or for a Content Block to be added.
 </div>
 
 1. Navigate to your page within the **Pages** section.
@@ -59,7 +58,7 @@ Pages that contain a HTML editor allow you to place files into the content area,
 
 Basic functionality and options for files:
 * **Alternative text** is shown if the image cannot be loaded or displayed (for example, on text-only web browsers or screen readers)
-* The **Title** text field shows additional information about the image when the mouse rolls over the image. See, [Web Content Best Practices](03_Web_Content_Best_Practices) to learn more.
+* The **Title** text field shows additional information about the image when the mouse rolls over the image. See, [Web Content Best Practices](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/web_content_best_practices/) to learn more.
 * The **Caption** field can be used to enter text descriptions of an image.
 * The **location** of the file within the Files library
 * **Alignment** and **text wrapping** properties of the image.
