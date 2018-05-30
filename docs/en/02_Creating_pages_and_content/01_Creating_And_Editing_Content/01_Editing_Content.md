@@ -3,6 +3,8 @@ summary: Working with content in your pages.
 
 ## Editing content
 
+<div class="note" markdown="1">If your website includes other features specific to all pages you may see other fields here too.</div>
+
 ![Editing pages section](/_images/Content-Editing.png)
 
 1. In the **Pages** section, select the page you want to edit in the site tree.
@@ -12,12 +14,9 @@ summary: Working with content in your pages.
 * **Navigation label**—how the page is labelled in the website navigation menu, usually the same as the Page name
 * **Content**—main content for the page, can include structured text, images, links, lists etc.
 * **Metadata**—hidden in a panel at the bottom of the interface, the content of these fields don't appear on the page, but instead are used by search engines.
-
-<div class="note" markdown="1">If your website includes other features specific to all pages you may see other fields here too.</div>
+3. Add your required field changes and click the button ***Save*** or ***Publish*** to save a draft or publish the changes to the live site.
 
 ![Editing page fields](/_images/Page-Fields.png)
-
-3. Add your required field changes and click the button ***Save*** or ***Publish*** to save a draft or publish the changes to the live site.
 
 <div class="note" markdown="1">Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.</div>
 
