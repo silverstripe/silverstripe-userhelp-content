@@ -5,17 +5,17 @@ introduction: If you've made some substantial changes to a page, and want to che
 # Previewing changes
 
 <div class="note" markdown="1">
-**Remember when editing content to save your page regularly.**
+Remember when editing content to save your page regularly.
 </div>
 
 Click the button ***Save*** in the publishing bar.
 
- You can either:
- * Click the toggle ***Edit mode*** and select the option **Preview mode**.
+You can either:
+* Click the toggle ***Edit mode*** and select the option **Preview mode**.
 
 ![Edit mode toggle](/_images/view-mode-edit-icon.png)
 
- * Toggle between preview states ***Draft*** and ***Published***.
+* Toggle between preview states ***Draft*** and ***Published***.
 
 ![Preview mode site draft](/_images/preview-draft-published.png)
 

@@ -1,8 +1,6 @@
 title: Overview
 summary: Introducing the SilverStripe CMS administration interface.
 
-<!-- to do bigger refactor piece add images for keys -->
-
 # Overview
 
 The latest SilverStripe CMS administration panel is arranged in four main areas, as shown below:

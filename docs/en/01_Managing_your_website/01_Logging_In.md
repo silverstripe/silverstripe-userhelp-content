@@ -24,7 +24,7 @@ Enter your login (usually your email address) and password. This will take you t
 ![Login to SilverStripe CMS](/_images/general-login.png)
 
 <div class="note" markdown="1">
-If you select the **Keep me signed in** checkbox field, the login fields will pre-populate the next time you login to the CMS. Only use this option on a computer where you alone have access. <!-- to do check -->
+If you select the **Keep me signed in** checkbox field, the login fields will pre-populate the next time you login to the CMS. Only use this option on a computer where you alone have access.
 
 If you can't remember your password, click the link ***I've lost my password***. You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
 

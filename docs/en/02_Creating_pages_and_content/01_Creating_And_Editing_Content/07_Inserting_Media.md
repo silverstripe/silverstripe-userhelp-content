@@ -36,4 +36,4 @@ You can upload your video to one of the supported media services (many of the [s
 8. Click the button ***Insert media***.
 9. Click the button ***Publish*** to make your changes live.
 
-Note: To edit the embedded media further, select the media in the HTML editor and click the button ***Insert media from URL***.
+<div class="note" markdown="1">To edit the embedded media further, select the media in the HTML editor and click the button ***Insert media from URL***.</div>
