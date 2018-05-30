@@ -30,15 +30,15 @@ There are different processes for internal and external links. When pages are mo
 1. Select the option **Link to external URL**.
 2. **Select a page** and **Anchor** from the dropdown fields.
 Enter the following link specifications:
- * Link text (if you have not preselected text already)
- * Link description
- * Open in new window/tab
+* Link text (if you have not preselected text already)
+* Link description
+* Open in new window/tab
 3. Click the button ***Insert Link***.
 
 ### Link to a different website (external link)
 
 1. Select the option **Link to external URL**.
-2. Enter the full website address in the empty URL field. Note: This link should start with http:// or https://
+2. Enter the full website address in the empty URL field. This link should start with http:// or https://
 3. Click the button ***Insert Link***.
 
 ### Link to e-mail address
@@ -51,10 +51,10 @@ Enter the following link specifications:
 
 1. Select the option **Link to a file**.
  You can either:
- * Click the button ***Upload***. In the modal that opens, locate the file on your computer and click the button **Open**.
- * Select a file from the CMS.
+* Click the button ***Upload***. In the modal that opens, locate the file on your computer and click the button **Open**.
+* Select a file from the CMS.
 2. Click the button ***Insert link***.
 
 <div class="note" markdown="1">
-You can also add hyperlinks to documents that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. See [Working with images and documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/working_with_images_and_documents) to learn more.
+You can also add hyperlinks to documents that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. See [Working with images and documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents) to learn more.
 </div>

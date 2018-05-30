@@ -11,7 +11,7 @@ summary: Performing actions on multiple pages at once.
 2. Select the action **Publish** to perform from the dropdown field.
 3. Select any number of pages you want to publish, and click the button ***Go*** to perform the selected action.
 
-Note: Available pages for the selected action will have checkbox fields beside them.
+<div class="note" markdown="1">Available pages for the selected action will have checkbox fields beside them.</div>
 
 ### Archiving multiple pages
 

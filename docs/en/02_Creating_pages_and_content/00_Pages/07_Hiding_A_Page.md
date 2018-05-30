@@ -13,7 +13,7 @@ introduction: You can hide a page so it will not appear in the website navigatio
 <div class="note" markdown="1">You can see which pages are hidden by the page names colored grey in the site tree.</div>
 
 4. Beside the **Visibility** field, unselect the ***Show in search?*** checkbox field to stop the page from appearing in search engine results.
-Note: If you are changing the search visibility on an existing page, it may take a few weeks for the page to disappear from search engine results.
+If you are changing the search visibility on an existing page, it may take a few weeks for the page to disappear from search engine results.
 
 5. Click the button ***Publish***.
 
