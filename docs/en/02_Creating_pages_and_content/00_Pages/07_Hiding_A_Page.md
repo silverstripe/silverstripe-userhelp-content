@@ -21,4 +21,4 @@ Only people who have access to the full page URL will be able to find the page. 
 
 <div class="note" markdown="1">You can either choose to hide the page from the menus or from search engines, you do not need to do both.</div>
 
-![Page visibility](/_images/hiding-pages.png)
+![Page visibility](/_images/Hiding-Pages.png)

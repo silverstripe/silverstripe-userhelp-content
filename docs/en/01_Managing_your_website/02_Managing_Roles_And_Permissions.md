@@ -44,15 +44,14 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 
 1. Navigate to the **Security** section.
 2. Navigate to the ***Roles*** tab.
+3. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist.
+Hover over a permission checkbox label to see a tooltip with more information.
+4. Click the button ***Create***.
+To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the north toolbar.
 
 ![Roles section](/_images/roles-pane.png)
 
-3. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist. Hover over a permission checkbox label to see a tooltip with more information.
-
 ![Creating roles](/_images/creating-roles.png)
-
-4. Click the button ***Create***.
-To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the north toolbar.
 
 <div class="note" markdown="1">
 A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
