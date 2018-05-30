@@ -3,7 +3,7 @@ summary: Working with content in your pages.
 
 ## Editing content
 
-![Editing pages section](/_images/content-editing.png)
+![Editing pages section](/_images/Content-Editing.png)
 
 1. In the **Pages** section, select the page you want to edit in the site tree.
 2. Navigate to the ***Content*** tab. For a standard content page, you can edit the following fields:
@@ -15,7 +15,7 @@ summary: Working with content in your pages.
 
 <div class="note" markdown="1">If your website includes other features specific to all pages you may see other fields here too.</div>
 
-![Editing page fields](/_images/page-fields.png)
+![Editing page fields](/_images/Page-Fields.png)
 
 3. Add your required field changes and click the button ***Save*** or ***Publish*** to save a draft or publish the changes to the live site.
 

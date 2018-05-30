@@ -61,7 +61,7 @@ The Publishing bar on the bottom of the page allows you to save, publish (make p
 
 You can choose view the interface in a few different ways, including Edit Mode, Split Mode (side-by-side edit and preview) or Preview Mode (preview only). Within the preview area you can also toggle between preview states ***Draft*** and ***Published***.
 
-![Edit mode toggle](/_images/preview-bar.png)
+![Edit mode toggle](/_images/Preview-Bar.png)
 
 See,
 [Previewing content changes](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/previewing_changes/) to learn more.

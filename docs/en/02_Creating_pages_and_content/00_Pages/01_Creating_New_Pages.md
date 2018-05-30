@@ -41,10 +41,10 @@ Depending on the code and modules included in your site, your page type list cou
 
 It is also possible to change from one page type to another. To edit an existing page type, navigate to the site tree and select the page you want to change.
 
-![Choosing page type](/_images/choosing-a-page.png)
+![Choosing page type](/_images/Choosing-A-Page.png)
 
 1. Navigate to the ***Settings*** tab.
 2. You can select a new page type from the **Page type** dropdown field.
 3. Click the button ***Publish*** to make your changes live.
 
-![Changing page type](/_images/changing-page-type.png)
+![Changing page type](/_images/Changing-Page-Type.png)

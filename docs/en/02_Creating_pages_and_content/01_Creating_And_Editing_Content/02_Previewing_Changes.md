@@ -23,8 +23,8 @@ You can either:
 
 After you save your page, you can preview the page by selecting either **Preview mode** or **Split mode** in the toggle ***Edit mode***.
 
-![Edit mode toggle options](/_images/preview-bar.png)
+![Edit mode toggle options](/_images/Preview-Bar.png)
 
 This will allow you to view a preview of your draft content alongside the Page management section. That way you can make live updates to the Draft site and see the preview immediately.
 
-![Preview option](/_images/preview.png)
+![Preview option](/_images/Preview.png)
