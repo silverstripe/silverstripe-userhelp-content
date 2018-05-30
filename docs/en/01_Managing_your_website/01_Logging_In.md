@@ -15,11 +15,11 @@ To access the SilverStripe CMS, you need a username and password. Usernames and 
 
 Open your web browser. It is best to use the latest version of your browser for the best experience.
 
-To navigate to the login page for the site administration, type in your website address, and add "/admin" to the end. For example, if your website is http://www.yoursite.com/, your login page would be found at http://www.yoursite.com/admin.
+To navigate to the login page for the site administration, type in your website address, and add "/admin" to the end. For example, if your website is www.yoursite.com, your login page would be found at www.yoursite.com/admin.
 
 Enter your login (usually your email address) and password. This will take you to the CMS main screen.
 
-*Page viewable by browsing to http://www.mysite.com/admin*
+*Page viewable by browsing to www.mysite.com/admin*
 
 ![Login to SilverStripe CMS](/_images/general-login.png)
 
@@ -28,5 +28,5 @@ If you select the **Keep me signed in** checkbox field, the login fields will pr
 
 If you can't remember your password, click the link ***I've lost my password***. You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
 
-If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](02_Changing_And_Managing_Users.md).
+If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](https://userhelp.silverstripe.org/en/4/managing_your_website/changing_and_managing_users/).
 </div>

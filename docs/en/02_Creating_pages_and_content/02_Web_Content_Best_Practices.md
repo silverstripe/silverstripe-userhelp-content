@@ -31,25 +31,22 @@ As a website editor, you should be aware of creating accessible content such as:
 
 When you first create a new page, start by entering its name in the **Page name** field on the **Content** tab. SilverStripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually. It's useful to know where and how the different names are displayed.
 
-![Page names](/_images/page-names.png)
+![Page name field](/_images/page-names.png)
 
 * **Page name**—generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
 * **Navigation label**—appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 
 <div class="note" markdown="1">
-
-### Notes:
-
 Your website developer will have configured your SilverStripe site for either simple or hierarchical URLs.
 
-Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be http://website.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
+Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be www.website.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
 
 If a URL is already in use, the CMS will generate URLs with numbers, e.g., /staff-members-1, /staff-members-2, etc.
 
 In this case, it's a good idea to manually change the URLs to something more meaningful, such as /staff-members-berlin, /staff-members-hong-kong.
 
-Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be http://website.com/offices/new-york/staff/john-smith
+Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be www.website.com/offices/new-york/staff/john-smith
 </div>
 
 ### Meta tags
@@ -59,9 +56,6 @@ Meta tags also make your web page more findable. The **Meta Description** field 
 ![Meta titles](/_images/meta-title.jpg)
 
 <div class="note" markdown="1">
-
-### Notes:
-
 The meta fields for title and keywords have been removed in v3.1. Keywords have been removed due to an official Google press release which confirmed that [Google doesn't use the keywords tag anymore](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
 
 It is best to avoid repetition of keywords and phrases in the description. Google sees this as 'keyword stuffing', which is looked at as search engine spam.

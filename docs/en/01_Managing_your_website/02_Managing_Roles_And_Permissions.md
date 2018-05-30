@@ -16,7 +16,7 @@ summary: Managing CMS access and permissions using groups and roles.
 
 * Navigate to the **Security** section in the CMS menu.
 
-![Security tab main view](/_images/security_pane_main_view.png)
+![Security tab](/_images/security_pane_main_view.png)
 
 ## Explaining security groups and roles
 
@@ -45,7 +45,7 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 1. Navigate to the **Security** section.
 2. Navigate to the ***Roles*** tab.
 
-![The roles section](/_images/roles-pane.png)
+![Roles section](/_images/roles-pane.png)
 
 3. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist. Hover over a permission checkbox label to see a tooltip with more information.
 
@@ -56,9 +56,7 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 Note: To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the north toolbar.
 
 <div class="note" markdown="1">
-A role can have any number of permissions.
-
-For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
+A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
 </div>
 
 ## Editing roles
@@ -69,7 +67,7 @@ To see details or edit an existing role, select the list item.
 
 Each CMS user for your website belongs to one or more groups. For example, you may have a group who can only access the News section of your website, and another group who can only access the Events section of your website. The users in each group would be the people who manage the content for the respective section.
 
-![The groups section](/_images/groups-pane.png)
+![Groups section](/_images/groups-pane.png)
 
 Unlike roles, there are no basic groups that typically apply to all sites. Instead, the groups you set up depend on your organisation, and who is involved in updating your website. We recommend thinking about who manages which areas or sections of your website, and then create groups based on those areas of responsibility.
 

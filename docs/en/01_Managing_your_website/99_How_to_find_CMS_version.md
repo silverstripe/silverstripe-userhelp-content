@@ -7,7 +7,7 @@ It's good to know the SilverStripe CMS version you are using to manage your cont
 
 To find the CMS version, hover your mouse over the SilverStripe CMS logo in the CMS menu. The SilverStripe CMS version you are using will show which powers your site.
 
-![Hover on SilverStripe logo to get CMS version](/_images/finding-version.png)
+![Hover on SilverStripe logo to view CMS version](/_images/finding-version.png)
 
 Take note of the number and ensure when you use the SilverStripe CMS user help guides you select the correct version to match.
 

@@ -56,5 +56,5 @@ Enter the following link specifications:
 2. Click the button ***Insert link***.
 
 <div class="note" markdown="1">
-You can also add hyperlinks to documents that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. See [Working with images and documents](https://userhelp.silverstripe.org/en/3.6/creating_pages_and_content/working_with_images_and_documents) to learn more.
+You can also add hyperlinks to documents that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. See [Working with images and documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/working_with_images_and_documents) to learn more.
 </div>

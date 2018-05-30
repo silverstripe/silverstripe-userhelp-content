@@ -7,7 +7,7 @@ summary: Introducing the SilverStripe CMS administration interface.
 
 The latest SilverStripe CMS administration panel is arranged in four main areas, as shown below:
 
-![SS4 Administration Panel](/_images/basic-overview.png)
+![SilverStripe 4 CMS overview](/_images/basic-overview.png)
 
 ## CMS menu
 
@@ -51,13 +51,13 @@ The Tree Management area is found between the CMS menu and page details, and dis
 
 ### Page Management
 
-The Page Management area shows various data relating to individual pages such as: page name, navigation label (label in the website menu), URL and general content. The content of each page is typically edited through a text editor (TinyMCE WYSIWYG), which behaves in a similar fashion to a word processing application (such as Microsoft Word). Content authors can also select to edit the page's html directly through the editor.
+The Page Management area shows various data relating to individual pages such as: page name, navigation label (label in the website menu), URL and general content. The content of each page is typically edited through a text editor (HTML editor), which behaves in a similar fashion to a word processing application (such as Microsoft Word). Content authors can also select to edit the page's html directly through the editor.
 
 #### Publishing Bar
 
 The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
 
-![SS4 Publishing Options](/_images/publishing-options.png)
+![SS4 publishing options](/_images/publishing-options.png)
 
 ### View mode toggle and page preview
 
@@ -66,4 +66,4 @@ You can choose view the interface in a few different ways, including Edit Mode, 
 ![Edit mode toggle](/_images/preview-bar.png)
 
 See,
-[Previewing content changes](https://userhelp.silverstripe.org/en/3.6/creating_pages_and_content/creating_and_editing_content/previewing_changes/) to learn more.
+[Previewing content changes](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/previewing_changes/) to learn more.
