@@ -1,12 +1,12 @@
-title: SilverStripe CMS user help guide
+title: SilverStripe CMS User help guide
 introduction: Guidance for SilverStripe CMS content editors and website administrators.
 
-# SilverStripe CMS user help guide
+# SilverStripe CMS User help guide
 
 This site is a user-focused reference targeted at editors and administrators who create and manage content on SilverStripe CMS websites.
 This guide applies to version 4.x of the CMS (all releases in the SilverStripe 4 release line).
 
-This user help also covers a number of [modules](https://addons.silverstripe.org)
+This User help guide also covers a number of [modules](https://addons.silverstripe.org)
 which may or may not be installed for your site. Refer to the intro for each chapter to find out the prerequisites for using a feature.
 
 We've moved the [forum!](https://www.silverstripe.org/community/forums/) We encourage you to use [forum.silverstripe.org](https://forum.silverstripe.org/) for any new questions. You can also use the [community Slack channel](https://www.silverstripe.org/community/slack-signup) or [StackOverflow](https://stackoverflow.com/questions/tagged/silverstripe) to ask for help.
@@ -15,7 +15,7 @@ Check out our [community](https://www.silverstripe.org/community/) overview for 
 
 For customers of SilverStripe Ltd., the company behind the CMS, visit [silverstripe.com](https://www.silverstripe.com/).
 
-<div class="note" markdown="1">Sections of our user help are still a work in progress. If you would like to help contribute to the SilverStripe user help guide you can edit the pages on [GitHub](https://github.com/silverstripe/silverstripe-userhelp-content/) or create an [issue](https://github.com/silverstripe/silverstripe-userhelp-content/issues/new?labels=documentation).
+<div class="note" markdown="1">Sections of User help are still a work in progress. If you would like to help contribute to the SilverStripe User help guide you can edit the pages on [GitHub](https://github.com/silverstripe/silverstripe-userhelp-content/) or create an [issue](https://github.com/silverstripe/silverstripe-userhelp-content/issues/new?labels=documentation).
 </div>
 
 ## Managing your website

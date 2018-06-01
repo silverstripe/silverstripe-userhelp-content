@@ -9,7 +9,7 @@ The latest SilverStripe CMS administration panel is arranged in four main areas,
 
 ## CMS menu
 
-This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and get CMS user help.
+This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and CMS User help.
 
 The menu you see may change depending on what modules are installed. However, the following tabs are part of a typical SilverStripe installation:
 
