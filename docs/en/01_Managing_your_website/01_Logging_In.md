@@ -5,7 +5,7 @@ summary: Logging into a SilverStripe CMS website to start editing content.
 
 Hello, and welcome to the SilverStripe CMS User help. Hopefully, you can find the topic you're looking for in the sidebar. Alternatively, you can use our search function above.
 
-If you have not yet installed SilverStripe, but want to follow along, you can use our interactive demo at [http://demo.silverstripe.com/](http://demo.silverstripe.com/).
+If you have not yet installed SilverStripe, but want to follow along, you can use our interactive demo at [http://demo.silverstripe.com/](http://demo.silverstripe.com/admin).
 
 To access this help guide, click the button ***Help*** from your SilverStripe CMS menu at any time.
 
@@ -27,6 +27,6 @@ Enter your login (usually your email address) and password. This will take you t
 If you select the **Keep me signed in** checkbox field, the login fields will pre-populate the next time you login to the CMS. Only use this option on a computer where you alone have access.
 
 If you can't remember your password, click the link ***I've lost my password***. You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
+</div>
 
 If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](https://userhelp.silverstripe.org/en/4/managing_your_website/changing_and_managing_users/).
-</div>

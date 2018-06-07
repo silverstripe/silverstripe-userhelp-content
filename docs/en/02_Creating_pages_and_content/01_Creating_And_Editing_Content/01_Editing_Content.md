@@ -3,7 +3,7 @@ summary: Working with content in your pages.
 
 ## Editing content
 
-<div class="note" markdown="1">If your website includes other features specific to all pages you may see other fields here too.</div>
+If your website includes other features specific to all pages you may see other fields here too.
 
 ![Editing pages section](/_images/Content-Editing.png)
 
@@ -11,10 +11,10 @@ summary: Working with content in your pages.
 2. Navigate to the ***Content*** tab. For a standard content page, you can edit the following fields:
 * **Page name**—appears at the top of the page, above the content.
 * **URL segment**—the website address for the page.
-* **Navigation label**—how the page is labelled in the website navigation menu, usually the same as the Page name
+* **Navigation label**—how the page is labelled in the website navigation menu, usually the same as the Page name.
 * **Content**—main content for the page, can include structured text, images, links, lists etc.
 * **Metadata**—hidden in a panel at the bottom of the interface, the content of these fields don't appear on the page, but instead are used by search engines.
-3. Add your required field changes and click the button ***Save*** or ***Publish*** to save a draft or publish the changes to the live site.
+3. Add your required field changes and click the button ***Save*** or ***Publish***.
 
 ![Editing page fields](/_images/Page-Fields.png)
 
@@ -38,11 +38,11 @@ Headings represent the outline structure of a document. H1 is generally consider
 
 ### Blockquote
 
-***Blockquote*** which is shown as a quotation mark is used to offset text which are commonly known as pull-quotes. Simply highlight the text you want to offset, and click the button ***Blockquote***.
+Blockquote which is shown as a quotation mark is used to offset text which are commonly known as pull-quotes. Simply highlight the text you want to offset, and click the button ***Blockquote***.
 
 ### Horizontal Ruler
 
-***Insert horizontal ruler*** will insert a horizontal line on the page, and the button ***Insert special character***, marked by the Greek Omega symbol, is used to insert special characters into the text. This is useful for foreign loanwords with special symbols, such as "resumé," proper names such as "François Mitterrand," and metal umlauts, such as "Mötley Crüe".
+Insert horizontal ruler will insert a horizontal line on the page, and the button ***Insert special character***, marked by the Greek Omega symbol, is used to insert special characters into the text. This is useful for foreign loanwords with special symbols, such as "resumé," proper names such as "François Mitterrand," and metal umlauts, such as "Mötley Crüe".
 
 ### HTML
 

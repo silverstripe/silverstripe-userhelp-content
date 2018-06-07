@@ -54,7 +54,7 @@ To navigate back to the Roles section either click the link ***Security*** in th
 ![Creating roles](/_images/creating-roles.png)
 
 <div class="note" markdown="1">
-A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
+A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (they can change the location for a page in the site tree and  manage the site structure and navigation).
 </div>
 
 ## Editing roles
@@ -63,7 +63,7 @@ To see details or edit an existing role, select the list item.
 
 ## Using groups
 
-Each CMS user for your website belongs to one or more groups. For example, you may have a group who can only access the News section of your website, and another group who can only access the Events section of your website. The users in each group would be the people who manage the content for the respective section.
+Each CMS user for your website belongs to one or more groups. For example, you may have a group who can only access the "News" section of your website, and another group who can only access the "Events" section of your website. The users in each group would be the people who manage the content for the respective section.
 
 ![Groups section](/_images/groups-pane.png)
 
@@ -98,8 +98,11 @@ Users can be in multiple groups. If you delete a user from a group, they are onl
 
 ## Editing and deleting groups
 
-1. To edit a group, click the group name in the Groups list. This opens the group details. You can change the group name, and add, edit or delete members. Note that a single user can belong to more than one group.
-2. To delete a group, click the ***Delete*** button shown as a trash icon. Note that deleting a group does not delete its members.
+1. To edit a group, click the Group Name list item. This opens the group details. You can change the Group name, and add, edit or delete members.
+
+2. To delete a group, click the ***Delete*** button shown as a trash icon.
+
+<div class="note" markdown="1">Note that a single user can belong to more than one group and that deleting a group does not delete its members.</div>
 
 ## Assigning roles to security group members
 

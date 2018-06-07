@@ -6,7 +6,7 @@ introduction: Anytime you ***Save*** or ***Publish*** a snapshot of the page is 
 
 ## Rolling back
 
-1. Select a page you want to roll back to enter edit mode, navigate to the ***History*** tab. You will see a list of each version of the page in the left sidebar, along with the pages date, and the user who published it.
+1. Select a page you want to roll back to in the site tree and navigate to the ***History*** tab. You will see a list of each version of the page in the left sidebar, along with the pages date, and the user who published it.
 2. Select a version to preview. If you select the **Show unpublished versions** checkbox field, the list will also display snapshots from when users clicked Save.
 You can preview how the current snapshot looked on the site, by switching to **Preview** mode using the edit mode toggle.
 3. Click the button ***Revert to this version***, once you have located the snapshot that you want to roll back to.

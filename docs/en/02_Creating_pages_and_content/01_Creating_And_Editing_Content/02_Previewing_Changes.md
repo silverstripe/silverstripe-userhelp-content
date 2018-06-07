@@ -11,7 +11,7 @@ Remember when editing content to save your page regularly.
 Click the button ***Save*** in the publishing bar.
 
 You can either:
-* Click the toggle ***Edit mode*** and select the option **Preview mode**.
+* Click the ***Edit mode*** toggle and select the option **Preview mode**.
 
 ![Edit mode toggle](/_images/view-mode-edit-icon.png)
 
@@ -21,10 +21,11 @@ You can either:
 
 ## Previewing your changes
 
-After you save your page, you can preview the page by selecting either **Preview mode** or **Split mode** in the toggle ***Edit mode***.
+1. Click the button ***Save*** in the publishing bar.
+2. Click the ***Edit mode*** toggle and select the option **Split mode**.
 
 ![Edit mode toggle options](/_images/Preview-Bar.png)
 
-This will allow you to view a preview of your draft content alongside the Page management section. That way you can make live updates to the Draft site and see the preview immediately.
+This will allow you to view a preview of your draft/live content alongside the Page management section. That way you can make updates and see the preview immediately.
 
 ![Preview option](/_images/Preview.png)

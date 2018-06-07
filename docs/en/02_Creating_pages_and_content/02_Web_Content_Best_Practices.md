@@ -22,7 +22,7 @@ Search engine friendliness and accessibility are very closely related—you can 
 As a website editor, you should be aware of creating accessible content such as:
 * Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
 * If it's important to you to rank highly for **specific phrases**, it's key to mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
-* Use CMS tools for to properly **mark up** your content.
+* Use CMS tools to properly **mark up** your content.
 * Ensure **correct spelling** across all your content—typos make the site rank lower.
 * Ensure there are **no broken links** in your site—again, broken links will make your site rank lower.
 * Provide **text alternatives** for media content, such as ALT text for your images, since search engines can't see images, just their descriptions.

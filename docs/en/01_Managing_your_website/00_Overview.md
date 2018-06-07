@@ -57,11 +57,10 @@ The Publishing bar on the bottom of the page allows you to save, publish (make p
 
 ![SS4 publishing options](/_images/publishing-options.png)
 
-### View mode toggle and page preview
+### Edit mode toggle and page preview
 
-You can choose view the interface in a few different ways, including Edit Mode, Split Mode (side-by-side edit and preview) or Preview Mode (preview only). Within the preview area you can also toggle between preview states ***Draft*** and ***Published***.
+You can choose to view the interface in a few different ways, including Edit mode, Split mode (side-by-side edit and preview) or Preview mode (preview only). Within the preview area you can also toggle between preview states ***Draft*** and ***Published***.
 
 ![Edit mode toggle](/_images/Preview-Bar.png)
 
-See,
-[Previewing content changes](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/previewing_changes/) to learn more.
+See, [Previewing content changes](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/previewing_changes) to learn more.
