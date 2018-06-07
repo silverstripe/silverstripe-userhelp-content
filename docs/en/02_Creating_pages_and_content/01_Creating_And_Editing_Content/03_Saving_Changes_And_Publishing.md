@@ -3,7 +3,7 @@ summary: Saving Draft changes and how to know if you have unpublished changes.
 
 # Saving changes for later
 
-Click the button ***Save***. The changes will be saved as a **Draft**, but not published to the live site. You can safely log out of the CMS, and next time you select the page to edit you will see your saved changes and continue where you left off.
+Click the button ***Save***. The changes will be saved as a **Draft**, but not published to the live version. You can safely log out of the CMS, and next time you select the page to edit you will see your saved changes and continue where you left off.
 
 If another CMS user selects the page they will also see your changes and can review, add content or Publish the page depending on their user permissions.
 

@@ -12,8 +12,8 @@ The following reports are available as part of the default installation of Silve
 
 * Broken links report
 * Pages with broken files
-* [RedirectorPages](http://https://userhelp.silverstripe.org/en/4/creating_pages_and_content/pages/creating_new_pages/#basic-pages) pointing to deleted pages
-* [VirtualPages](http://https://userhelp.silverstripe.org/en/4/creating_pages_and_content/pages/creating_new_pages/#basic-pages) pointing to deleted pages
+* [RedirectorPages](https://https://userhelp.silverstripe.org/en/4/creating_pages_and_content/pages/creating_new_pages/#basic-pages) pointing to deleted pages
+* [VirtualPages](https://https://userhelp.silverstripe.org/en/4/creating_pages_and_content/pages/creating_new_pages/#basic-pages) pointing to deleted pages
 * Pages with no content
 * Pages edited in the last 2 weeks
 
