@@ -10,5 +10,5 @@ summary: Guidance on restoring an archived page at a later date.
 3. Select the **Page status** dropdown field that currently displays **All pages** and select the option **All pages, including archived**.
 4. Click the button ***Search*** which will display all pages that were previously archived. You can click the link ***Clear*** to hide the archived pages again.
 5. Find the archived page you wish to recover, and select the list item.
-6. Click the button ***Restore Draft***, to restore the archived page to the draft site.
+6. Click the button ***Restore Draft***, to restore the archived page as a draft.
 7. Make any required changes to the page, and click the button ***Publish*** to publish the page back to the live version.

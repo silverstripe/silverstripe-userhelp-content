@@ -1,4 +1,4 @@
-# Silverstripe User Help
+# SilverStripe User Help
 
 The **SilverStripe 4.0** User help in Markdown format, as published on
 [userhelp.silverstripe.org](http://userhelp.silverstripe.org)
