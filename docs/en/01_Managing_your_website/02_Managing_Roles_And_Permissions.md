@@ -99,7 +99,6 @@ Users can be in multiple groups. If you delete a user from a group, they are onl
 ## Editing and deleting groups
 
 1. To edit a group, click the Group Name list item. This opens the group details. You can change the Group name, and add, edit or delete members.
-
 2. To delete a group, click the ***Delete*** button shown as a trash icon.
 
 <div class="note" markdown="1">Note that a single user can belong to more than one group and that deleting a group does not delete its members.</div>
