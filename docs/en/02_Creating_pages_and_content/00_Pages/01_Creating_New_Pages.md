@@ -36,7 +36,7 @@ There are many different page types in SilverStripe, each with their own functio
 
 #### Other types of pages
 
-Depending on the code and modules included in your site, your page type list could contain any number of other page types. This could include [blog pages](/optional_features/blogs), [forums](/optional_features/forums), [user defined forms](/optional_features/forms), or news pages.
+Depending on the code and modules included in your site, your page type list could contain any number of other page types. This could include [blog pages](/optional_features/blogs), [user defined forms](/optional_features/forms), or news pages.
 
 ### Changing an existing page type
 
