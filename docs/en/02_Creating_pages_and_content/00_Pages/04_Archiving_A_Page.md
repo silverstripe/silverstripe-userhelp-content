@@ -1,8 +1,8 @@
 title: Archiving a page
-summary: Removing pages from the draft/live site.
+summary: Removing pages from the site.
 
 # Archiving a page
-Any page in the CMS can be archived, which removes it from both the draft/live site, but retains the page in the internal version history.
+Any page in the CMS can be archived, which removes it from the site, but retains the page in the internal version history.
 
 ### Archiving pages
 

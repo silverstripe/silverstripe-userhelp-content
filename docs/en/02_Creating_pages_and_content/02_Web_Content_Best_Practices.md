@@ -116,10 +116,6 @@ For tables, make sure you mark them up so that screen readers can interpret them
 
 ## Other best practices
 
-### Image dimensions
-
-When you embed images in your content, always specify width and height. This allows the browser to start rendering the page before downloading the actual image, which speeds up page loading. SilverStripe CMS pre-populates the image dimensions automatically, so you do not need to edit them unless you would like to change the dimensions.
-
 ### Custom error pages
 
 Sometimes your users will get a **Page not Found** error because they clicked on an outdated link or misspelled the URL of the page they were looking for. The **Page not Found** error is also known as a "404 error".
