@@ -23,7 +23,7 @@ Repeat this process for every file you wish to upload or you can select multiple
 Once the images have finished uploading, click the "Back to folder" button to go back to the parent folder. You should now see the files you uploaded within your chosen folder.
 
 <div class="note" markdown="1">
-This same process can be used for filetypes other than images as well, which we will cover in "[Uploading and Linking to Documents](https://userhelp.silverstripe.org/en/3.4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents/)."
+This same process can be used for filetypes other than images as well, which we will cover in [Uploading and Linking to Documents](https://userhelp.silverstripe.org/en/3.4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents/).
 </div>
 
 ### Inserting uploaded images
