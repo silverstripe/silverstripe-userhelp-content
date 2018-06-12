@@ -21,7 +21,7 @@ For customers of SilverStripe Ltd., the company behind the CMS, visit [silverstr
 ## Managing your website
 [CHILDREN Folder=01_Managing_your_website]
 
-## Creating pages and content
+## Pages and content
 [CHILDREN Folder=02_Creating_pages_and_content]
 
 ## Optional features
