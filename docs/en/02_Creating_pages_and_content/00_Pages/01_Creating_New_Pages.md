@@ -37,7 +37,7 @@ There are many different page types in SilverStripe, each with their own functio
 
 Depending on the code and modules included in your site, your page type list could contain any number of other page types. This could include [blog pages](/optional_features/blogs), [user defined forms](/optional_features/forms), or news pages.
 
-The home page of the site, shown by default when a visitor browses directly to the root of your domain, is identified within  Silverstripe by the URL segment being set as 'home'.
+The home page of the site, shown by default when a visitor browses directly to the root of your domain (eg. www.example.com/), is identified within SilverStripe by the URL segment being set to 'home'.
 
 ### Changing an existing page type
 
