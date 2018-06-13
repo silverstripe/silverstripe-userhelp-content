@@ -3,6 +3,9 @@ summary: Guidance on the best web browsers to use when editing content in Silver
 
 # Web browser differences
 
-It's highly recommended to use either [Google Chrome](http://google.com/chrome) or [Mozilla FireFox](http://www.mozilla.org/en-GB/firefox/) as your web browser, as Internet Explorer doesn't support some features such as inserting multiple images at once, or resizing images whilst maintaining their proportions.
+Due to the variety of operating systems and web browsers available, it can sometimes be difficult to know which to use.  The SilverStripe CMS is tested on a number of platforms to ensure maximum compatibility and generally speaking, most modern browsers will be suitable for working with SilverStripe.
 
-[Google Chrome](http://google.com/chrome) and [Mozilla FireFox](http://www.mozilla.org/en-GB/firefox/) are also generally faster, more secure browsers, which are also highly recommended to use instead of Internet Explorer for your everyday browsing.
+It is important is to ensure that your operating system and web browser are kept updated to the latest version.  This can help ensure that security issues, bugfixes and features are kept up-to-date.
+
+
+Generally, it is recommended that [Google Chrome](http://google.com/chrome) or [Mozilla FireFox](http://www.mozilla.org/en-GB/firefox/) are used to get the best results from the CMS.
