@@ -40,13 +40,13 @@ When you first create a new page, start by entering its name in the **Page name*
 <div class="note" markdown="1">
 Your website developer will have configured your SilverStripe site for either simple or hierarchical URLs.
 
-Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be www.website.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
+Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be www.example.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
 
 If a URL is already in use, the CMS will generate URLs with numbers, e.g., /staff-members-1, /staff-members-2, etc.
 
 In this case, it's a good idea to manually change the URLs to something more meaningful, such as /staff-members-berlin, /staff-members-hong-kong.
 
-Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be www.website.com/offices/new-york/staff/john-smith
+Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be www.example.com/offices/new-york/staff/john-smith
 </div>
 
 ### Meta tags
