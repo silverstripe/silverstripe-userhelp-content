@@ -35,7 +35,7 @@ The Security section enables you to set up and administer users and user groups 
 
 ### Settings
 
-Here is where you can manage some global settings like the site name, themes and user access control.
+Here is where you can manage some global settings like the site name and user access control.
 
 ### Help
 
