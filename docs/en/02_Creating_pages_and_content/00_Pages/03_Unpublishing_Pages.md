@@ -14,3 +14,6 @@ introduction: If you want to temporarily remove a page from your website, for ex
 Pages that exist as drafts, but are not yet published, will be marked with a **Draft** label in the site tree. When you create a new page, it will only exist as a Draft, until you click the button ***Publish***.
 
 If you have no plans to re-publish the page in the near future, you can **Unpublish and archive** and recover the page at a later date, see [Restoring archived pages](restoring_archived_pages) to learn more.
+
+
+<div class="note" markdown="1">In some circumstances, unpublished pages may still be visible on the website to admin users whilst they are logged in.  If unpublished pages are still appearing, check the site as a non-admin user or whilst not logged in to ensure that pages have been updated as expected.  See the section on [Previewing Changes](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/previewing_changes/#previewing-changes) for more information.</div>
