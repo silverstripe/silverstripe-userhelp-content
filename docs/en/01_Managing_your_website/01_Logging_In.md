@@ -15,11 +15,11 @@ To access the SilverStripe CMS, you need a username and password. Usernames and 
 
 Open your web browser. It is best to use the latest version of your browser for the best experience.
 
-To navigate to the login page for the site administration, type in your website address, and add "/admin" to the end. For example, if your website is www.yoursite.com, your login page would be found at www.yoursite.com/admin.
+To navigate to the login page for the site administration, type in your website address, and add "/admin" to the end. For example, if your website is www.example.com, your login page would be found at www.example.com/admin.
 
 Enter your login (usually your email address) and password. This will take you to the CMS main screen.
 
-*Page viewable by browsing to www.mysite.com/admin*
+*Page viewable by browsing to www.example.com/admin*
 
 ![Login to SilverStripe CMS](/_images/general-login.png)
 
