@@ -22,7 +22,7 @@ Navigate to the tab ***Users*** and click the button ***Add Member***.
 
 In the **New Member** section, you can edit the user's details. The two most important parts of the user's details are the email (which is also used for logging in) and password.
 
-Note: By default, an email address can only be used once in the system.  It is not possible for multiple users to share the same email address.
+<div class="note" markdown="1">By default, an email address can only be used once in the system. It is not possible for multiple users to share the same email address.</div>
 
 ![User details](/_images/user-details.png)
 
