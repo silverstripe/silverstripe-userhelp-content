@@ -15,7 +15,7 @@ Campaigns enable:
 Note: As this section of the CMS is relatively new it will continue to develop, for example, two planned features to be added will be scheduled publishing and permissions/settings of a campaign.
 
 
-# Creating a new campaigns
+## Creating a new campaigns
 
 1. From the **Campaigns** section, click the button ***Add campaign***
 2. Add the details of your campaign:
@@ -27,7 +27,7 @@ Note: As this section of the CMS is relatively new it will continue to develop, 
 
 ![New Campaign](/_images/new-campaign.png)
 
-# Editing camapaign details/settings
+## Editing camapaign details/settings
 
 ![Campaign section](/_images/campaign-gridfield.png)
 
@@ -36,7 +36,9 @@ Note: As this section of the CMS is relatively new it will continue to develop, 
 3. Edit the **Name** and **Description** of your campaign
 4. If a campaign details have been changed the call-to-action will be **Save** otherwise it will display as **Saved** (meaning there are no changes which need saving). Click the ***Save*** button, you will notified if the campaign has been successfully updated.  
 
-# Adding items to a campaign
+## Adding items to a campaign
+
+![Adding Page to Campaign](/_images/add-to-campaign.png)
 
 1. To add content to a campaign you need to navigate to the content you want to add.
 2. From the ***More options*** dropdown (presented as an ellipsis icon) you should see the action ***Add to campaign***.
@@ -44,8 +46,27 @@ Note: As this section of the CMS is relatively new it will continue to develop, 
 4. From the **Available campaigns** dropdown select a campaign to add your item to, or alternatively select ***Add to a new campaign*** where you will presented with a new field where you can add a new campaign.
 5. Click ***Add*** to add your content to the desired campaign, you will be presented with a success message if there were no issues. You can now close the dialog box.
 
-![Adding Page to Campaign](/_images/add-to-campaign.png)
-
 ![Campaign modal](/_images/campaign-modal.png)
 
+## Managing items in a campaign
+
+By selecting a campaign you will be taken to a view where you can see the contents of that campaign. These items will be categorised by content type (for example pages and files). 
+
+When an item is selected in the campaign you will see a preview of the item on the right side of the screen if one is available. Items have two actions below the preview area:
+ * **Edit**—Takes you to the edatible view outside of campaigns. For example, for a page it will take you to the page within the **Pages** section.
+ * **Remove**—This action removes the item from the campaign. This includes any items which are solely tied to the item being removed, for example if a page is removed which contains a file which isn't being used by another item in the campaign both the page and file will be removed at the same time (see linked items below).
+ 
+ ### Content states
+ Items will indicate whether the item is already published or has unpublished changes by a badge.
+  * **No changes**—Only items that are selected will show this badge, and it indicates that the item is already published and there will be no visible change if the campaign is published.
+  * **Draft**—The item does not exist on the live site in any form.
+  * **Modified**—The item exists on the live site but there are additional changes which will be visible once the campaign is published.
+  * No badge—like **No changes** this indicates that the item is already published and there will be no visible change if the campaign is published.
+ 
+ ### Linked campaign items
+ 
+When a **link** icon appears on selected content in a campaign there are other items in the campaign which are dependant on it. For example, an image might be placed on a page and if the page is removed or published the image will also be removed or published becasue of the relationship they have. Any linked items in the campaign will also show a link icon to represent this relationship.
+
 ![Campaign preview](/_images/preview-campaign.png)
+
+
