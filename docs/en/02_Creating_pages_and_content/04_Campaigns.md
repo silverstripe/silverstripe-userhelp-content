@@ -5,7 +5,7 @@ summary: Create and group new content together to be released all at once.
 
 The Campaigns section of the CMS is new as of SilverStripe 4.
 
-Campaigns allow for a set of pages on your site to be viewed and published as a collection. Items in a campaign could contain varying types of content including pages, files, data, content blocks, and forms. By default most content types can be added to a campaign but this will depend on how your data structures have been defined.
+Campaigns allow for a set of content types (like images and pages) on your site to be viewed and published as a collection. Items in a campaign could contain varying types of content including pages, files, data, content blocks, and forms. By default most content types can be added to a campaign but this will depend on how your data structures have been defined.
 
 Campaigns enable:
 * individuals or team to have easier visibility of a collection of content they need to work on or maintain
@@ -15,19 +15,20 @@ Campaigns enable:
 Note: As this section of the CMS is relatively new it will continue to develop, for example, two planned features to be added will be scheduled publishing and permissions/settings of a campaign.
 
 
-## Creating a new campaigns
+## Creating a new campaign
 
 1. From the **Campaigns** section, click the button ***Add campaign***
 2. Add the details of your campaign:
 	1. **Name** Give the campaign an easy to recognise/understand title. For example: Product launch June 2019, Marketing team to do.
-	2. **Description** You add additional details to your campaign for easy reference. For example: Go-live date, Team involved, Target audience.
+	2. **Description** You can add additional details to your campaign for easy reference. For example: Go-live date, Team involved, Target audience.
 3. Click the ***Create*** button, you will be navigated to the newly created campaign which will initially be empty of content. 
 
 ![Adding a new Campaign](/_images/campaigns-section.png)
 
 ![New Campaign](/_images/new-campaign.png)
 
-## Editing camapaign details/settings
+
+## Editing details/settings
 
 ![Campaign section](/_images/campaign-gridfield.png)
 
@@ -35,6 +36,10 @@ Note: As this section of the CMS is relatively new it will continue to develop, 
 2. From the list of current campaigns which are presented, for the campaign you want to edit click on the **Settings** action located on the far right of the item.
 3. Edit the **Name** and **Description** of your campaign
 4. If a campaign details have been changed the call-to-action will be **Save** otherwise it will display as **Saved** (meaning there are no changes which need saving). Click the ***Save*** button, you will notified if the campaign has been successfully updated.  
+
+## Campaign states
+ * **Active**—the campaign has not been published 
+ * **Published**—the campaign has been already be published
 
 ## Adding items to a campaign
 
@@ -57,11 +62,11 @@ When an item is selected in the campaign you will see a preview of the item on t
  * **Remove**—This action removes the item from the campaign. This includes any items which are solely tied to the item being removed, for example if a page is removed which contains a file which isn't being used by another item in the campaign both the page and file will be removed at the same time (see linked items below).
  
  ### Content states
- Items will indicate whether the item is already published or has unpublished changes by a badge.
+ Items will indicate whether they are have unpublished changes by showing a badge, if there is no badge present then the item is already published, so there will be no visible change to this item if the campaign is published.
+ State badges:
   * **No changes**—Only items that are selected will show this badge, and it indicates that the item is already published and there will be no visible change if the campaign is published.
   * **Draft**—The item does not exist on the live site in any form.
   * **Modified**—The item exists on the live site but there are additional changes which will be visible once the campaign is published.
-  * No badge—like **No changes** this indicates that the item is already published and there will be no visible change if the campaign is published.
  
  ### Linked campaign items
  
@@ -69,4 +74,10 @@ When a **link** icon appears on selected content in a campaign there are other i
 
 ![Campaign preview](/_images/preview-campaign.png)
 
-
+ ## Publishing a campaign
+ 
+Once you have reviewed the content in a campaign and are ready to publish it, click the ***Publish campaign*** button, you will be asked to confirm your publish action. Once a campaign is published the campaign will remain but all of the items which where either **draft** or **modified** will publish.  
+ 
+ ## Published campaigns
+ 
+ Once a campagin has been published the campaign state will change from **Active** to **Published** and will remane in the list of campaigns for future reference.
