@@ -3,7 +3,7 @@ summary: Create and group new content together to be released all at once.
 
 # Campaigns overview
 
-The Campaigns section of the CMS is new as of SilverStripe 4, as this section of the CMS is relatively new it will continue to develop with functionality.
+<div class="note" markdown="1">The Campaigns section of the CMS is new as of SilverStripe 4, as this section of the CMS is relatively new it will continue to develop with functionality.</div>
 
 Campaigns allow for a set of content types (like images and pages) on your site to be viewed and published as a collection. Items in a campaign could contain varying types of content including pages, files, data, content blocks, and forms. By default most content types can be added to a campaign but this will depend on how your data structures have been defined.
 
