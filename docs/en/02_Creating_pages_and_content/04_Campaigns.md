@@ -17,8 +17,8 @@ Campaigns enable:
 
 1. From the **Campaigns** section, click the button ***Add campaign***.
 2. Add the details of your campaign:
-	1. **Name**—give the campaign an easy to recognise/understand title. For example: Product launch June 2019, Marketing team to do.
-	2. **Description**—you can add additional details to your campaign for easy reference. For example: Go-live date, Team involved, Target audience.
+* **Name**—give the campaign an easy to recognise/understand title. For example: Product launch June 2019, Marketing team to do.
+* **Description**—you can add additional details to your campaign for easy reference. For example: Go-live date, Team involved, Target audience.
 3. Click the button ***Create***, you will be navigated to the newly created campaign which will initially be empty of content.
 
 ![Adding a new Campaign](/_images/campaigns-section.png)
