@@ -62,9 +62,9 @@ When an item is selected in the campaign you will see a preview of the item on t
 ### Content states
 Items of content will indicate whether they have unpublished changes by showing a badge. If there is no badge present then the item has already been published, so there will be no visible change when the campaign is published.
  State badges:
-  * **No changes**—only content items that are selected within the campaign will show this badge. This indicates that the item is already published, so there will be no visible change when the campaign is published.
-  * **Draft**—the item does not exist on the live site in any form.
-  * **Modified**—the item exists on the live site but there are additional changes which will be visible once the campaign is published.
+* **No changes**—only content items that are selected within the campaign will show this badge. This indicates that the item is already published, so there will be no visible change when the campaign is published.
+* **Draft**—the item does not exist on the live site in any form.
+* **Modified**—the item exists on the live site but there are additional changes which will be visible once the campaign is published.
 
  ### Linked campaign items
 
