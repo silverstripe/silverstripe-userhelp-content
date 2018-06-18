@@ -29,3 +29,8 @@ You can either:
 This will allow you to view a preview of your draft/live content alongside the Page management section. That way you can make updates and see the preview immediately.
 
 ![Preview option](/_images/Preview.png)
+
+
+## Viewing the site in draft mode
+
+In addition to previewing content within the CMS preview panel, it is also possible to preview the site from the 'front-end' (ie. as a visitor would see it).  Clicking on the URL segment in the CMS will open a new window containing the page being edited.  Code is added to the end of the URL (`stage=Stage`) which tells SilverStripe to show draft content.  
