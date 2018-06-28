@@ -11,7 +11,7 @@ Search results will remain the only items in the Page Tree until the "Clear" but
 
 ![Searching pages](/_images/searching-pages.jpg)
 
-You can also earch by different criteria, including:
+You can also search by different criteria, including:
 * "Date" to select modified date
 * "Page Type" which is a dropdown of all the page types
 * "Pages" which includes the following filters:
