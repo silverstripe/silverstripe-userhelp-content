@@ -56,5 +56,5 @@ If you enter in an internal link URL in the external link field, SilverStripe CM
  4. Once the file has uploaded, click ![insert link button](/_images/insert-link-button.png)
 
 <div class="note" markdown="1">
-One other option is to hyperlink to a document  that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. This is a more advanced topic, however, and we will cover it in "[Working with images and documents](https://userhelp.silverstripe.org/en/3.6/creating_pages_and_content/working_with_images_and_documents)."
+One other option is to hyperlink to a document  that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. This is a more advanced topic, which we will cover in [Linking documents](linking_documents/).
 </div>

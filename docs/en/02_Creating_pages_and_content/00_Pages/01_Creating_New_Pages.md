@@ -1,5 +1,5 @@
 title: Creating new pages
-summary: Add a new pages and descriptions of the deafult page types.
+summary: Add a new pages and descriptions of the default page types.
 
 # Creating new pages
 
@@ -21,8 +21,8 @@ summary: Add a new pages and descriptions of the deafult page types.
  4. Click on ![create button](/_images/create-button.png)
  5. Your new page shall be created, you can now enter it's content, and click on ![save publish](/_images/save-publish.png) to make it live. Don't forget to give it a Page name!
 
-<div class="note" markdown="1"> 
-Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we cover that under "[Pages](pages) section." 
+<div class="note" markdown="1">
+Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we cover that under "[Pages](reordering_pages/) section."
 </div>
 
 ## Page types
@@ -41,13 +41,12 @@ There are many different types of pages in SilverStripe, each with its own funct
 
 #### Other types of pages
 
-Depending on the code and modules included in your site, your page type list could contain any 
-number of other page types. This could include [blog pages](/optional_features/blogs), [forums](/optional_features/forums), [user defined forms](/optional_features/forms), or 
+Depending on the code and modules included in your site, your page type list could contain any number of other page types. This could include [blog pages](/optional_features/blogs), [forums](/optional_features/forums), [user defined forms](/optional_features/forms), or
 news pages.
 
 ### Changing an existing page type
 
-To change a page type, look in the Pages pane for the page you wish to change. 
+To change a page type, look in the Pages pane for the page you wish to change.
 
 ![Choosing page type](/_images/Choosing-A-Page.png)
 
