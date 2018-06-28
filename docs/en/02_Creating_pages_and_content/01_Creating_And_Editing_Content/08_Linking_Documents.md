@@ -1,11 +1,11 @@
-title: Linking documention
+title: Linking documentation
 summary: Uploading and linking documents from your content.
 
 ## Uploading and linking to documents
 
 To upload documents, such as PDF files, Word .DOC documents, and downloadable audio and video files, head to "Files" in the Navigation on the left side of the page. (Be sure to save any page you are working on in the editing page to a draft before doing so, otherwise you may lose any changes you have made since the last save).
 
-Click on the "Upload" button above the list of files in the "Files" pane and follow the instructions from the [Uploading images to the CMS from the Files Menu](https://userhelp.silverstripe.org/en/3.2/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents/) section above the same process applies to all file types.
+Click on the "Upload" button above the list of files in the "Files" pane and follow the instructions from the [Uploading images to the CMS from the Files Menu](images_and_documents/) section above the same process applies to all file types.
 
 To link to documents, return to the page you wish to create the link in by clicking on the "Pages" Navigation tab, and choose the page you wish to edit. Highlight the text you would like to make into a hyperlink, and click the "hyperlink" button to bring up the "Insert Link" popup.
 

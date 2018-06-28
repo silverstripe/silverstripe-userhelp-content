@@ -1,5 +1,5 @@
 title: Creating new pages
-summary: Add a new pages and descriptions of the deafult page types.
+summary: Add a new pages and descriptions of the default page types.
 
 # Creating new pages
 
@@ -22,7 +22,7 @@ summary: Add a new pages and descriptions of the deafult page types.
  5. Your new page shall be created, you can now enter it's content, and click on ![save publish](/_images/save-publish.png) to make it live. Don't forget to give it a Page name!
 
 <div class="note" markdown="1">
-Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we cover that under "[Pages](creating_pages_and_content/pages/reordering_pages/) section."
+Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we cover that under "[Pages](reordering_pages/) section."
 </div>
 
 ## Page types
