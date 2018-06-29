@@ -10,11 +10,11 @@ summary: How to create, edit and publish content for website pages.
 * Learn how to describe that content for site navigation and search optimization.
 * Learn how to create hyperlinks.
 * Learn how to save your page as a draft.
-* Learn how to publish your page to the live site. 
+* Learn how to publish your page to the live site.
 
 ## Before we begin
 
-* Make sure you are in the "Pages" section on the Navigation Tabs. 
+* Make sure you are in the "Pages" section on the Navigation Tabs.
 
 ![SilverStripe3 'Pages' Section](/_images/Pages-Section.jpg)
 
@@ -22,12 +22,12 @@ To manage and edit any of the existing pages of the site, select the page from t
 
 ![SilverStripe3 'Add New Page' button](/_images/Add-New-Page.jpg)
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 ### Notes:
 
-Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](/managing_your_website)." 
+Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](/managing_your_website)."
 </div>
- 
+
 ## Writing content
 
 In the Page Management Section, you will need to ensure you are on the 'Content' tab to use the WYSIWYG editor:
@@ -48,9 +48,9 @@ Finally, there is the Content Box (a text-area element).  This will contain the 
 
 ## Formatting content
 
-Generally, most items in the formatting toolbar will behave much like they would in any word processor.  There are a few exceptions. 
+Generally, most items in the formatting toolbar will behave much like they would in any word processor.  There are a few exceptions.
 
-For example, the Styles drop-down box allows you to add certain styles to a page.  This is primarily used to add image styles to a link of downloadable content, for example, links to PDF or Word documents, Excel spreadsheets, or images. 
+For example, the Styles drop-down box allows you to add certain styles to a page.  This is primarily used to add image styles to a link of downloadable content, for example, links to PDF or Word documents, Excel spreadsheets, or images.
 
 The Paragraph drop-down box allows you to choose a format for that paragraph in HTML code.  Most typed paragraphs will be in the normal "paragraph" format, but there are also six levels of "headings."  
 
@@ -60,9 +60,9 @@ The "Blockquote" button (looks like " ) is used to offset text in what those in 
 
 Finally, the "Insert Horizontal Ruler" button will insert a horizontal line on the page, and the "Insert Special Character" button, marked by the Greek Omega symbol, is used to insert special characters into the text.  This is useful for foreign loanwords with special symbols, such as "resumé," proper names such as "François Mitterrand," and metal umlauts, such as "Mötley Crüe"
 
-There is one other button that needs explanation.  That is the button marked "HTML." If you want to go in and edit the source code of the page directly, pressing the HTML button will bring up the HTML source of the page.  It is recommended that you only do this if you have a good knowledge of HTML formatting. This can be useful when you need to directly add some source code to a page, for example, when embedding YouTube videos. 
+There is one other button that needs explanation.  That is the button marked "HTML." If you want to go in and edit the source code of the page directly, pressing the HTML button will bring up the HTML source of the page.  It is recommended that you only do this if you have a good knowledge of HTML formatting. This can be useful when you need to directly add some source code to a page, for example, when embedding YouTube videos.
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 ### Notes:
 
 ** Cutting and pasting from a Word Processor **
@@ -76,13 +76,13 @@ The first is "Paste as Text." [Screenshot].  Paste As Text removes all formattin
 
 The second is "Paste from Word," where SilverStripe takes the "rich text" formatting code from Microsoft Word, and translates that into HTML markup code. However, this only works with Microsoft Word, and not with other word processors such as OpenOffice.org, Word Perfect, or Apple Pages.  
 </div>
- 
+
 ## Describing your content
 
 It's not just enough to create good content that informs your readers. You also need to let your readers find the content they're looking for. You can help your readers find your content by adding metadata. Metadata is page-specific blocks of text, normally hidden from general browsers, which search engines use to classify the page on the internet.  
 
 In the lower portion of the Page Management section, beneath the Content Box for the page you want to describe, is the "Metadata" area. Here, you can also enter a description and keywords for your site.  If your web manager has asked you to add any additional metadata, you can do so from this section of Page Management as well.
- 
+
 ## Creating hyperlinks in webpages
 
 To create a hyperlink in a webpage, highlight the text you wish to make a link in the Editing Pane, and press the "Insert Link" button on the toolbar.  This will bring up the Link sidebar on the right side of the screen.
@@ -98,34 +98,34 @@ To link to another page on the site, choose "Page on the Site" from the list of 
 
 To link to a page on another website, choose "Another Website" from the list of options.  Step two will have changed to offer a text box for the URL (web address) of the page you wish to link to.  Insert the address into this box and click the 'insert link' button.
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 ### Notes:
 
 There are different processes for "internal" and "external" links because when pages on a SilverStripe installation are moved or deleted, the links in other pages on the site are automatically changed to the new pages location.  This allows you to quickly move pages around without worry of breaking the site's structure or checking every page in the site for broken links.
 
 If you enter in an internal link URL in the external link field, SilverStripe CMS is usually smart enough to change the link to an internal link.
 </div>
- 
+
 ## Creating a link to an email address
 
 To link to an e-mail address, choose "Email Address" from the list of options.  You can then paste or type in the e-mail address that you would like to link to, in the 'Details' field provided.  Then, to insert the link, click the 'Insert link' button.
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 ### Notes:
 
-One other option is to hyperlink to a document (a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage) that you have uploaded to your website. This is a more advanced topic, however, and we will cover it in "[Working with Images and Documents](https://userhelp.silverstripe.org/en/3.0/creating_pages_and_content/working_with_images_and_documents/)."
+One other option is to hyperlink to a document (a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage) that you have uploaded to your website. This is a more advanced topic, however, and we will cover it in "[Images and Documents](images_and_documents/)."
 </div>
- 
+
 ## Saving your page as a draft
 
 To save your page as a draft, simply hit the "Save" button (not "Save and Publish," if it is available) in the Publishing Bar (at the bottom of the screen). Saving your page as a draft allows you to preview the page on a "Draft Site" available to you and others who have access to the CMS, but does not publish the page to the live website.  
 
 ![SilverStripe3 Content Editing (publishing options)](/_images/publishing-bar.jpg)
 
-After you save your page as a draft, you can preview the page by clicking on "Preview" in the Publishing Bar. 
+After you save your page as a draft, you can preview the page by clicking on "Preview" in the Publishing Bar.
 
 **Remember to save early and often.**  
 
 ## Publishing your page, or submitting your page for publication:
 
-If you do not have the workflow module installed, or you are the site's administrator, you can publish the page at any time by hitting the "Save and Publish" button.  Once the "Save and Publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing. 
+If you do not have the workflow module installed, or you are the site's administrator, you can publish the page at any time by hitting the "Save and Publish" button.  Once the "Save and Publish" button is pressed, that information will go out to the live web, so be careful that you are not publishing embarrassing typos, confidential information, or anything you would generally get rebuked by your organisation's legal council for publishing.

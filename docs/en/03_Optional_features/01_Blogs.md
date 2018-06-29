@@ -12,7 +12,7 @@ summary: Working with blogging and comments in SilverStripe CMS.
 ## Before we begin:
 
 * Make sure that your SilverStripe installation has the Blog module installed.
-* Make sure you are in the "Pages" section on the Navigation Tabs in the Content Managment System backend (CMS).
+* Make sure you are in the "Pages" section on the Navigation Tabs in the Content Management System backend (CMS).
 
 ## Creating blogs
 
@@ -26,12 +26,12 @@ You will notice that a new blog holder page has been created, with the name of "
 
 Click on the new blog holder to start creating posts.
 
-<div class="note" markdown="1"> 
+<div class="note" markdown="1">
 ### Notes:
 
-Don't worry if you create your blog in the "wrong" place. Pages can be moved and re-ordered easily, and we will cover that under ["Managing Your Site"](managing-your-site).
+Don't worry if you create your blog in the "wrong" place. Pages can be moved and re-ordered easily, and we will cover that under ["Managing Your Site"](/managing_your_website).
 </div>
- 
+
 ### Naming your blog
 
 To name your blog, click on the blog holder page in the site-tree pane, and then, in the Editing Pane, click on the "Content" tab if it it not already selected, and then the "Main" page.
@@ -46,10 +46,10 @@ Finally, there is the Content box. In the content box, you can write a descripti
 
 ### Creating a blog post
 
-To create a blog post, click on your Blog Holder page in the Page Tree in the site-tree Pane.  Then click the "Add new" button at the top of the the site tree pane.  Select "Blog Entry" from the pagetype list, and click "Create." This will create a new blog entry as a subpage of your blog holder page.  You may then edit the page like a normal page (see ["Creating and Editing Content"](creating-and-editing-content) for more details).
+To create a blog post, click on your Blog Holder page in the Page Tree in the site-tree Pane.  Then click the "Add new" button at the top of the the site tree pane.  Select "Blog Entry" from the pagetype list, and click "Create." This will create a new blog entry as a subpage of your blog holder page.  You may then edit the page like a normal page see ["Creating and Editing Content"](/creating_pages_and_content/creating_and_editing_content) for more details.
 
 ![Creating a blog post](/_images/creating-a-blog-post.jpg)
- 
+
 ### Enabling and disabling comments
 
 By default, comments on blog posts are enabled.  To disable comments on a single post, choose the blog post you wish to disable comments for in the Contents pane on the left hand side, then choose the "Settings" tab in the Editing Pane. You can disable comments by un-checking the box next to "Allow comments on this page?"
