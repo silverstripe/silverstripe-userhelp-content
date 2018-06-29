@@ -63,4 +63,4 @@ You can choose to view the interface in a few different ways, including Edit mod
 
 ![Edit mode toggle](/_images/Preview-Bar.png)
 
-See, [Previewing content changes](../creating_and_editing_content/previewing_changes) to learn more.
+See, [Previewing content changes](creating_pages_and_content/creating_and_editing_content/previewing_changes) to learn more.
