@@ -11,7 +11,7 @@ The latest SilverStripe CMS administration panel is arranged in four main areas,
 
 This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and CMS User help.
 
-The menu you see may change depending on what modules are installed and what permissions your user account has been assigned. The following tabs are part of a typical SilverStripe installation for a user in the [Administrators](/managing_your_website/changing_and_managing_users/) group with full permissions:
+The menu you see may change depending on what modules are installed and what permissions your user account has been assigned. The following tabs are part of a typical SilverStripe installation for a user in the [Administrators](managing_roles_and_permissions/#using-roles) group with full permissions:
 
 ### Pages
 
@@ -63,4 +63,4 @@ You can choose to view the interface in a few different ways, including Edit mod
 
 ![Edit mode toggle](/_images/Preview-Bar.png)
 
-See, [Previewing content changes](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/previewing_changes) to learn more.
+See, [Previewing content changes](../creating_pages_and_content/creating_and_editing_content/previewing_changes) to learn more.

@@ -9,7 +9,7 @@ Files are typically managed within the Files section of the CMS. This section sh
 
 Files can be displayed or linked to from multiple places. This means that by updating a file's details, all of the pages which use the file will receive those updates (both the file and page would need to be published for these changes to be seen on the live version).
 
-You can either upload files within the Files section or directly from pages through the HTML editor. The Files section supports a range of different file types which are typical for use on the web including images, videos, and documents. See [Web content best practices](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/web_content_best_practices/) for additional tips on how to prepare files for use on the web.
+You can either upload files within the Files section or directly from pages through the HTML editor. The Files section supports a range of different file types which are typical for use on the web including images, videos, and documents. See [Web content best practices](creating_pages_and_content/web_content_best_practices/) for additional tips on how to prepare files for use on the web.
 
 <div class="note" markdown="1">
 By default, uploaded files are placed in the "Uploads" directory.
@@ -33,7 +33,7 @@ You should now see the files you uploaded within your chosen folder.
 ![Uploaded files](/_images/files-uploaded.png)
 
 <div class="note" markdown="1">
-This same process can be used for filetypes other than images, see [Linking Documents](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/linking_documents/) to learn more.
+This same process can be used for filetypes other than images, see [Linking Documents](linking_documents/) to learn more.
 </div>
 
 ## Uploading images from a page
@@ -58,7 +58,7 @@ Pages that contain a HTML editor allow you to place files into the content area,
 
 Basic functionality and options for files:
 * **Alternative text** is shown if the image cannot be loaded or displayed (for example, on text-only web browsers or screen readers).
-* The **Title** text field shows additional information about the image when the mouse rolls over the image. See, [Web Content Best Practices](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/web_content_best_practices/) to learn more.
+* The **Title** text field shows additional information about the image when the mouse rolls over the image. See, [Web Content Best Practices](creating_pages_and_content/web_content_best_practices/) to learn more.
 * The **Caption** field can be used to enter text descriptions of an image.
 * The **location** of the file within the Files library.
 * **Alignment** and **text wrapping** properties of the image.

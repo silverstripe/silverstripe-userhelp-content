@@ -7,7 +7,7 @@ To upload documents, such as PDF files, Word .DOC documents, and downloadable au
 
 <div class="note" markdown="1">Be sure to ***Save*** any page you are working on in the editing page to a Draft before doing so, otherwise you may lose any changes you have made since the last save.</div>
 
-Click the button ***Upload***, see [Uploading images from Files](https://userhelp.silverstripe.org/en/4/creating_pages_and_content/creating_and_editing_content/working_with_images_and_documents) to learn more.
+Click the button ***Upload***, see [Uploading images from Files](images_and_documents) to learn more.
 
 ![Link file](/_images/insert-link-file.png)
 

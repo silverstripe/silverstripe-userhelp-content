@@ -29,4 +29,4 @@ If you select the **Keep me signed in** checkbox field, the login fields will pr
 If you can't remember your password, click the link ***I've lost my password***. You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
 </div>
 
-If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](https://userhelp.silverstripe.org/en/4/managing_your_website/changing_and_managing_users/).
+If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](changing_and_managing_users/).
