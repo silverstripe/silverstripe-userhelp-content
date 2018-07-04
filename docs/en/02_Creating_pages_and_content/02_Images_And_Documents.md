@@ -5,15 +5,9 @@ summary: Uploading and working with files and images.
 
 ## In this section:
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-* Learn how to upload one image or multiple images to a site. 
-* Learn how to insert images and [other media](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#embedding-other-media) into the content of a webpage.
-* Learn how to [upload PDF](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#uploading-and-linking-to-documents), .DOC, audio, and video documents and link to them in the content of a webpage.
-=======
 * Learn how to upload one image or multiple images to a site.
 * Learn how to insert images and [other media](#embedding-other-media) into the content of a webpage.
 * Learn how to [upload PDF](#uploading-and-linking-to-documents), .DOC, audio, and video documents and link to them in the content of a webpage.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 * Learn how to manage uploaded files.  
 
 ## Inserting images
@@ -30,11 +24,7 @@ The simplest way to insert an image stored on your local hard drive into a webpa
 
 ![Sample image](/_images/KittenStockLookingScaredbyGraciesStock.jpg)
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-In the Images popup, the "From your computer" tab should be selected as default. Click "Choose files to upload...". You can then upload a file from your hard drive. A progress bar should appear in the "Details & dimensions" section below. 
-=======
 In the Images popup, the "From your computer" tab should be selected as default. Click "Choose file(s) to upload...". You can then upload a file from your hard drive. A progress bar should appear in the "Details & dimensions" section below.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 
 ![Uploading an image](/_images/uploading-an-image.jpg)
 
@@ -46,19 +36,11 @@ Once the image is uploaded you will see a small thumbnail on the left of the pro
 
 ![Image details](/_images/image-details.jpg)
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-It is possible to insert mulitple images using the "on-the-fly" method. You can upload them one at a time (clicking the "Choose files to upload..." again once an image has uploaded) or you can select multiple image files by holding "control" (Windows) or "command" (Mac) on the keyboard while clicking the chosen images. This last method is the fastest as all images load simultaneously.
-=======
 It is possible to insert multiple images using the "on-the-fly" method. You can upload them one at a time (clicking the "Choose file(s) to upload..." again once an image has uploaded) or you can select multiple image files by holding "control" (Windows) or "command" (Mac) on the keyboard while clicking the chosen images. This last method is the fastest as all images load simultaneously.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 
 ![Multiple images](/_images/multiple-images.jpg)
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-You can also flick between the "From your computer", "From the web" and "From the CMS" tabs (See [Inserting uploaded images](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#inserting-uploaded-images) section for more details on this tab), adding images from multiple locations.
-=======
 You can also flick between the "From your computer", "From the web" and "From the CMS" tabs (See [Inserting uploaded images](#inserting-uploaded-images) section for more details on this tab), adding images from multiple locations.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 
 Once you have uploaded all the images you need, you can click the "Insert" button in the bottom right of the pane to insert the images into your content.
 
@@ -88,11 +70,7 @@ First of all, insert the "http://vimeo.com/44911918" into the "Add URL" field of
 
 ![Embedding - add media](/_images/embedding-media-add.jpg)
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-You can then tweak the specific options for the given media and press "Insert" to finish the embedding. 
-=======
-You can then tweak the specific options for the given media and press "Update" to finish the embedding.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
+You can then tweak the specific options for the given media and press "Insert" to finish the embedding.
 
 ![Embedding media - update](/_images/embedding-media-embed.jpg)
 
@@ -107,12 +85,8 @@ Once you are done press "Insert" to adjust the embedded media.
 To upload images to the CMS, head to "Files" in the Navigation on the left side of the page. (Be sure to save any page you are working on in the editing page to a draft before doing so, otherwise you may lose any changes you have made since the last save).
 
 You should see a list of all of the files (and folders containing files) that have been uploaded to the CMS, where the Editing pane would normally be.
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
 
-Before you upload your images/files, create a new folder (See the section below on [Managing Files](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#managing-files)) to put your images in or click on the folder you would like the images to be uploaded to. To upload a file or image, click on the "Upload" button located above the list of files. This will take you to the upload files pane.
-=======
 Before you upload your images/files, create a new folder (See the section below on [Managing Files](#managing-files)) to put your images in or click on the folder you would like the images to be uploaded to. To upload a file or image, click on the "Upload" button located above the list of files. This will take you to the upload files pane.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 
 ![Files selection](/_images/files-section.jpg)
 
@@ -129,11 +103,7 @@ Once the images have finished uploading, click the "Back to folder" button to go
 <div class="note" markdown="1">
 ### Notes:
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-This same process can be used for filetypes other than images as well, which we will cover in "[Uploading and Linking to Documents](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#uploading-and-linking-to-documents)." 
-=======
 This same process can be used for filetypes other than images as well, which we will cover in "[Uploading and Linking to Documents](#uploading-and-linking-to-documents)."
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 </div>
 
 ### Inserting uploaded images
@@ -156,11 +126,7 @@ When you are done entering this information, hit the "Insert" button on the bott
 
 To upload documents, such as PDF files, Word .DOC documents, and downloadable audio and video files, head to "Files" in the Navigation on the left side of the page. (Be sure to save any page you are working on in the editing page to a draft before doing so, otherwise you may lose any changes you have made since the last save).
 
-<<<<<<< HEAD:docs/en/02_Creating_pages_and_content/02_Working_With_Images_And_Documents.md
-Click on the "Upload" button above the list of files in the "Files" pane and follow the instructions from the [Uploading images to the CMS from the Files Menu](https://userhelp.silverstripe.org/en/3.1/creating_pages_and_content/working_with_images_and_documents#uploading-images-to-the-cms-from-the-files-menu) section above the same process applies to all file types.
-=======
 Click on the "Upload" button above the list of files in the "Files" pane and follow the instructions from the [Uploading images to the CMS from the Files Menu](#uploading-images-to-the-cms-from-the-files-menu) section above the same process applies to all file types.
->>>>>>> 3.0:docs/en/02_Creating_pages_and_content/02_Images_And_Documents.md
 
 To link to documents, return to the page you wish to create the link in by clicking on the "Pages" Navigation tab, and choose the page you wish to edit. Highlight the text you would like to make into a hyperlink, and click the "hyperlink" button to bring up the "Insert link" popup.
 
