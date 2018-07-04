@@ -1,5 +1,5 @@
 title: Pages
-summary: How to manage the content structure, page history and batch publishing. 
+summary: How to manage the content structure, page history and batch publishing.
 
 # Managing your site structure
 
@@ -17,7 +17,7 @@ summary: How to manage the content structure, page history and batch publishing.
 
 ## Before we begin:
 
-* Make sure you are in the "Pages" section in the navigation menu. 
+* Make sure you are in the "Pages" section in the navigation menu.
 
 ## Page types
 
@@ -41,14 +41,14 @@ There are many different types of pages in SilverStripe, each with its own funct
 
 ### Changing an existing page type
 
-To change a page type, look in the Pages pane for the page you wish to change. 
+To change a page type, look in the Pages pane for the page you wish to change.
 
 ![Choosing page type](/_images/choosing-page.jpg)
 
 Click on it, and head to the "Settings" tab in the editing pane. You can change the page type from the "Page type" drop-down menu. Save your changes by pressing "Save Draft" or "Save & Publish" in the actions menu at the bottom of the editing pane.
 
 ![Changing page type](/_images/change-page-type.jpg)
- 
+
 ### Moving pages within the site
 
 To move a page within the site, make sure you are in the "Pages" pane (selected from the navigation on the left side of the screen).
@@ -56,7 +56,7 @@ To move a page within the site, make sure you are in the "Pages" pane (selected 
 Make sure that "Drag'n'drop" is selected from the Display menu, then you can move a page by clicking on it in the "page tree", and dragging it to its new position in the website.
 
 ![Moving pages](/_images/moving-pages.jpg)
- 
+
 ### Hiding pages
 
 To hide a page, look in the Pages pane for the page you wish to hide. Click on it, and head to the "Settings" tab in the editing pane.
@@ -68,7 +68,7 @@ You can remove your site from being listed in search results by removing the che
 After you have made these changes, hit the "Save & Publish" button in the actions menu at the bottom of the editing pane.
 
 ![Hiding pages](/_images/hiding-pages.jpg)
- 
+
 ### Deleting pages
 
 #### Deleting individual pages
@@ -96,7 +96,7 @@ Once you have chosen the intended action click the go button next to the drop-do
 To completely delete multiple pages, you must do both. The order of deletions in "Batch Actions" does not matter, though it's generally a good idea to delete from the published site first, then delete from the draft site.
 
 ![Delete multiple pages](/_images/delete-multiple-pages.jpg)
- 
+
 ### Previous versions of pages
 
 #### Viewing previous versions
@@ -120,7 +120,7 @@ To revert to a previous version, select the version you with to revert the page 
 
 When a page is rolled back to the previous version, it is only rolled back in the backend CMS as a draft. To show the rolled back page on the public-facing website, it needs to be published by pressing "Save and Publish."
 </div>
- 
+
 ### Searching for pages
 
 To search for a page, enter your search into the "Content" entry form in the page "filter" panel.
@@ -131,14 +131,14 @@ Search results will remain the only items in the Page Tree until the "Clear" but
 
 ![Searching pages](/_images/searching-pages.jpg)
 
-You can also earch by different criteria, including "Date", "Pages" (All pages, Changed pages, and All pages including deleted) and "Page Type".
+You can also search by different criteria, including "Date", "Pages" (All pages, Changed pages, and All pages including deleted) and "Page Type".
 
 <div class="note" markdown="1">
 ### Notes:
 
 One neat trick is that you can search for pages, and then perform a batch action upon them, such as deleting them or publishing them. For example, by searching for Page Type: "BlogEntry" and then a date range: "(whatever last Thursday was till now)" you can then create a quick batch action to publish all blog posts written since last Thursday.
 </div>
- 
+
 ### Publishing multiple pages
 
 To publish multiple pages, click "Multi-selection" on the top-right of the "Pages" pane. Each page in the page tree in the "Pages" pane should now have a checkbox next to it. Check all the pages you want to publish.

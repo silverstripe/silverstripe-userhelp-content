@@ -18,7 +18,7 @@ Specific tabs may change depending on what modules are installed. However, the f
 
 This section enables you to access and edit the content of the pages on your website.  You can also change the order of pages, remove pages and add new ones.  While in this section, the Publishing Bar is available.
 
-### Files 
+### Files
 
 This section allows you to add or delete files and to synchronise your view with the actual files on the server.  You can also organise your files into folders.
 
@@ -28,7 +28,7 @@ This section shows reports for your site such as, pages with broken links or pag
 
 ### Security
 
-The Security section enables you to set up and administer users and user groups, and control access to various pages.  You can also upload these setting in the form of a csv file.
+The Security section enables you to set up and administer users and user groups, and control access to various pages.  You can also upload these setting in the form of a CSV file.
 
 ### Settings
 

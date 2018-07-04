@@ -25,7 +25,7 @@ Click on the new "Forums" Forum Holder page. Now click the "Add new" button at t
 
 ![Add new forum](/_images/new-forum.jpg)
 
-You will notice that a new forum page has been created, with the name of "New Forum". 
+You will notice that a new forum page has been created, with the name of "New Forum".
 
 ![New forum created](/_images/created-new-forum.jpg)
 
@@ -38,12 +38,12 @@ If you head back to the pages pane you will also notice it has a yellow "losenge
 <div class="note" markdown="1">
 ### Notes:
 
-Don't worry if you create your forum in the "wrong" place. Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](managing-your-site)".
+Don't worry if you create your forum in the "wrong" place. Pages can be moved and re-ordered easily, and we will cover that under "[Managing Your Site](/managing_your_website)".
 </div>
- 
+
 ### Naming and editing your forum
 
-In the Editing Pane, to edit your forum, you want to click on the "Content" tab if it it not already selected, and then the "Main Content" subtab. 
+In the Editing Pane, to edit your forum, you want to click on the "Content" tab if it it not already selected, and then the "Main Content" subtab.
 
 Here you will be presented with three forms. The first is for the "Page Name" - this will define what the forum will be known as in the CMS, but it will also be used to form the "default" navigation label and URL for the page, though both can be changed manually.
 
@@ -65,7 +65,7 @@ To create categories, click on any of your site's forums in the Contents pane, a
 
 ![Create categories](/_images/add-forum-category-fields.jpg)
 
-To sort forums into different categories, click on each forum you wish to sort in the Contents pane, and go to the "Category" tab in the Editing Pane on each one. Select the category you wish each forum to be in, in turn, and hit Save in the bottom right corner of the Editing pane. 
+To sort forums into different categories, click on each forum you wish to sort in the Contents pane, and go to the "Category" tab in the Editing Pane on each one. Select the category you wish each forum to be in, in turn, and hit Save in the bottom right corner of the Editing pane.
 
 ![Sorting Forums into categories](/_images/category-list.jpg)
 
@@ -78,7 +78,7 @@ Head to the public-facing website (the "frontend") and browse to the forum. Clic
 
 Your nickname and any field you mark with a checkbox will be shown in your public profile on the forum. If you do not want a field to show up in your publicly accessible profile, make sure that the checkmark next to these fields are unchecked.
 
-If you have an avatar (a small personal photograph or illustration which helps people visually identify you,) you may also upload it at this time, by either dragging and dropping an image into the "Drop Files" area or pressing the "From Files" button and choosing a .JPG, .GIF, or .PNG file from your hard drive. 
+If you have an avatar (a small personal photograph or illustration which helps people visually identify you,) you may also upload it at this time, by either dragging and dropping an image into the "Drop Files" area or pressing the "From Files" button and choosing a .JPG, .GIF, or .PNG file from your hard drive.
 
 ### Signing in with a username
 
@@ -89,10 +89,10 @@ To sign in with your username, head to the public-facing website (the "frontend"
 
 If you have forgotten your password, click on "Forgot Password," and follow the steps to reset or recover your password.
 </div>
- 
+
 ### Starting a new topic
 
-To start a new topic, head to the public-facing website, and browse to the forum. Sign in, and click on the forum you would like to add the new topic to. Click on "Start a new topic," and enter in the title of the topic, as well as the content of the first post in the topic, and hit the "Post" button. The change should show up immediately. 
+To start a new topic, head to the public-facing website, and browse to the forum. Sign in, and click on the forum you would like to add the new topic to. Click on "Start a new topic," and enter in the title of the topic, as well as the content of the first post in the topic, and hit the "Post" button. The change should show up immediately.
 Editing a previously published post (as the post author)
 
 Once you have made a post, you may edit or delete a post you have authored, by browsing to that post in the forum and hitting the "Edit" or "Delete" links respectively.
@@ -118,13 +118,13 @@ To move a topic from one forum to another, browse to the topic in question, and 
 
 ## Administrating users
 
-To administrate users, make sure you are in the CMS "backend" for administration, and press the "Security" navigation tab. This should give you a list of all the users that have registered on the forum or website. 
+To administrate users, make sure you are in the CMS "backend" for administration, and press the "Security" navigation tab. This should give you a list of all the users that have registered on the forum or website.
 
 ![Administrating forum users](/_images/forum-users.png)
 
 ### Deleting user accounts
 
-To delete a user account, click on the red "X" icon next to the username for the account. This will remove the account from the forum and website, and the user will not be able to log in using that name again. 
+To delete a user account, click on the red "X" icon next to the username for the account. This will remove the account from the forum and website, and the user will not be able to log in using that name again.
 
 ### Assigning moderation responsibilities to users
 
