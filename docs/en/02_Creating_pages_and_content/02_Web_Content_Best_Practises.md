@@ -22,7 +22,7 @@ Search engine friendliness and accessibility are very closely related - you can 
 
 SilverStripe CMS automatically does a number of things that make your site search-engine friendly and accessible. As a website editor, you don't have to concern yourself with the code side of things. However, there is much you can do to when it comes to your content:
 
-* Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site wil rank higher for the search terms they are using.
+* Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
 * If it's important to you to rank highly for **specific phrases**, it's key to literally mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
 * Use CMS tools for to properly **mark up** your content.
 * Ensure **correct spelling** across all your content - typos make the site rank lower.
