@@ -13,7 +13,7 @@ Requires the [docsviewer](https://github.com/silverstripe/silverstripe-docsviewe
 ## Thanks
 Thanks to James Cocker [purplespider](https://github.com/purplespider) for vast content contributions to the User help guides.
 
-Thanks to [Paul Clarke](https://github.com/clarkepaul), [Sacha Judd](https://github.com/sachajudd), [Rachel Margaret](https://github.com/rupachup), [Benn Crawford](https://github.com/be2n) and [Nicole Williams](https://github.com/nicolewilliams16) for updating 4.0 guides.
+Thanks to [Paul Clarke](https://github.com/clarkepaul), [Sacha Judd](https://github.com/sachajudd), [Scott Hutchinson](https://github.com/scott1702), [Jake Dale](https://github.com/jakedaleweb), [Rachel Margaret](https://github.com/rupachup), [Benn Crawford](https://github.com/be2n) and [Nicole Williams](https://github.com/nicolewilliams16) for updating 4.0 guides.
 
 Thanks to the following people for helping with beta testing:
 Fred Condo, Anita Graham, [Nigel Vining](http://www.greenskate.co.nz/), Stephen Metcalfe,
