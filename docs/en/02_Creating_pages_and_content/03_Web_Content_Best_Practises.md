@@ -22,7 +22,7 @@ Search engine friendliness and accessibility are very closely related - you can 
 
 SilverStripe CMS automatically does a number of things that make your site search-engine friendly and accessible. As a website editor, you don't have to concern yourself with the code side of things. However, there is much you can do to when it comes to your content:
 
-* Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site wil rank higher for the search terms they are using.
+* Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
 * If it's important to you to rank highly for **specific phrases**, it's key to literally mention these phrases in the first paragraph of relevant pages on the site. The absolute best way to rank number one is to have dedicated pages for these phrases. In the title of these pages would be the phrases you wish to rank for.
 * Use CMS tools for to properly **mark up** your content.
 * Ensure **correct spelling** across all your content - typos make the site rank lower.
@@ -41,7 +41,7 @@ Why should you care? It's useful to know where and how the different names are d
 
 * The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
-* The **URL** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilveStripe CMS generates will be fine, but you can manually change it if necessary.
+* The **URL** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
 
 <div class="note" markdown="1">
 ### Notes:
@@ -56,7 +56,7 @@ In this case, it's a good idea to manually change the URLs to something more mea
 
 Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be http://website.com/offices/new-york/staff/john-smith
 </div>
- 
+
 ### Meta tags
 
 Meta tags also make your web page more findable. The Description meta attribute should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
@@ -131,7 +131,7 @@ Further reading: [Introduction to Web Accessibility](http://webaim.org/intro/) (
 
 ### Image dimensions
 
-When you embed images in your content, always specify width and height. This allows the browser to start rendering the page before downloading the actual image, which speeds up page loading. SilverStripe CMS prepopulates the image dimensions automatically, so unless you want to change them, you don't have to do anything special.
+When you embed images in your content, always specify width and height. This allows the browser to start rendering the page before downloading the actual image, which speeds up page loading. SilverStripe CMS pre-populates the image dimensions automatically, so unless you want to change them, you don't have to do anything special.
 
 ### Custom error pages
 
@@ -142,4 +142,3 @@ It's a good idea to create a custom 404 page for your site. On this page, you ca
 To create a custom error page, click **Add new** in the Pages pane and select **Error Page**. In the **Content** tab, select Error code **404 - not found**, then create your content as for any other page. Note that you can also create custom pages for other errors, but Page not found is by far the most common one that your users will encounter so you can usually safely ignore the other options.
 
 ![Error page](/_images/error-page.jpg)
-
