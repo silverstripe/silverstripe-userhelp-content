@@ -1,11 +1,11 @@
 title: Archiving and restoring content
-summary: Sending content to the Archive and restoring content from the Archive to your website.
+summary: Removing content from your website and restoring it.
 
 # Archive
 
-<div class="note" markdown="1">The Campaigns section of the CMS is new as of SilverStripe 4 and therefore will continue to develop with functionality.</div>
+<div class="note" markdown="1">The Archive section of the CMS is new as of SilverStripe 4 and therefore will continue to develop with functionality.</div>
 
-All content which can be archived is stored within the CMS Archive. By default this includes pages, files, and content blocks. Depending on the way your CMS has been configured the Archive might extend to contain additional content types.
+All content which can be archived is stored within the CMS Archive. By default this includes pages, files (if activated), and content blocks. Depending on the way your CMS has been configured the Archive might extend to contain additional content types.
 
 When archiving an item, the CMS will first automatically unpublished the item if published, before sending it to the archive. The Archive stores the item along with its entire history so that it can be restored at a later date. If an item is restored then it will be returned to the relevant section of the CMS it came from in a draft state.
 
@@ -31,17 +31,12 @@ Location of the **Archive** action for tabled content:
 
 ![Archiving a gridfield item](../_images/gridfield-archive.png)
 
-## Retrieving content
-
-**Option 1: Undo archiving**
-Upon archiving an item, a success message will appear at the top of the view, with **Undo** link. Clicking the **Undo** link would instantly restore the item into its original location
-
-**Restore from Archive**
+## Restoring content to your website
 
 1. Navigate to **Archive** section.
 2. Select a content type.
 3. Click the **More options** button.
-4. Select the Restore to draft option. Alternatively, the **Restore to draft** button is also available after clicking into an item.
+4. Select the **Restore to draft** button. Alternatively, the **Restore to draft** button is also available after clicking into an item.
 
 ![Restoring an archived page](../_images/archive-restore.png)
 
