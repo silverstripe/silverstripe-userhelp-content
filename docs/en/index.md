@@ -1,5 +1,4 @@
-title: SilverStripe CMS User help guide
-introduction: Guidance for SilverStripe CMS content editors and website administrators.
+title: CMS User help
 
 # SilverStripe CMS User help guide
 
@@ -25,4 +24,9 @@ For customers of SilverStripe Ltd., the company behind the CMS, visit [silverstr
 [CHILDREN Folder=02_Creating_pages_and_content]
 
 ## Optional features
+
+SilverStripe CMS can be highly customised using many of the modules listed in the [SilverStripe CMS module directory](https://addons.silverstripe.org).
+This section highlights some of the CMS features provided by the [SilverStripe CMS supported modules](https://www.silverstripe.org/software/addons/supported-modules-definition/).
+In each case you'll need to ensure you have the module installed on your website in order to use the features described here.
+
 [CHILDREN Folder=03_Optional_features]

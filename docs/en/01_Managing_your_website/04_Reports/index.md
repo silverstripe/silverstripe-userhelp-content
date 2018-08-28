@@ -1,6 +1,5 @@
 title: CMS Reports
 summary: Guidance on accessing and managing report data.
-introduction: This section includes guidance on accessing report data in the CMS.
 
 # Reports
 
