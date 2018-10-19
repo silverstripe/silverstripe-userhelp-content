@@ -9,7 +9,7 @@ The latest SilverStripe CMS administration panel is arranged in four main areas,
 
 ## CMS menu
 
-This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and CMS User help.
+This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and the CMS Help menu.
 
 The menu you see may change depending on what modules are installed and what permissions your user account has been assigned. The following tabs are part of a typical SilverStripe installation for a user in the [Administrators](managing_roles_and_permissions/#using-roles) group with full permissions:
 
@@ -37,9 +37,27 @@ The Security section enables you to set up and administer users and user groups 
 
 Here is where you can manage some global settings like the site name and user access control.
 
-### Help
+### CMS Help menu
 
-Help provides direct access to SilverStripe User Help. This is the site you are looking at right now!
+The CMS Help menu provides more visibility of useful resources in the wider ecosystem of SilverStripe and can be found in the south toolbar of the CMS menu. The CMS help menu includes the following:
+
+CMS User Help — direct access to SilverStripe User Help. This is the site you are looking at right now!
+
+[Developer Documentation](https://doc.silverstripe.org) — often used by administrators when the user help guides don't surface enough information.
+
+[Community](https://silverstripe.org) — provides awareness of self-help areas such as the community [Slack](https://www.silverstripe.org/community/slack-signup), [StackOverflow](https://stackoverflow.com/questions/tagged/silverstripe), [Forum](https://forum.silverstripe.org/) through the community website.
+
+[Feedback](https://www.silverstripe.org/give-feedback/) — give feedback about the SilverStripe CMS whether good or bad, we'd be happy to hear your thoughts. Your contributions will help improve the experience of the CMS for everyone.
+
+The CMS help menu also provides visibility of the CMS version number. It is directly visible in the menu and shows the full version details on hover.
+
+![CMS Help menu](../_images/CMS_help_menu.png)
+
+#### Customising the CMS Help menu
+
+The help links are also configurable making it easy for agencies to edit, add or remove existing links. This will need to be set up by a developer.
+
+See, [Customising the CMS Help menu](https://docs.silverstripe.org/en/4/developer_guides/customising_the_admin_interface/how_tos/customise_cms_menu/#customising-the-cms-help-menu) to learn more.
 
 ## Areas within the Pages section
 
