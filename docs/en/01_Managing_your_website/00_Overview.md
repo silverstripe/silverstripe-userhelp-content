@@ -57,6 +57,8 @@ The CMS help menu also provides visibility of the CMS version number. It is dire
 
 The help links are also configurable making it easy for agencies to edit, add or remove existing links. This will need to be set up by a developer.
 
+![Custom Help menu](../_images/CMS_custom_links.png)
+
 See, [Customising the CMS Help menu](https://docs.silverstripe.org/en/4/developer_guides/customising_the_admin_interface/how_tos/customise_cms_menu/#customising-the-cms-help-menu) to learn more.
 
 ## Areas within the Pages section
