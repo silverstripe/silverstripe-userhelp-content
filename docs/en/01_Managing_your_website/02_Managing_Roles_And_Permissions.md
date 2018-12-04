@@ -47,7 +47,7 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 3. Click the button ***Add Role***. Enter the **Title** of the new role and appropriate permissions from the **Permissions** checklist.
 Hover over a permission checkbox label to see a tooltip with more information.
 4. Click the button ***Create***.
-To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the north toolbar.
+To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the Navigation toolbar.
 
 ![Roles section](/_images/roles-pane.png)
 
@@ -93,7 +93,7 @@ You can nest groups, and create sub-groups which may represent different roles. 
 If you wish to add a new member instead of choosing from an already established member, click the button ***Add Member***.
 
 <div class="note" markdown="1">
-Users can be in multiple groups. If you delete a user from a group, they are only removed from that group, not from the system. To fully delete a user, you need to be in the root of Security. To reach the security group root click the link ***Security*** or the ***Back*** button which is shown as a left arrow in the north toolbar.
+Users can be in multiple groups. If you delete a user from a group, they are only removed from that group, not from the system. To fully delete a user, you need to be in the root of Security. To reach the security group root click the link ***Security*** or the ***Back*** button which is shown as a left arrow in the Navigation toolbar.
 </div>
 
 ## Editing and deleting groups

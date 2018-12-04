@@ -64,6 +64,6 @@ You can either:
 
 It's not just enough to create good content that informs your readers. You also need to let your readers find the content they're looking for. You can help your readers find your content by adding metadata. Metadata is page-specific blocks of text, normally hidden from general browsers, which search engines use to classify the page on the internet.
 
-In the lower portion of the Page Management section, beneath the HTML Editor is the Metadata section. Here, you can also enter a description and keywords for your site and add any additional metadata.
+In the lower portion of the Navigation toolbar, beneath the HTML Editor is the Metadata section. Here, you can also enter a description and keywords for your site and add any additional metadata.
 
 ![Meta-title](/_images/meta-title.png)

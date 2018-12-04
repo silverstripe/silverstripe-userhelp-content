@@ -14,7 +14,7 @@ When archiving an item, the CMS will first automatically unpublished the item if
 ## Archiving content (Pages, Files, Content blocks etc.)
 
 1. Navigate to the item you wish to archive within its section of the CMS (for example, navigate to the page you wish to archive within the Pages section of the CMS).
-2. Click the **More options** button, typically located in the action toolbar e.g. to the right side of the Save and Publish buttons.
+2. Click the **More options** button, typically located in the Action toolbar e.g. to the right side of the Save and Publish buttons.
 3. Select the **Archive** option. You will receive a confirmation notification if the the item has successfully been archived.
 
 Location of the **Archive** action for pages:

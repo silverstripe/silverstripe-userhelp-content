@@ -39,7 +39,7 @@ Here is where you can manage some global settings like the site name and user ac
 
 ### CMS Help menu
 
-The CMS Help menu provides more visibility of useful resources in the wider ecosystem of SilverStripe and can be found in the south toolbar of the CMS menu. The CMS help menu includes the following:
+The CMS Help menu provides more visibility of useful resources in the wider ecosystem of SilverStripe and can be found in the Action toolbar of the CMS menu. The CMS help menu includes the following:
 
 CMS User Help — direct access to SilverStripe User Help. This is the site you are looking at right now!
 
@@ -65,15 +65,17 @@ See, [Customising the CMS Help menu](https://docs.silverstripe.org/en/4/develope
 
 ### Tree Management
 
-The Tree Management area is found between the CMS menu and page details, and displays as a site tree in a hierarchical format. If a page is selected in the tree its details will be shown in the Page Management area. You can rearrange your page hierarchy. The site tree will indicate if a page is Draft, Modified, or Archived by a page status, if a page is published no status will be shown. Because pages can be placed 'beneath' one another in the hierarchy, you may need to expand items in the tree to see items beneath them.
+The Tree Management area is found between the CMS menu and page details, and displays as a site tree in a hierarchical format. If a page is selected in the tree its details will be shown in the Navigation toolbar. You can rearrange your page hierarchy. The site tree will indicate if a page is Draft, Modified, or Archived by a page status, if a page is published no status will be shown. Because pages can be placed 'beneath' one another in the hierarchy, you may need to expand items in the tree to see items beneath them.
 
-### Page Management
+### Navigation toolbar
 
-The Page Management area shows various data relating to individual pages such as: page name, navigation label (label in the website menu), URL and general content. The content of each page is typically edited through a text editor (HTML editor), which behaves in a similar fashion to a word processing application (such as Microsoft Word). Content authors can also select to edit the page's html directly through the editor.
+The Navigation toolbar area shows various data relating to individual pages such as: page name, navigation label (label in the website menu), URL and general content. The content of each page is typically edited through a text editor (HTML editor), which behaves in a similar fashion to a word processing application (such as Microsoft Word). Content authors can also select to edit the page's html directly through the editor.
 
-#### Publishing Bar
+#### Action toolbar
 
-The Publishing bar on the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add the page to a Campaign.
+The Action toolbar at the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add to a campaign.
+
+<div class="note" markdown="1">Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.</div>
 
 ![SS4 publishing options](/_images/publishing-options.png)
 
