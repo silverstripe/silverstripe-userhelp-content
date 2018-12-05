@@ -44,7 +44,7 @@ Pages that contain a HTML editor allow you to place files into the content area,
 
 1. Navigate to your page within the **Pages** section.
 2. In the HTML editor click on the button ***Insert from Files*** which is shown as an image icon.  
-3. The Files area will open above the page management section.
+3. The Files area will open above the Navigation toolbar.
 4. Navigate to the folder you would like to add your file(s).
 5. Either drag files from your computer/device or click the button ***Upload*** to add your file(s).
 6. Select the files you would like to add to your content, they will appear on the right side of your file library so that you can edit its details.

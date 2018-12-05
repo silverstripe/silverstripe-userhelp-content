@@ -26,7 +26,7 @@ You can either:
 
 ![Edit mode toggle options](/_images/Preview-Bar.png)
 
-This will allow you to view a preview of your draft/live content alongside the Page management section. That way you can make updates and see the preview immediately.
+This will allow you to view a preview of your draft/live content alongside the Navigation toolbar. That way you can make updates and see the preview immediately.
 
 ![Preview option](/_images/Preview.png)
 
