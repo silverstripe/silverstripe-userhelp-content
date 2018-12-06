@@ -71,7 +71,7 @@ The Tree Management area is found between the CMS menu and page details, and dis
 
 The Navigation toolbar area shows various data relating to individual pages such as: page name, navigation label (label in the website menu), URL and general content. The content of each page is typically edited through a text editor (HTML editor), which behaves in a similar fashion to a word processing application (such as Microsoft Word). Content authors can also select to edit the page's html directly through the editor.
 
-#### Action toolbar
+### Action toolbar
 
 The Action toolbar at the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add to a campaign.
 
