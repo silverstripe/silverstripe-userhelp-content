@@ -37,7 +37,7 @@ The Security section enables you to set up and administer users and user groups 
 
 Here is where you can manage some global settings like the site name and user access control.
 
-### CMS Help menu
+### CMS Help menu {#cms-help-menu}
 
 The CMS Help menu provides more visibility of useful resources in the wider ecosystem of SilverStripe and can be found in the Action toolbar of the CMS menu. The CMS help menu includes the following:
 
