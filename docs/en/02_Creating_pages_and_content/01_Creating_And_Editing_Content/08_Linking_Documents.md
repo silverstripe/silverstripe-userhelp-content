@@ -1,5 +1,5 @@
 title: Linking documents
-summary: Uploading and linking documents from the SilverStripe CMS.
+summary: Uploading and linking documents from the Silverstripe CMS.
 
 ## Uploading and linking to documents
 

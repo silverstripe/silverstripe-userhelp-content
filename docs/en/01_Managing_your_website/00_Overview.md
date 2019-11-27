@@ -1,17 +1,17 @@
 title: Overview
-summary: Introducing the SilverStripe CMS administration interface.
+summary: Introducing the Silverstripe CMS administration interface.
 
 # Overview
 
-The latest SilverStripe CMS administration panel is arranged in four main areas, as shown below:
+The latest Silverstripe CMS administration panel is arranged in four main areas, as shown below:
 
-![SilverStripe 4 CMS overview](/_images/basic-overview.png)
+![Silverstripe CMS 4 overview](/_images/basic-overview.png)
 
 ## CMS menu
 
-This CMS menu allows you to navigate to the main sections of the SilverStripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and the CMS Help menu.
+This CMS menu allows you to navigate to the main sections of the Silverstripe CMS. The CMS menu can be collapsed by using the toggle at the bottom left of the screen. By default the CMS menu provides you access to your sites pages, files and images, reports, manage security of its members and admins, adjust site settings and the CMS Help menu.
 
-The menu you see may change depending on what modules are installed and what permissions your user account has been assigned. The following tabs are part of a typical SilverStripe installation for a user in the [Administrators](managing_roles_and_permissions/#using-roles) group with full permissions:
+The menu you see may change depending on what modules are installed and what permissions your user account has been assigned. The following tabs are part of a typical Silverstripe CMS installation for a user in the [Administrators](managing_roles_and_permissions/#using-roles) group with full permissions:
 
 ### Pages
 
@@ -27,7 +27,7 @@ This section allows you to add or delete files and to synchronise your view with
 
 ### Reports
 
-This section shows reports for your site such as, pages with broken links or pages with no content. What you see in this section will depend on which version of SilverStripe you are running and what modules you have installed.
+This section shows reports for your site such as, pages with broken links or pages with no content. What you see in this section will depend on which version of Silverstripe CMS you are running and what modules you have installed.
 
 ### Security
 
@@ -39,15 +39,15 @@ Here is where you can manage some global settings like the site name and user ac
 
 ### CMS Help menu {#cms-help-menu}
 
-The CMS Help menu provides more visibility of useful resources in the wider ecosystem of SilverStripe and can be found in the Action toolbar of the CMS menu. The CMS help menu includes the following:
+The CMS Help menu provides more visibility of useful resources in the wider ecosystem of Silverstripe CMS and can be found in the Action toolbar of the CMS menu. The CMS help menu includes the following:
 
-CMS User Help — direct access to SilverStripe User Help. This is the site you are looking at right now!
+CMS User help — direct access to Silverstripe CMS User Help. This is the site you are looking at right now!
 
 [Developer Documentation](https://doc.silverstripe.org) — often used by administrators when the user help guides don't surface enough information.
 
 [Community](https://silverstripe.org) — provides awareness of self-help areas such as the community [Slack](https://www.silverstripe.org/community/slack-signup), [StackOverflow](https://stackoverflow.com/questions/tagged/silverstripe), [Forum](https://forum.silverstripe.org/) through the community website.
 
-[Feedback](https://www.silverstripe.org/give-feedback/) — give feedback about the SilverStripe CMS whether good or bad, we'd be happy to hear your thoughts. Your contributions will help improve the experience of the CMS for everyone.
+[Feedback](https://www.silverstripe.org/give-feedback/) — give feedback about the Silverstripe CMS whether good or bad, we'd be happy to hear your thoughts. Your contributions will help improve the experience of the CMS for everyone.
 
 The CMS help menu also provides visibility of the CMS version number. It is directly visible in the menu and shows the full version details on hover.
 

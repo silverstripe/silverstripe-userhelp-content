@@ -17,7 +17,7 @@ What makes a site search engine friendly?
 * Relevant content.
 * A site built to meet accessibility standards.
 
-Search engine friendliness and accessibility are very closely related—you can think of Google as just another blind user. SilverStripe CMS automatically does a number of things that make your site search engine friendly and accessible.
+Search engine friendliness and accessibility are very closely related—you can think of Google as just another blind user. Silverstripe CMS automatically does a number of things that make your site search engine friendly and accessible.
 
 As a website editor, you should be aware of creating accessible content such as:
 * Post **relevant content**. This may sound obvious, but it's the most important thing you can do as an editor. If your content is relevant to your users, your site will rank higher for the search terms they are using.
@@ -29,16 +29,16 @@ As a website editor, you should be aware of creating accessible content such as:
 
 ### URLs, page names, titles and navigation labels
 
-When you first create a new page, start by entering its name in the **Page name** field on the **Content** tab. SilverStripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually. It's useful to know where and how the different names are displayed.
+When you first create a new page, start by entering its name in the **Page name** field on the **Content** tab. Silverstripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually. It's useful to know where and how the different names are displayed.
 
 ![Page name field](/_images/page-names.png)
 
 * **Page name**—generates the main headline (the &lt;h1&gt; tag) for the page's content.
-* **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
+* **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that Silverstripe CMS generates will be fine, but you can manually change it if necessary.
 * **Navigation label**—appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 
 <div class="note" markdown="1">
-Your website developer will have configured your SilverStripe site for either simple or hierarchical URLs.
+Your website developer will have configured your Silverstripe CMS website for either simple or hierarchical URLs.
 
 Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be www.example.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
 
@@ -63,7 +63,7 @@ It is best to avoid repetition of keywords and phrases in the description. Googl
 
 ### Clean HTML
 
-SilverStripe CMS generates clean HTML code when you type your content into the CMS. However, often you already have content in another format, such as Microsoft Word, which you need to simply transfer into the CMS.
+Silverstripe CMS generates clean HTML code when you type your content into the CMS. However, often you already have content in another format, such as Microsoft Word, which you need to simply transfer into the CMS.
 
 Avoid cutting and pasting directly from a word processor with the standard cut and paste functions. Always "Paste from Word" if using Microsoft Word, or "Paste as Text" if using another word processor. Word processors tend to do poor jobs of creating web markup code and often insert extraneous code which make your site less search-engine friendly and accessible.
 
