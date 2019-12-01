@@ -3,11 +3,11 @@ summary: Guidance on accessing and managing report data.
 
 # Reports
 
-This section includes guidance on accessing and managing reports for your site. This will depend on which version of SilverStripe you are running and what modules you have installed.
+This section includes guidance on accessing and managing reports for your site. This will depend on which version of Silverstripe CMS you are running and what modules you have installed.
 
 ## Default reports
 
-The following reports are available as part of the default installation of SilverStripe:
+The following reports are available as part of the default installation of Silverstripe CMS:
 
 * Broken links report
 * Pages with broken files

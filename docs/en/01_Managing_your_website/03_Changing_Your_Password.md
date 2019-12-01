@@ -1,5 +1,5 @@
 title: Changing your CMS Password
-summary: Guidance on how to change the password of your SilverStripe CMS account.
+summary: Guidance on how to change the password of your Silverstripe CMS account.
 
 # Changing your CMS Password
 

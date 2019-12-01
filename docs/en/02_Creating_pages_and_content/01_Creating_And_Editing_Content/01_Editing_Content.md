@@ -58,7 +58,7 @@ Pasting directly from most word processors or other application often inserts "r
 
 You can either:
 * **Paste as text**—removes all formatting from copied text before adding it to the website.
-* **Paste from word**—SilverStripe takes the "rich text" formatting code from Microsoft Word, and translates that into HTML markup code. However, this only works with Microsoft Word, and not with other word processors such as OpenOffice.org, Word Perfect, or Apple Pages.
+* **Paste from word**—Silverstripe CMS takes the "rich text" formatting code from Microsoft Word, and translates that into HTML markup code. However, this only works with Microsoft Word, and not with other word processors such as OpenOffice.org, Word Perfect, or Apple Pages.
 
 ## Describing your content with metadata
 
