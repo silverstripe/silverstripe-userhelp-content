@@ -29,16 +29,16 @@ Navigate to the ***History*** tab, to enter **Compare mode** you can either:
 * Click the button ***Compare mode*** shown as a slider icon and select the ***Compare two versions*** checkbox field or
 * Select a record from the list and click the button ***Compare***.
 
-![Compare mode](/_images/compare_mode.png)
+![Compare mode](../../_images/compare_mode.png)
 
 Once you have entered compare mode select 2 different records.
 **Note:** Your selected record will automatically be positioned at the top of the page separated by a black bar. Your record will also appear in the below list with the label **Already selected**. Select another record to compare versions.
 
-![Selecting two versions](/_images/selecting_versions.png)
+![Selecting two versions](../../_images/selecting_versions.png)
 
 The preview will then highlight everything that has been removed from the page in red, and everything that was added in green between those two versions in a read-only format.
 
-![Comparing two versions](/_images/comparing_versions.png)
+![Comparing two versions](../../_images/comparing_versions.png)
 
 To deselect a record, select the button ***Close*** shown as a cross icon.
 To exit compare mode entirely select the button ***Exit*** in the notice message ***Compare mode: Select two versions*** below the north toolbar.

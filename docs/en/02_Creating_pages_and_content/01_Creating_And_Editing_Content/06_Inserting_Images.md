@@ -5,7 +5,7 @@ summary: Inserting and resizing images in your content.
 
 # Inserting images
 
-![Images from the CMS](/_images/images-from-cms.png)
+![Images from the CMS](../../_images/images-from-cms.png)
 
 ## Inserting an image (HTML editor)
 1. Position the text cursor where you want to insert the top of the image. To keep things tidy it's usually best if you place the image on it's own line, or at the very start of a paragraph.

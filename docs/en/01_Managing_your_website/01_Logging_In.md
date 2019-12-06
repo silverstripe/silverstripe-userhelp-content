@@ -23,7 +23,7 @@ Enter your login (usually your email address) and password. This will take you t
 
 *Page viewable by browsing to www.example.com/admin*
 
-![Login to Silverstripe CMS](/_images/general-login.png)
+![Login to Silverstripe CMS](../_images/general-login.png)
 
 [note]
 If you select the **Keep me signed in** checkbox field, the login fields will pre-populate the next time you login to the CMS. Only use this option on a computer where you alone have access.

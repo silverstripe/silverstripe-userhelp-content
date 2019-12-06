@@ -18,7 +18,7 @@ summary: Managing CMS access and permissions using groups and roles.
 
 * Navigate to the **Security** section in the CMS menu.
 
-![Security tab](/_images/security_pane_main_view.png)
+![Security tab](../_images/security_pane_main_view.png)
 
 ## Explaining security groups and roles
 
@@ -53,9 +53,9 @@ Hover over a permission checkbox label to see a tooltip with more information.
 4. Click the button ***Create***.
 To navigate back to the Roles section either click the link ***Security*** in the breadcrumbs or the ***Back*** button which is shown as a left arrow in the Navigation toolbar.
 
-![Roles section](/_images/roles-pane.png)
+![Roles section](../_images/roles-pane.png)
 
-![Creating roles](/_images/creating-roles.png)
+![Creating roles](../_images/creating-roles.png)
 
 [note]
 A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (they can change the location for a page in the site tree and  manage the site structure and navigation).
@@ -69,7 +69,7 @@ To see details or edit an existing role, select the list item.
 
 Each CMS user for your website belongs to one or more groups. For example, you may have a group who can only access the "News" section of your website, and another group who can only access the "Events" section of your website. The users in each group would be the people who manage the content for the respective section.
 
-![Groups section](/_images/groups-pane.png)
+![Groups section](../_images/groups-pane.png)
 
 Unlike roles, there are no basic groups that typically apply to all sites. Instead, the groups you set up depend on your organisation, and who is involved in updating your website. We recommend thinking about who manages which areas or sections of your website, and then create groups based on those areas of responsibility.
 
@@ -92,7 +92,7 @@ You can nest groups, and create sub-groups which may represent different roles. 
 2. Navigate to the ***Members*** tab.
 3. When typing in the first name, last name, or e-mail address in the **Find members by...** dropdown field will show a choice of autocomplete names. Select the member you're looking for and click the button ***Link Existing***.
 
-![Adding members to a group](/_images/adding-member-to-group.png)
+![Adding members to a group](../_images/adding-member-to-group.png)
 
 If you wish to add a new member instead of choosing from an already established member, click the button ***Add Member***.
 

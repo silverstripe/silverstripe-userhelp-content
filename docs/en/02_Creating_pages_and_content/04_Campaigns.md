@@ -25,14 +25,14 @@ Campaigns enable:
 * **Description**—you can add additional details to your campaign for easy reference. For example: Go-live date, Team involved, Target audience.
 3. Click the button ***Create***, you will be navigated to the newly created campaign which will initially be empty of content.
 
-![Adding a new Campaign](/_images/campaigns-section.png)
+![Adding a new Campaign](../_images/campaigns-section.png)
 
-![New Campaign](/_images/new-campaign.png)
+![New Campaign](../_images/new-campaign.png)
 
 
 ## Editing details/settings
 
-![Campaign section](/_images/campaign-gridfield.png)
+![Campaign section](../_images/campaign-gridfield.png)
 
 1. To edit the settings of an existing campaign navigate to **Campaigns** in the CMS menu.
 2. From the list of current campaigns which are presented, for the campaign you want to edit click on the **Settings** action located on the far right of the item.
@@ -45,7 +45,7 @@ Campaigns enable:
 
 ## Adding items to a campaign
 
-![Adding Page to Campaign](/_images/add-to-campaign.png)
+![Adding Page to Campaign](../_images/add-to-campaign.png)
 
 1. To add content to a campaign you need to navigate to the content you want to add.
 2. From the ***More options*** dropdown (presented as an ellipsis icon) you should see the action ***Add to campaign***.
@@ -53,7 +53,7 @@ Campaigns enable:
 4. From the **Available campaigns** dropdown select a campaign to add your item to, or alternatively select ***Add to a new campaign*** where you will be presented with a new field where you can add a new campaign.
 5. Click the button ***Add*** to add your content to the desired campaign, you will be presented with a success message. You can now close the dialog box.
 
-![Campaign modal](/_images/campaign-modal.png)
+![Campaign modal](../_images/campaign-modal.png)
 
 ## Managing items in a campaign
 
@@ -74,7 +74,7 @@ Items of content will indicate whether they have unpublished changes by showing 
 
 When a **link** icon appears on selected content in a campaign there are other items in the campaign which are dependent on it. For example, an image might be placed on a page and if the page is removed or published the image will also be removed or published because of the relationship they have. Any linked items in the campaign will also show a link icon to represent this relationship.
 
-![Campaign preview](/_images/preview-campaign.png)
+![Campaign preview](../_images/preview-campaign.png)
 
  ## Publishing a campaign
 

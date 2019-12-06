@@ -16,7 +16,7 @@ For example, if you'd like to create a new page in the "About Us" section of you
 4. Click the button ***Create***.
 5. Your new page will be created, you can now enter some content. Make sure you consider the length of your ***Page name*** for site tree and front-end clarity. Click the button ***Publish*** to make your changes live.
 
-![Adding a page](/_images/adding-a-page.png)
+![Adding a page](../../_images/adding-a-page.png)
 
 [note]
  Different page types will usually have different content fields to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create "News Article" page types etc.
@@ -47,10 +47,10 @@ The home page of the site, shown by default when a visitor browses directly to t
 
 It is also possible to change from one page type to another. To edit an existing page type, navigate to the site tree and select the page you want to change.
 
-![Choosing page type](/_images/Choosing-A-Page.png)
+![Choosing page type](../../_images/Choosing-A-Page.png)
 
 1. Navigate to the ***Settings*** tab.
 2. You can select a new page type from the **Page type** dropdown field.
 3. Click the button ***Publish*** to make your changes live.
 
-![Changing page type](/_images/Changing-Page-Type.png)
+![Changing page type](../../_images/Changing-Page-Type.png)

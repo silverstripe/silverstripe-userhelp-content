@@ -13,7 +13,7 @@ Be sure to ***Save*** any page you are working on in the editing page to a Draft
 
 Click the button ***Upload***, see [Uploading images from Files](images_and_documents) to learn more.
 
-![Link file](/_images/insert-link-file.png)
+![Link file](../../_images/insert-link-file.png)
 
 1. Navigate to the **Pages** section within the CMS menu and select the page you want to add a hyperlink to in the site tree.
 2. Highlight the text or click where you would like to add the hyperlink. You can either:
@@ -26,7 +26,7 @@ Click the button ***Upload***, see [Uploading images from Files](images_and_docu
 * Open in new window/tab
 5. Click the button ***Insert file***.
 
-![Link file modal](/_images/link-file-modal.png)
+![Link file modal](../../_images/link-file-modal.png)
 
 [note]
 Click the link from the HTML editor to further edit or remove the link.

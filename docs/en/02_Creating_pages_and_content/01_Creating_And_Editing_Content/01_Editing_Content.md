@@ -7,7 +7,7 @@ summary: Working with content in your pages.
 
 If your website includes other features specific to all pages you may see other fields here too.
 
-![Editing pages section](/_images/Content-Editing.png)
+![Editing pages section](../../_images/Content-Editing.png)
 
 1. In the **Pages** section, select the page you want to edit in the site tree.
 2. Navigate to the ***Content*** tab. For a standard content page, you can edit the following fields:
@@ -18,7 +18,7 @@ If your website includes other features specific to all pages you may see other 
 * **Metadata**—hidden in a panel at the bottom of the interface, the content of these fields don't appear on the page, but instead are used by search engines.
 3. Add your required field changes and click the button ***Save*** or ***Publish***.
 
-![Editing page fields](/_images/Page-Fields.png)
+![Editing page fields](../../_images/Page-Fields.png)
 
 [note]
 Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.
@@ -28,7 +28,7 @@ Every time you click the button ***Save*** or ***Publish*** a snapshot of the pa
 
 Generally, most items in the HTML editor will behave much like they would in any word processor.
 
-![HTML Editor](/_images/formatting-content.png)
+![HTML Editor](../../_images/formatting-content.png)
 
 ### Styles
 
@@ -70,4 +70,4 @@ It's not just enough to create good content that informs your readers. You also 
 
 In the lower portion of the Navigation toolbar, beneath the HTML Editor is the Metadata section. Here, you can also enter a description and keywords for your site and add any additional metadata.
 
-![Meta-title](/_images/meta-title.png)
+![Meta-title](../../_images/meta-title.png)

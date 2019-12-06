@@ -21,7 +21,7 @@ You can see which pages are hidden by the page names colored grey in the site tr
 
 Only people who have access to the full page URL will be able to find the page. However, you can still link to the page from other pages, see [Inserting links](../creating_and_editing_content/inserting_links) to learn more.
 
-![Page visibility](/_images/Hiding-Pages.png)
+![Page visibility](../../_images/Hiding-Pages.png)
 
 [note]
 You can either choose to hide the page from the menus or from search engines, you do not need to do both.

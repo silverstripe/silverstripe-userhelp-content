@@ -10,7 +10,7 @@ summary: Using the drag and drop interface to organise your content.
 * **on top of** a page, which will move the page inside that section, as a subpage.
 2. Once you have reordered any page(s), you must select the page and the click the button ***Publish*** to make it's new position and order live.
 
-![Moving pages](/_images/Moving-Pages.png)
+![Moving pages](../../_images/Moving-Pages.png)
 
 ## Moving pages between sections without drag and drop
 
@@ -19,4 +19,4 @@ summary: Using the drag and drop interface to organise your content.
 3. Below the **Page location** select whether you want the page to appear at the **Top-Level**, or as a **Sub-page underneath a parent page**.
 4. Click the button ***Publish*** to make it's new position and order live.
 
-![Page location](/_images/settings-page-location.png)
+![Page location](../../_images/settings-page-location.png)

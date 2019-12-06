@@ -33,7 +33,7 @@ As a website editor, you should be aware of creating accessible content such as:
 
 When you first create a new page, start by entering its name in the **Page name** field on the **Content** tab. Silverstripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually. It's useful to know where and how the different names are displayed.
 
-![Page name field](/_images/page-names.png)
+![Page name field](../_images/page-names.png)
 
 * **Page name**—generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that Silverstripe CMS generates will be fine, but you can manually change it if necessary.
@@ -55,7 +55,7 @@ Hierarchical URLs provide a logical path for a page as it exists in the site's s
 
 Meta tags also make your web page more findable. The **Meta Description** field should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
 
-![Meta titles](/_images/meta-title.png)
+![Meta titles](../_images/meta-title.png)
 
 [note]
 The meta fields for title and keywords have been removed in v3.1. Keywords have been removed due to an official Google press release which confirmed that [Google doesn't use the keywords tag anymore](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
@@ -94,7 +94,7 @@ When embedding images in the HTML editor, always provide alternative text that c
 
 In addition, you may also want to add **Title text** for your image. Title text is for additional information about your image, such as the name of the photographer, or the date when it was taken. The title text appears as a tooltip when the user hovers over the image.
 
-![Alternative text for images](/_images/alt-image-text.png)
+![Alternative text for images](../_images/alt-image-text.png)
 
 #### Headings and lists
 
@@ -126,6 +126,6 @@ It's a good idea to create a custom 404 page for your site. On this page, you ca
 
 To create a custom error page, select ***Add new*** in the **Pages** section and choose **Error Page** from the page types listed. In the **Content** tab, from the **Error code** field select "404 - not found" and add your error message. Note that you can also create custom pages for other errors. "Page not found" is the most common error type that your users will encounter.
 
-![Error page](/_images/error-page.png)
+![Error page](../_images/error-page.png)
 
 To learn more about best practices see Web Aim's [Introduction to Web Accessibility](http://webaim.org/intro/) guide.
