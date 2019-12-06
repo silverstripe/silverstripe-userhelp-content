@@ -1,5 +1,7 @@
+---
 title: Linking documentation
 summary: Uploading and linking documents from your content.
+---
 
 ## Uploading and linking to documents
 

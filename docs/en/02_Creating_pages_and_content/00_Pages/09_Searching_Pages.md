@@ -1,5 +1,7 @@
+---
 title: Searching for pages
 summary: Using the site tree filter to find pages.
+---
 
 # Searching for pages
 
@@ -24,6 +26,6 @@ You can also search by different criteria, including:
   * Modified pages
   * Published pages
 
-<div class="note" markdown="1">
+[note]
 One neat trick is that you can search for pages, and then perform a batch action upon them, such as deleting them or publishing them. For example, by searching for Page Type: "BlogEntry" and then a date range: "(whatever last Thursday was till now)" you can then create a quick batch action to publish all blog posts written since last Thursday.
-</div>
+[/note]

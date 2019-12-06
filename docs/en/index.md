@@ -1,5 +1,7 @@
+---
 title: SilverStripe CMS user help guide
 introduction: Help for SilverStripe CMS content editors and website administrators.
+---
 
 # SilverStripe CMS user help guide
 This site is a user-focused reference targeted at editors and administrators who create and manage content on SilverStripe CMS websites.

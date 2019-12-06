@@ -1,5 +1,7 @@
+---
 title: Overview
 summary: Introducing the SilverStripe CMS administration interface.
+---
 
 
 # Overview

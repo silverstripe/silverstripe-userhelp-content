@@ -1,5 +1,7 @@
+---
 title: Batch actions
 summary: Performing actions on multiple pages at once.
+---
 
 # Batch actions
 

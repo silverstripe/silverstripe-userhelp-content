@@ -1,5 +1,7 @@
+---
 title: Editing content
 summary: Working with content in your pages.
+---
 
 ## Quick Reminder
 
@@ -22,7 +24,9 @@ summary: Working with content in your pages.
  * **Content**: The main content for the page, can include structured text, images, links, lists etc.
  * **Metadata**: Hidden in a panel at the bottom of the interface, the content of these fields doesn't appear on the page, but instead is used by search engines.
 
-<div class="note" markdown="1">If your website includes other features specific to all pages you may see other fields here too.</div>
+[note]
+If your website includes other features specific to all pages you may see other fields here too.
+[/note]
 
 ![SilverStripe3 Content Editing (Page Fields)](/_images/Page-Fields.png)
 

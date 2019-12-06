@@ -1,5 +1,7 @@
+---
 title: Images and documents
 summary: Uploading and working with files and images.
+---
 
 # Working with images and documents
 
@@ -22,9 +24,9 @@ Repeat this process for every file you wish to upload or you can select multiple
 
 Once the images have finished uploading, click the "Back to folder" button to go back to the parent folder. You should now see the files you uploaded within your chosen folder.
 
-<div class="note" markdown="1">
+[note]
 This same process can be used for filetypes other than images as well, which we will cover in [Linking documents](linking_documents/).
-</div>
+[/note]
 
 ### Inserting uploaded images
 
@@ -74,8 +76,8 @@ Once you have opened the File details pane, and you can edit the files details a
 
 You can also delete the file from here too. To do this click the delete button which is located next to save at the bottom of the pane.
 
-<div class="note" markdown="1">
+[note]
 By default, uploaded files are placed in the "Uploads" directory.
 
 If you place an image in a webpage, and later move or rename that image in "Files & Images," SilverStripe CMS will automatically keep track of those changes, so your webpage will remain unchanged - you don't even have to republish the page. [Editor's Note: Isn't that awesome?]
-</div>
+[/note]

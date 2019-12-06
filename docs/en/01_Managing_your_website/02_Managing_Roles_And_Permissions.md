@@ -1,10 +1,12 @@
+---
 title: Roles & permissions
 summary: Managing CMS access and permissions using groups and roles.
+---
 
 # Managing roles and permissions
 
 ## In this section:
-
+	
 * Understand roles and security groups
 * Learn how to set up a role
 * Learn how to edit a role
@@ -50,11 +52,11 @@ Click on "Add Role." A pop-up dialog should prompt you for information ont the r
 
 Click on the "Create" button to save the changes. Click the "Security" link in the breadcrumbs at the top of the "New Role" pane, to go back to the main "Security" pane.
 
-<div class="note" markdown="1">
+[note]
 A role can have any number of permissions.
 
 For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
-</div>
+[/note]
 
 ## Editing roles
 
@@ -74,9 +76,9 @@ Unlike roles, there are no basic groups that typically apply to all sites. Inste
 
 To create a new Security Group, click the "Add Group" button in the top of the "Groups" pane. Put the name of the group in the "Group Name" field in the "Members" tab in the "New Group" Pane.  Create the group by pressing the "Create" button in the bottom-left hand corner of the "New Group" pane.
 
-<div class="note" markdown="1">
+[note]
 We recommend you set up a top-level group for your entire site, as well as for each section that is managed by specific people.
-</div>
+[/note]
 
 You can nest groups, and create sub-groups which may represent different roles The parent group acts as a place to organise different subgroups.  In this case, it's probably best not to add members directly to the parent group.
 
@@ -90,9 +92,9 @@ Starting to type in the first name, last name, or e-mail address in the "Find me
 
 If you wish to add a new member instead of choosing from an already established member, you can click the "Add Members" button to the left of the "Find members by..." dropdown.
 
-<div class="note" markdown="1">
+[note]
 Users can be in multiple groups.  If you delete a user from a group, they are only removed from that group, not from the system.  To fully delete a user, you need to be in the root of Security.  You can reach the security group root by clicking on "Security" link in the breadcrumbs at the top of the Security Pane.
-</div>
+[/note]
 
 ## Editing and deleting groups
 

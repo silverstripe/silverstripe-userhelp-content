@@ -1,6 +1,8 @@
+---
 title: Rolling Back to a Previous Page Version
 summary: Viewing the history, comparing changes and rolling back to old page versions.
 introduction: Whenever you click the Save draft or Save & publish buttons a snapshot of the page is created that can be rolled back to at any point in the future. This is useful for undoing any saved changes or recovering any content that had previously been removed.
+---
 
 # Rolling Back to a Previous Page Version
 
@@ -17,9 +19,9 @@ introduction: Whenever you click the Save draft or Save & publish buttons a snap
  3. When you have located the snapshot that you'd like to roll back to, just click on the ![revert version button](/_images/revert-version-button.png) button.
  4. The page will be rolled back to this version, and you can then go ahead and click ![save publish](/_images/save-publish.png) to make it live.
 
-<div class="note" markdown="1">
+[note]
 When a page is rolled back to the previous version, it is only rolled back in the backend CMS as a draft. To show the rolled back page on the public-facing website, it needs to be published by pressing "Save and Publish."
-</div>
+[/note]
 
 ## Comparing Snapshots
 

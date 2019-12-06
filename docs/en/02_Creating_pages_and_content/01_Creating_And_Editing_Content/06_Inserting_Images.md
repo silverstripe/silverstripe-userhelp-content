@@ -1,5 +1,7 @@
+---
 title: Inserting images
 summary: Inserting and resizing images in your content.
+---
 
 # Inserting images
 
@@ -23,12 +25,13 @@ summary: Inserting and resizing images in your content.
  6. Once they have uploaded click on the ![insert button](/_images/insert-image-button.png) button.
  7. You can then drag the little drag handles on the image to resize it to your required size.
 
-<div class="note" markdown="1">
-Image files for a website must be in either JPG, GIF or PNG format. If your image currently exists in a Word or Publisher file, you must first save the image as one of these file types, usually by right clicking on it, and selecting Save as Picture...</div>
+[note]
+Image files for a website must be in either JPG, GIF or PNG format. If your image currently exists in a Word or Publisher file, you must first save the image as one of these file types, usually by right clicking on it, and selecting Save as Picture...
+[/note]
 
-<div class="note" markdown="1">
+[note]
 If you are using Internet Explorer, you should only select 1 image to insert at a time. Also Internet Explorer isn't able to resize images while keeping it's proportions, so you may wish to use another browser such as Google Chrome or Mozilla FireFox, or use the Edit interface (see below) to manually enter it's size.
-</div>
+[/note]
 
 ## Setting the alignment of an image
 

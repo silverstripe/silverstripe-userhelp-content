@@ -1,5 +1,7 @@
+---
 title: Reordering page structure
 summary: Using the drag and drop interface to organise your content.
+---
 
 # Reordering page structure
 

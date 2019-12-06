@@ -1,5 +1,7 @@
+---
 title: More CMS features
 summary: Further features are available via the SilverStripe CMS module directory.
+---
 
 # More CMS features
 

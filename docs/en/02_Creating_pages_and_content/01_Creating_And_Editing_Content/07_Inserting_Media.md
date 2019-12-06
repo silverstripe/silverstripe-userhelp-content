@@ -1,5 +1,7 @@
+---
 title: Embedding media
 summary: Adding video and other media to your content.
+---
 
 # Embedding media
 
@@ -19,7 +21,9 @@ To add a media such as video into a page, you should first upload it to a video 
 
 YouTube allows you to mark a video as **Unlisted** so that it will not appear on YouTube.com search results etc. Also adverts shall **not** be displayed on your video unless you enable that option from within YouTube.
 
-<div class="note" markdown="1">This feature isn't just limited to video, you can also embed Flickr slideshows and other embeddable widgets this way, if they support the 'oEmbed' standard.</div>
+[note]
+This feature isn't just limited to video, you can also embed Flickr slideshows and other embeddable widgets this way, if they support the 'oEmbed' standard.
+[/note]
 
  1. Upload your video to one of the supported media services (many of the [services that support oEmbed](http://oembed.com/#section7) protocol can be handled in this way):
   * YouTube

@@ -1,5 +1,7 @@
+---
 title: Saving Changes for Later
 summary: Saving draft changes and how to know what if you have unplublished changes.
+---
 
 # Saving Changes for Later
 
@@ -21,5 +23,6 @@ If another CMS user clicks on the page they will also see your changes, so they 
 
 Pages with changes that have been **Saved** but not **Published**, shall be marked with a ![modified](/_images/modified.png) label in the site tree.
 
-<div class="note" markdown="1">
-When in editing mode, only labels for the current page are displayed in the Site Tree. To view labels for all other pages, you must click on the ![pages tab single](/_images/pages-tab-single.png) tab, or on the ![edit tree button](/_images/edit-tree-button.png) button.</div>
+[note]
+When in editing mode, only labels for the current page are displayed in the Site Tree. To view labels for all other pages, you must click on the ![pages tab single](/_images/pages-tab-single.png) tab, or on the ![edit tree button](/_images/edit-tree-button.png) button.
+[/note]

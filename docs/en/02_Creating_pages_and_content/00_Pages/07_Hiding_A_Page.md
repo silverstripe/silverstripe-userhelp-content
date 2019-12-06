@@ -1,6 +1,8 @@
+---
 title: Hiding a Page (From the Menus)
 summary: Hide a page so that it doesn't appear in the website navigation menus
 introduction: You can hide a page so that it doesn't appear in the website navigation menus, or in search engine results, but is still accessible via it's URL, or from any links.
+---
 
 # Hiding a Page (From the Menus)
 
@@ -20,7 +22,9 @@ introduction: You can hide a page so that it doesn't appear in the website navig
 
 Now only people who know the full URL of the page shall be able to find it. However, you can still link to the page from other pages using the [Insert Link](../creating_and_editing_content/inserting_links) option.
 
-<div class="note" markdown="1">You can choose to hide the page from the menus or from search engines, you do not need to do both.</div>
+[note]
+You can choose to hide the page from the menus or from search engines, you do not need to do both.
+[/note]
 
 ![Hiding pages](/_images/Hiding-Pages.png)
  

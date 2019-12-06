@@ -1,5 +1,7 @@
+---
 title: SilverStripe CMS version
 summary: How to find out the version of SilverStripe CMS you are using.
+---
 
 # Finding out your version of SilverStripe CMS
 

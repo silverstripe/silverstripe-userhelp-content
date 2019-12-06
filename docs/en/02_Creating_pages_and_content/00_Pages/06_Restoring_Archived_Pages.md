@@ -1,5 +1,7 @@
+---
 title: Restoring an archived page
 summary: If you archived a page, and then later changed your mind, don't worry, you can easily get it back!
+---
 
 # Restoring an archived page
 
@@ -30,5 +32,7 @@ You can then click on Clear Filter above the site tree to hide the archived page
 
 You can then click on the Clear Filter link above the site tree to hide the other archived pages again.
 
-<div class="note" markdown="1">If after clicking on Clear Filter, you no longer see the page you recovered in the site tree, don't worry, just refresh the CMS by clicking on the reload button in your browser and it should reappear.</div>
+[note]
+If after clicking on Clear Filter, you no longer see the page you recovered in the site tree, don't worry, just refresh the CMS by clicking on the reload button in your browser and it should reappear.
+[/note]
 

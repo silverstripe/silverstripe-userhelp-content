@@ -1,5 +1,7 @@
+---
 title: Creating hyperlinks in webpages
 summary: Linking to internal and external content using hyperlinks.
+---
 
 # Creating hyperlinks in webpages
 
@@ -15,9 +17,9 @@ summary: Linking to internal and external content using hyperlinks.
 
  1. First make sure you have some text to add the link to. Type out some text into the Content field if necessary, eg. "Read more about us".
 
-<div class="note" markdown="1">
+[note]
 It's bad practice to use words such as "click here" as the link text, it's better for the clickable text to be the title or description of what's being linked to. For example, instead of "Click here to read more about widgets", it would be better to just say "Read more about widgets".
-</div>
+[/note]
 
  2. Click and drag across the text that you'd like to add a link to, to highlight it.
  3. Click on the ![insert link icon](/_images/insert-link-icon.png) Insert Link icon in the toolbar.
@@ -30,11 +32,11 @@ It's bad practice to use words such as "click here" as the link text, it's bette
  3. Select a page to link to, using the black arrows to drill down if necessary.
  4. Click ![insert link button](/_images/insert-link-button.png)
 
-<div class="note" markdown="1">
+[note]
 There are different processes for "internal" and "external" links because when pages on a SilverStripe installation are moved or deleted, the links in other pages on the site are automatically changed to the new pages location.  This allows you to quickly move pages around without the worry of breaking the site's structure or checking every page in the site for broken links.
 
 If you enter in an internal link URL in the external link field, SilverStripe CMS is usually smart enough to change the link to an internal link.
-</div>
+[/note]
 
 ### Link to a different website (external link)
 
@@ -55,6 +57,6 @@ If you enter in an internal link URL in the external link field, SilverStripe CM
  3. In the box that opens **locate the file** on your computer and click **Open/Choose**
  4. Once the file has uploaded, click ![insert link button](/_images/insert-link-button.png)
 
-<div class="note" markdown="1">
+[note]
 One other option is to hyperlink to a document that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. This is a more advanced topic, which we will cover in [Linking documents](linking_documents/).
-</div>
+[/note]
