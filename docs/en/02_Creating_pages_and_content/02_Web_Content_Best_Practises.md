@@ -37,9 +37,9 @@ When you first create a new page, start by entering its name in the Page name fi
 
 Why should you care? It's useful to know where and how the different names are displayed.
 
-![Page names](/_images/page-names.jpg)
+![Page names](../_images/page-names.jpg)
 
-![Meta titles](/_images/meta-title.jpg)
+![Meta titles](../_images/meta-title.jpg)
 
 * The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
@@ -103,13 +103,13 @@ When embedding images in your content, always provide alternative text that can 
 
 In addition, you may also want to add title text for your image. Title text is for additional information about your image, such as the name of the photographer, or the date when it was taken. The title text appears as a tooltip when the user hovers over the image.
 
-![Alt text for images](/_images/alt-image-text.jpg)
+![Alt text for images](../_images/alt-image-text.jpg)
 
 #### Headings and lists
 
 Mark up your headings by selecting the right heading style from the Format dropdown. Using headings properly gives your content hierarchy and, for example, allows users with screen readers to skip ahead to the next heading. Note that Heading 1 will be the title of your page, and all lower-level headings should be nested properly (e.g., Heading 3 should be within a Heading 2 section, etc.)
 
-![Headings](/_images/headings.png)
+![Headings](../_images/headings.png)
 
 If your content uses lists, select either bullets (unordered list) or numbers (ordered list) - don't use dashes or asterisks to mark up lists.
 
@@ -143,4 +143,4 @@ It's a good idea to create a custom 404 page for your site. On this page, you ca
 
 To create a custom error page, click **Add new** in the Pages pane and select **Error Page**. In the **Content** tab, select Error code **404 - not found**, then create your content as for any other page. Note that you can also create custom pages for other errors, but Page not found is by far the most common one that your users will encounter so you can usually safely ignore the other options.
 
-![Error page](/_images/error-page.jpg)
+![Error page](../_images/error-page.jpg)

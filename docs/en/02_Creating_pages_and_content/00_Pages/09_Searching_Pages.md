@@ -11,7 +11,7 @@ The default search mode is by text, and you can type any text to search your pag
 
 Search results will remain the only items in the Page Tree until the "Clear" button is pressed.
 
-![Searching pages](/_images/searching-pages.jpg)
+![Searching pages](../../_images/searching-pages.jpg)
 
 You can also search by different criteria, including:
 * "Date" to select modified date

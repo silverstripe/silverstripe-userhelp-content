@@ -5,16 +5,16 @@ summary: Working with content in your pages.
 
 ## Quick Reminder
 
- 1. Go to the ![pages tab single](/_images/pages-tab-single.png) tab
+ 1. Go to the ![pages tab single](../../_images/pages-tab-single.png) tab
  2. Click on the page you wish to edit
  3. Make your required changes
- 4. Click ![save publish](/_images/save-publish.png) to make your changes live
+ 4. Click ![save publish](../../_images/save-publish.png) to make your changes live
 
 ## Editing content
 
  1. In the Page Management Section, you will need to ensure you are on the 'Content' tab to use the WYSIWYG editor:
 
-![SilverStripe3 Content Editing](/_images/Content-Editing.png)
+![SilverStripe3 Content Editing](../../_images/Content-Editing.png)
 
  2. For a standard content page, you can edit the following fields:
 
@@ -28,11 +28,11 @@ summary: Working with content in your pages.
 If your website includes other features specific to all pages you may see other fields here too.
 [/note]
 
-![SilverStripe3 Content Editing (Page Fields)](/_images/Page-Fields.png)
+![SilverStripe3 Content Editing (Page Fields)](../../_images/Page-Fields.png)
 
-![SilverStripe3 Content Editing (Content Box)](/_images/formating-content.jpg)
+![SilverStripe3 Content Editing (Content Box)](../../_images/formating-content.jpg)
 
-3. Make your required changes to the fields, and then click the ![save draft button](/_images/save-draft-button.png) or ![save publish](/_images/save-publish.png) button to save the changes and make them live.
+3. Make your required changes to the fields, and then click the ![save draft button](../../_images/save-draft-button.png) or ![save publish](../../_images/save-publish.png) button to save the changes and make them live.
 Note: Every time you click on save draft button or save publish a snapshot of the page is saved in history, which you can then revert to at any time, see the [Rolling Back Pages](../pages/rolling_back_pages) help section.
 
 
