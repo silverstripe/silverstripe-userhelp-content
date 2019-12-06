@@ -1,6 +1,8 @@
+---
 title: Unpublishing pages
 summary: Removing pages from the website without deleting the draft content.
 introduction: If you want to temporarily remove a page from your website, for example if you accidentally click Publish too soon, or if the page is no longer required on your website, but will be again in the future, you can Unpublish it.
+---
 
 ## Unpublishing pages
 

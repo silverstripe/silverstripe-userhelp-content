@@ -1,5 +1,7 @@
+---
 title: Overview
 summary: Introducing the Silverstripe CMS administration interface.
+---
 
 # Overview
 
@@ -75,7 +77,9 @@ The Navigation toolbar area shows various data relating to individual pages such
 
 The Action toolbar at the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add to a campaign.
 
-<div class="note" markdown="1">Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.</div>
+[note]
+Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.
+[/note]
 
 ![SS4 publishing options](/_images/publishing-options.png)
 

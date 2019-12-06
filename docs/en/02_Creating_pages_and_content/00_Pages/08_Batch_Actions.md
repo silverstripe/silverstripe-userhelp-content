@@ -1,5 +1,7 @@
+---
 title: Batch actions
 summary: Performing actions on multiple pages at once.
+---
 
 # Batch actions
 
@@ -11,7 +13,9 @@ summary: Performing actions on multiple pages at once.
 2. Select the action **Publish** to perform from the dropdown field.
 3. Select any number of pages you want to publish, and click the button ***Go*** to perform the selected action.
 
-<div class="note" markdown="1">Available pages for the selected action will have checkbox fields beside them.</div>
+[note]
+Available pages for the selected action will have checkbox fields beside them.
+[/note]
 
 ### Archiving multiple pages
 

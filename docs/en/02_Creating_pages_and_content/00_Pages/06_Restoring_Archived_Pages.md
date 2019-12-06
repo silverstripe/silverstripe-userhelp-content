@@ -1,5 +1,7 @@
+---
 title: Restoring an archived page
 summary: Guidance on restoring an archived page at a later date.
+---
 
 # Restoring an archived page
 

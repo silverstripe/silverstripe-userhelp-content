@@ -1,4 +1,6 @@
+---
 title: Optional features
+---
 
 # Optional features
 

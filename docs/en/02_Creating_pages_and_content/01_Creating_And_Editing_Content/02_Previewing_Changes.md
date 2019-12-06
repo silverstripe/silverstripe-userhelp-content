@@ -1,12 +1,14 @@
+---
 title: Previewing changes
 summary: Previewing changes before publishing
 introduction: If you've made some substantial changes to a page, and want to check exactly how it looks before making the changes live, you can save the changes to a Draft and preview it.
+---
 
 # Previewing changes
 
-<div class="note" markdown="1">
+[note]
 Remember when editing content to save your page regularly.
-</div>
+[/note]
 
 Click the button ***Save*** in the publishing bar.
 

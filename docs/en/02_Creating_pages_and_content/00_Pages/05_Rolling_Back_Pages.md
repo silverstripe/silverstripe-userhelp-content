@@ -1,5 +1,7 @@
+---
 title: Rolling Back to a Previous Page Version
 summary: Viewing the history, comparing changes and rolling back to old page versions.
+---
 
 # Rolling Back to a Previous Page Version
 
@@ -15,9 +17,9 @@ You can preview how the current snapshot looked on the site, by switching to **P
 3. Click the button ***Revert to this version***, once you have located the snapshot that you want to roll back to.
 4. The page will be rolled back to this version. Click the button ***Publish*** to make it live.
 
-<div class="note" markdown="1">
+[note]
 When a page is rolled back to the previous version, it is only rolled back in the backend CMS as a draft. To show the rolled back page on the public-facing website, it needs to be published.
-</div>
+[/note]
 
 ## Comparing Snapshots
 

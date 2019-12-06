@@ -1,5 +1,7 @@
+---
 title: Web content best practices
 summary: Useful tips to improve your content management.
+---
 
 # Web content best practices
 
@@ -37,7 +39,7 @@ When you first create a new page, start by entering its name in the **Page name*
 * **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that Silverstripe CMS generates will be fine, but you can manually change it if necessary.
 * **Navigation label**—appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 
-<div class="note" markdown="1">
+[note]
 Your website developer will have configured your Silverstripe CMS website for either simple or hierarchical URLs.
 
 Simple URLs only use a single level of depth. For example, a page for a staff member might be called "John Smith", and its URL would be www.example.com/john-smith. Simple URLs are short and memorable, however, you are more likely to have multiple pages with the same name.
@@ -47,7 +49,7 @@ If a URL is already in use, the CMS will generate URLs with numbers, e.g., /staf
 In this case, it's a good idea to manually change the URLs to something more meaningful, such as /staff-members-berlin, /staff-members-hong-kong.
 
 Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be www.example.com/offices/new-york/staff/john-smith
-</div>
+[/note]
 
 ### Meta tags
 
@@ -55,11 +57,11 @@ Meta tags also make your web page more findable. The **Meta Description** field 
 
 ![Meta titles](/_images/meta-title.png)
 
-<div class="note" markdown="1">
+[note]
 The meta fields for title and keywords have been removed in v3.1. Keywords have been removed due to an official Google press release which confirmed that [Google doesn't use the keywords tag anymore](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
 
 It is best to avoid repetition of keywords and phrases in the description. Google sees this as 'keyword stuffing', which is looked at as search engine spam.
-</div>
+[/note]
 
 ### Clean HTML
 

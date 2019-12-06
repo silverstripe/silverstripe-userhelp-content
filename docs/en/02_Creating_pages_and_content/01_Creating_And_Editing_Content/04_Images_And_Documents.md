@@ -1,5 +1,7 @@
+---
 title: Images and documents
 summary: Working with files and images.
+---
 
 # Working with files (images and documents)
 
@@ -11,10 +13,10 @@ Files can be displayed or linked to from multiple places. This means that by upd
 
 You can either upload files within the Files section or directly from pages through the HTML editor. The Files section supports a range of different file types which are typical for use on the web including images, videos, and documents. See [Web content best practices](/creating_pages_and_content/web_content_best_practices/) for additional tips on how to prepare files for use on the web.
 
-<div class="note" markdown="1">
+[note]
 By default, uploaded files are placed in the "Uploads" directory.
 If you place an image in a page, and later move or rename that image the CMS will automatically keep track of those changes, so your webpage will remain unchanged—you don't even have to republish the page.
-</div>
+[/note]
 
 ## Uploading images
 
@@ -32,15 +34,15 @@ You should now see the files you uploaded within your chosen folder.
 
 ![Uploaded files](/_images/files-uploaded.png)
 
-<div class="note" markdown="1">
+[note]
 This same process can be used for filetypes other than images, see [Linking Documents](linking_documents/) to learn more.
-</div>
+[/note]
 
 ## Uploading images from a page
 
-<div class="note" markdown="1">
+[note]
 Pages that contain a HTML editor allow you to place files into the content area, some pages don't have a HTML editor area by default and might require a different [Page type](/creating_pages_and_content/pages/creating_new_pages/) or for a Content Block to be added.
-</div>
+[/note]
 
 1. Navigate to your page within the **Pages** section.
 2. In the HTML editor click on the button ***Insert from Files*** which is shown as an image icon.  

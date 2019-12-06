@@ -1,5 +1,7 @@
+---
 title: Searching for pages
 summary: Using the site tree search to find pages.
+---
 
 # Searching for pages
 

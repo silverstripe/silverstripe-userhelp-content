@@ -1,5 +1,7 @@
+---
 title: Pages
 summary: Managing content structure, page history and batch publishing.
+---
 
 # Pages
 

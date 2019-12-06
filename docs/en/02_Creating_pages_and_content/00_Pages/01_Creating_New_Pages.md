@@ -1,5 +1,7 @@
+---
 title: Creating new pages
 summary: Add new pages and descriptions of the default page types.
+---
 
 # Creating new pages
 
@@ -16,7 +18,9 @@ For example, if you'd like to create a new page in the "About Us" section of you
 
 ![Adding a page](/_images/adding-a-page.png)
 
-<div class="note" markdown="1"> Different page types will usually have different content fields to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create "News Article" page types etc.</div>
+[note]
+ Different page types will usually have different content fields to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create "News Article" page types etc.
+[/note]
 
 Don't worry if you create your page in the wrong location. Pages can be moved and re-ordered easily, see [Reordering Pages](reordering_pages/) to learn more.
 

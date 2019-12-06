@@ -1,5 +1,7 @@
+---
 title: Changing and managing users
 summary: Managing users access in the CMS administration interface.
+---
 
 # Changing and managing users
 
@@ -22,15 +24,17 @@ Navigate to the tab ***Users*** and click the button ***Add Member***.
 
 In the **New Member** section, you can edit the user's details. The two most important parts of the user's details are the email (which is also used for logging in) and password.
 
-<div class="note" markdown="1">By default, an email address can only be used once in the system. It is not possible for multiple users to share the same email address.</div>
+[note]
+By default, an email address can only be used once in the system. It is not possible for multiple users to share the same email address.
+[/note]
 
 ![User details](/_images/user-details.png)
 
-<div class="note" markdown="1">
+[note]
 Users can be in multiple groups. If you delete a user from a group, they are only removed from that group, not from the system. To fully delete a user from the system, you need to be in the root of Security.
 
 Click the link ***Security*** in the breadcrumbs or click the button ***Back*** which is shown as a left arrow icon.
-</div>
+[/note]
 
 ## Changing a user's password
 

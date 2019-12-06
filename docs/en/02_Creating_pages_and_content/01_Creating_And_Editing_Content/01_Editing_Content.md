@@ -1,5 +1,7 @@
+---
 title: Editing content
 summary: Working with content in your pages.
+---
 
 ## Editing content
 
@@ -18,7 +20,9 @@ If your website includes other features specific to all pages you may see other 
 
 ![Editing page fields](/_images/Page-Fields.png)
 
-<div class="note" markdown="1">Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.</div>
+[note]
+Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.
+[/note]
 
 ## Formatting content
 

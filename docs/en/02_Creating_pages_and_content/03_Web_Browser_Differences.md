@@ -1,5 +1,7 @@
+---
 title: Web browser differences
 summary: Guidance on the best web browsers to use when editing content in Silverstripe CMS.
+---
 
 # Web browser differences
 
