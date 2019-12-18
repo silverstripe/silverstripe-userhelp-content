@@ -1,6 +1,8 @@
+---
 title: CMS Reports
 summary: Help on accessing and managing report data.
 introduction: This section includes help on accessing report data in the CMS.
+---
 
 # Reports
 

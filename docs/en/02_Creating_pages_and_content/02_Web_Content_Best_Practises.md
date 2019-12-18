@@ -1,5 +1,7 @@
+---
 title: Web content best practices
 summary: Useful tips to improve your content management.
+---
 
 
 # Web content best practices
@@ -35,15 +37,15 @@ When you first create a new page, start by entering its name in the Page name fi
 
 Why should you care? It's useful to know where and how the different names are displayed.
 
-![Page names](/_images/page-names.jpg)
+![Page names](../_images/page-names.jpg)
 
-![Meta titles](/_images/meta-title.jpg)
+![Meta titles](../_images/meta-title.jpg)
 
 * The **Page name** is what generates the main headline (the &lt;h1&gt; tag) for the page's content.
 * The **Navigation label** is what appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 * The **URL** gets generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that SilverStripe CMS generates will be fine, but you can manually change it if necessary.
 
-<div class="note" markdown="1">
+[note]
 ### Notes:
 
 Your website developer will have configured your SilverStripe site for either simple or hierarchical URLs.
@@ -55,19 +57,19 @@ If a URL is already in use, the CMS will generate URLs with numbers, e.g., /staf
 In this case, it's a good idea to manually change the URLs to something more meaningful, such as /staff-members-berlin, /staff-members-hong-kong.
 
 Hierarchical URLs provide a logical path for a page as it exists in the site's structure. In our example, this might be http://website.com/offices/new-york/staff/john-smith
-</div>
+[/note]
 
 ### Meta tags
 
 Meta tags also make your web page more findable. The Description meta attribute should contain a concise and relevant summary of what the page contains. This will show in search engine results, and helps visitors understand the content of the page.
 
-<div class="note" markdown="1">
+[note]
 ### Notes:
 
 The meta fields for title and keywords have been removed in v3.1. Keyword have been removed due after an official Google press release which confirmed that Google doesn't use the keywords tag anymore (see [link](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
 
 Google doesn’t like repetition of keywords and phrases in the description. It sees this as 'keyword stuffing', which is looked at as search engine spam (not good!) Avoid this.
-</div>
+[/note]
 
 ### Clean HTML
 
@@ -101,13 +103,13 @@ When embedding images in your content, always provide alternative text that can 
 
 In addition, you may also want to add title text for your image. Title text is for additional information about your image, such as the name of the photographer, or the date when it was taken. The title text appears as a tooltip when the user hovers over the image.
 
-![Alt text for images](/_images/alt-image-text.jpg)
+![Alt text for images](../_images/alt-image-text.jpg)
 
 #### Headings and lists
 
 Mark up your headings by selecting the right heading style from the Format dropdown. Using headings properly gives your content hierarchy and, for example, allows users with screen readers to skip ahead to the next heading. Note that Heading 1 will be the title of your page, and all lower-level headings should be nested properly (e.g., Heading 3 should be within a Heading 2 section, etc.)
 
-![Headings](/_images/headings.png)
+![Headings](../_images/headings.png)
 
 If your content uses lists, select either bullets (unordered list) or numbers (ordered list) - don't use dashes or asterisks to mark up lists.
 
@@ -141,4 +143,4 @@ It's a good idea to create a custom 404 page for your site. On this page, you ca
 
 To create a custom error page, click **Add new** in the Pages pane and select **Error Page**. In the **Content** tab, select Error code **404 - not found**, then create your content as for any other page. Note that you can also create custom pages for other errors, but Page not found is by far the most common one that your users will encounter so you can usually safely ignore the other options.
 
-![Error page](/_images/error-page.jpg)
+![Error page](../_images/error-page.jpg)

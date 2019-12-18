@@ -1,5 +1,7 @@
+---
 title: Batch actions
 summary: Performing actions on multiple pages at once.
+---
 
 # Batch actions
 
@@ -22,5 +24,5 @@ disabled beside them.
 
 Select any number of pages, and then press "Go" to perform the selected action.
 
-![Delete multiple pages](/_images/Archive-Multiple-Pages.png)
+![Delete multiple pages](../../_images/Archive-Multiple-Pages.png)
  

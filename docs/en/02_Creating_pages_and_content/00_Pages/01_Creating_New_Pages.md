@@ -1,29 +1,33 @@
+---
 title: Creating new pages
 summary: Add a new pages and descriptions of the default page types.
+---
 
 # Creating new pages
 
 ## Quick Reminder
 
- 1. Go to the ![pages-tab-single](/_images/pages-tab-single.png) tab
+ 1. Go to the ![pages-tab-single](../../_images/pages-tab-single.png) tab
  2. Click on the page you wish to edit
  3. Make your required changes
- 4. Click ![save publish](/_images/save-publish.png) to make your changes live
+ 4. Click ![save publish](../../_images/save-publish.png) to make your changes live
 
 ## Creating a new page
 
- 1. From the ![pages-tab-single](/_images/pages-tab-single.png) tab, click on the add new page button button.
+ 1. From the ![pages-tab-single](../../_images/pages-tab-single.png) tab, click on the add new page button button.
  2. First choose **where** you'd like to create the page:
 	a. **Top Level**: The page shall appear in the main navigation bar, make sure there is enough room!
 	b. **Under another page**: Shall allow you to select an existing page on the site where you'd like to create the new page, as a subpage. For example, if you'd like to create a new page in the About Us section of your site, select the About Us page from the dropdown.
- 3. Choose the **type** of page you'd like to create. Normally you just wish to create a standard content page, so just select ![page generic selected](/_images/page-generic-selected.png)
- <div class="note" markdown="1"> Different page types will usually have different content fields for you to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create News Article pages etc.</div>
- 4. Click on ![create button](/_images/create-button.png)
- 5. Your new page shall be created, you can now enter it's content, and click on ![save publish](/_images/save-publish.png) to make it live. Don't forget to give it a Page name!
+ 3. Choose the **type** of page you'd like to create. Normally you just wish to create a standard content page, so just select ![page generic selected](../../_images/page-generic-selected.png)
+[note]
+ Different page types will usually have different content fields for you to fill in, and may also have a slightly different layout when the page is viewed. Depending on the functionality of your site, you may also be able to create News Article pages etc.
+[/note]
+ 4. Click on ![create button](../../_images/create-button.png)
+ 5. Your new page shall be created, you can now enter it's content, and click on ![save publish](../../_images/save-publish.png) to make it live. Don't forget to give it a Page name!
 
-<div class="note" markdown="1">
+[note]
 Don't worry if you create your page in the "wrong" place.  Pages can be moved and re-ordered easily, and we cover that under "[Pages](reordering_pages/) section."
-</div>
+[/note]
 
 ## Page types
 
@@ -48,8 +52,8 @@ news pages.
 
 To change a page type, look in the Pages pane for the page you wish to change.
 
-![Choosing page type](/_images/Choosing-A-Page.png)
+![Choosing page type](../../_images/Choosing-A-Page.png)
 
 Click on it, and head to the "Settings" tab in the editing pane. You can change the page type from the "Page type" drop-down menu. Save your changes by pressing "Save Draft" or "Save & Publish" in the actions menu at the bottom of the editing pane.
 
-![Changing page type](/_images/Changing-Page-Type.png)
+![Changing page type](../../_images/Changing-Page-Type.png)

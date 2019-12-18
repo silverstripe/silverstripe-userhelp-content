@@ -1,6 +1,8 @@
+---
 title: Optional features
 summary: This section includes optional modules that add extra features to a SilverStripe CMS website.
 introduction: This section includes optional modules that add extra features to a SilverStripe CMS website.
+---
 
 # Optional features
 

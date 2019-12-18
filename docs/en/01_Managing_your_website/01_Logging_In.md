@@ -1,5 +1,7 @@
+---
 title: Logging In
 summary: Logging into a SilverStripe CMS website to start editing content.
+---
 
 # Logging In
 
@@ -21,12 +23,12 @@ On the login page, enter your login (usually your email address) and password.  
 
 *Page viewable by browsing to www.example.com/admin*
 
-![Login to SilverStripe CMS](/_images/general-login.png)
+![Login to SilverStripe CMS](../_images/general-login.png)
 
-<div class="note" markdown="1">
+[note]
 If you select "Remember me next time?," the login fields will pre-populate the next time you log into the CMS. Only use this option on a computer where you alone have access.
 
 If you can't remember your password, click on "I've lost my password." You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
 
 If you are managing other CMS users and want to reset a password for somebody else, refer to Changing and Managing Users.
-</div>
+[/note]

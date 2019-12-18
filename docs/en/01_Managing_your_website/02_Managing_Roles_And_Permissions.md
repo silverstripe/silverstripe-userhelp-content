@@ -1,10 +1,12 @@
+---
 title: Roles & permissions
 summary: Managing CMS access and permissions using groups and roles.
+---
 
 # Managing roles and permissions
 
 ## In this section:
-
+	
 * Understand roles and security groups
 * Learn how to set up a role
 * Learn how to edit a role
@@ -42,19 +44,19 @@ These roles may be all you ever need, however, the CMS allows you to create as m
 
 To set up roles, click on the "Roles" tab in the "Security" Pane.
 
-![The roles pane](/_images/roles-pane.png)
+![The roles pane](../_images/roles-pane.png)
 
 Click on "Add Role." A pop-up dialog should prompt you for information ont the role, including the title of the role.  Select the appropriate permissions from the Permissions checklist. Hover over a permission to see more information about it as a tooltip.
 
-![Creating roles](/_images/creating-roles.png)
+![Creating roles](../_images/creating-roles.png)
 
 Click on the "Create" button to save the changes. Click the "Security" link in the breadcrumbs at the top of the "New Role" pane, to go back to the main "Security" pane.
 
-<div class="note" markdown="1">
+[note]
 A role can have any number of permissions.
 
 For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (They can change the location for a page in the site tree and so manage the site structure and navigation.)
-</div>
+[/note]
 
 ## Editing roles
 
@@ -66,7 +68,7 @@ Each CMS user for your website belongs to one or more groups. For example, you m
 
 To view the "Groups" pane, click on the "Groups" tab in the "Security" section.
 
-![The groups pane](/_images/groups-pane.png)
+![The groups pane](../_images/groups-pane.png)
 
 Unlike roles, there are no basic groups that typically apply to all sites. Instead, the groups you set up depend on your organisation, and who is involved in updating your website. We recommend you think about who manages which areas or sections of your website, and then create groups based on those areas of responsibility.
 
@@ -74,9 +76,9 @@ Unlike roles, there are no basic groups that typically apply to all sites. Inste
 
 To create a new Security Group, click the "Add Group" button in the top of the "Groups" pane. Put the name of the group in the "Group Name" field in the "Members" tab in the "New Group" Pane.  Create the group by pressing the "Create" button in the bottom-left hand corner of the "New Group" pane.
 
-<div class="note" markdown="1">
+[note]
 We recommend you set up a top-level group for your entire site, as well as for each section that is managed by specific people.
-</div>
+[/note]
 
 You can nest groups, and create sub-groups which may represent different roles The parent group acts as a place to organise different subgroups.  In this case, it's probably best not to add members directly to the parent group.
 
@@ -86,13 +88,13 @@ Once you have created a group, you can then add members to the group. First, fin
 
 Starting to type in the first name, last name, or e-mail address in the "Find members by..." field will give you a drop-down choice of autocomplete names. If you see the name you are looking for, click on it, and click "Link Existing" to the right of the fields.
 
-![Adding members to a group](/_images/adding-member-to-group.png)
+![Adding members to a group](../_images/adding-member-to-group.png)
 
 If you wish to add a new member instead of choosing from an already established member, you can click the "Add Members" button to the left of the "Find members by..." dropdown.
 
-<div class="note" markdown="1">
+[note]
 Users can be in multiple groups.  If you delete a user from a group, they are only removed from that group, not from the system.  To fully delete a user, you need to be in the root of Security.  You can reach the security group root by clicking on "Security" link in the breadcrumbs at the top of the Security Pane.
-</div>
+[/note]
 
 ## Editing and deleting groups
 
