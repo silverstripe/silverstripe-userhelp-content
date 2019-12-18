@@ -1,11 +1,13 @@
+---
 title: Overview
 summary: Introducing the Silverstripe CMS administration interface.
+---
 
 # Overview
 
 The latest Silverstripe CMS administration panel is arranged in four main areas, as shown below:
 
-![Silverstripe CMS 4 overview](/_images/basic-overview.png)
+![Silverstripe CMS 4 overview](../_images/basic-overview.png)
 
 ## CMS menu
 
@@ -75,14 +77,16 @@ The Navigation toolbar area shows various data relating to individual pages such
 
 The Action toolbar at the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add to a campaign.
 
-<div class="note" markdown="1">Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.</div>
+[note]
+Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.
+[/note]
 
-![SS4 publishing options](/_images/publishing-options.png)
+![SS4 publishing options](../_images/publishing-options.png)
 
 ### Edit mode toggle and page preview
 
 You can choose to view the interface in a few different ways, including Edit mode, Split mode (side-by-side edit and preview) or Preview mode (preview only). Within the preview area you can also toggle between preview states ***Draft*** and ***Published***.
 
-![Edit mode toggle](/_images/Preview-Bar.png)
+![Edit mode toggle](../_images/Preview-Bar.png)
 
 See, [Previewing content changes](../creating_pages_and_content/creating_and_editing_content/previewing_changes) to learn more.

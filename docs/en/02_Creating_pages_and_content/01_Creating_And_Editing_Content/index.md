@@ -1,5 +1,7 @@
+---
 title: Creating and editing content
 summary: Guidance for editing page content and publishing changes.
+---
 
 # Creating and Editing Content
 

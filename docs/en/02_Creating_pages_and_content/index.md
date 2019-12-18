@@ -1,4 +1,6 @@
+---
 title: Pages and content
+---
 
 # Pages and content
 

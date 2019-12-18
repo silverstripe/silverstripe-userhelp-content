@@ -1,4 +1,6 @@
+---
 title: CMS User help
+---
 
 # Silverstripe CMS User help guide
 
@@ -14,8 +16,9 @@ Check out our [community](https://www.silverstripe.org/community/) overview for 
 
 For customers of Silverstripe Ltd., the company behind the CMS, visit [silverstripe.com](https://www.silverstripe.com/).
 
-<div class="note" markdown="1">Sections of User help are still a work in progress. If you would like to help contribute to the Silverstripe CMS User help guide you can edit the pages on [GitHub](https://github.com/silverstripe/silverstripe-userhelp-content/) or create an [issue](https://github.com/silverstripe/silverstripe-userhelp-content/issues/new?labels=documentation).
-</div>
+[note]
+Sections of User help are still a work in progress. If you would like to help contribute to the Silverstripe CMS User help guide you can edit the pages on [GitHub](https://github.com/silverstripe/silverstripe-userhelp-content/) or create an [issue](https://github.com/silverstripe/silverstripe-userhelp-content/issues/new?labels=documentation).
+[/note]
 
 ## Managing your website
 [CHILDREN Folder=01_Managing_your_website]
