@@ -2,9 +2,8 @@
 
 The **SilverStripe 4.0** User help in Markdown format, as published on
 [userhelp.silverstripe.org](http://userhelp.silverstripe.org)
-([source](https://github.com/silverstripe/userhelp.silverstripe.org)).
+([source](https://github.com/silverstripe/doc.silverstripe.org)).
 
-Requires the [docsviewer](https://github.com/silverstripe/silverstripe-docsviewer) module.
 
 ## License
 
