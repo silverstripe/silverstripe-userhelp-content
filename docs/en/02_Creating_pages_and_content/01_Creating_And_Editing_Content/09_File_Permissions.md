@@ -11,7 +11,7 @@ This functionality is specifically included in Silverstripe core functionality 4
 
 Typically files and folders in Silverstripe CMS do not have any view access permissions applied to them.
 This means that when a file is published the files can be linked to, or shared on your site by anyone.
-To help reduce the risk of privacy breaches of user submitted data, Silverstripe CMS has some helpful defaults to
+To help reduce the risk of privacy breaches of sensitive files, particularly user submitted data, Silverstripe CMS has some helpful defaults to
 limit the access of files uploaded to the CMS.
 
 When certain permissions are applied to limit access of a file/folder, we refer to it as having **restricted access**.
