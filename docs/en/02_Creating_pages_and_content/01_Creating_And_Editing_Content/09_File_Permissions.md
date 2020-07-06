@@ -59,7 +59,7 @@ To learn more about the usage of these icons in form submissions refer to
 Examples of where these icons can be found in Silverstripe CMS:
 
 * Files area on file thumbnails
-* File/folder details and Folder heading titles
+* File/folder details and folder heading titles
 * Folders
 * The Upload field component
 * Below [relevant folder](/optional_features/forms/form-submissions/#changing-folders-for-individual-fields) select dropdowns
