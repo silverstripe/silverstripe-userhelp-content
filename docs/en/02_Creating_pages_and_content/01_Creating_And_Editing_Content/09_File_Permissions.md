@@ -37,8 +37,7 @@ Indicates that a file/folder has restricted access and will only be visible to c
 ### User Forms file indicators
 
 If you are collecting user submitted data through [silverstripe-userforms](https://github.com/silverstripe/silverstripe-userforms/)
-on your site, your form submissions are more likely to contain personally identifiable information
-([PII](/optional_features/forms/#data-protection-and-privacy)) which may require heightened
+on your site, your form submissions are more likely to contain [sensitive information](/optional_features/forms/#data-protection-and-privacy) which may require heightened
 levels of compliance to ensure there are not any accidental data breaches.
 
 If you have [silverstripe-userforms](https://github.com/silverstripe/silverstripe-userforms/) 5.3 and above or
