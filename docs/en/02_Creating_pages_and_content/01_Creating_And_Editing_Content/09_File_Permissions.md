@@ -67,5 +67,5 @@ Examples of where these icons can be found in Silverstripe CMS:
 
 [note]
 Folder with restricted access containing files with custom permissions and their associated file icons.
-* FS - Form submission
+FS - Form submission
 [/note]
