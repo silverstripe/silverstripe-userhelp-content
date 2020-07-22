@@ -16,7 +16,7 @@ The majority of your website traffic will come from search engines. To ensure yo
 
 What makes a site search engine friendly?
 
-* Relevant content.
+* Relevant, well structured content.
 * A site built to meet accessibility standards.
 
 Search engine friendliness and accessibility are very closely related—you can think of Google as just another blind user. Silverstripe CMS automatically does a number of things that make your site search engine friendly and accessible.
@@ -29,14 +29,20 @@ As a website editor, you should be aware of creating accessible content such as:
 * Ensure there are **no broken links** in your site—again, broken links will make your site rank lower.
 * Provide **text alternatives** for media content, such as ALT text for your images, since search engines can't see images, just their descriptions.
 
+### Site Architecture
+
+The more meaningful and relevant the page names are to the content in your site, the better your chances are of ranking higher in search engines. This can reduce bounce rate and improve dwell time, both of which will lead to improved rankings. For example Google’s algorithm automatically awards websites with sitelinks Search Engine Results Pages (also known as “SERPs”). And they do so based on great site structure. Silverstripe CMS has built in search-engine-friendly features like hierarchical URLs but site structure will depend mainly on content authors decision-making while creating parent and child pages (site hierarchy).
+
+There are a few best practices with hierarchy that you should keep in mind: make your hierarchy simple and logical, each main category should be unique and distinct. Each subcategory should somehow relate to the main category under which it is located. Keep the number of main categories between two and seven. Try to balance the number of subcategories within each category. Basically, try to keep it approximately even. There are some more best practices in this space, but all of this can be mostly managed directly using the CMS while creating parent and child pages.
+
 ### URLs, page names, titles and navigation labels
 
 When you first create a new page, start by entering its name in the **Page name** field on the **Content** tab. Silverstripe CMS automatically populates a number of other fields based on that name. You can leave them as is, or change them individually. It's useful to know where and how the different names are displayed.
 
 ![Page name field](../_images/page-names.png)
 
-* **Page name**—generates the main headline (the &lt;h1&gt; tag) for the page's content.
-* **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Most of the time, the URL that Silverstripe CMS generates will be fine, but you can manually change it if necessary.
+* **Page name**—by default, generates the main headline (the &lt;h1&gt; tag) for the page's content and the &lt;title&gt; tag.
+* **URL Segment**—generated based on the page name, using the words and dashes. Human-readable URLs make a page more easily found by search engines. Well-written URLs can also serve as their own anchor text when copied and pasted as links in forums, blogs, social media networks, or other online venues. Most of the time, the URL that Silverstripe CMS generates will be fine, but you can manually change it if necessary.
 * **Navigation label**—appears in your site's navigation. Sometimes when you have a lengthy page name, it makes sense to create a shortened navigation label.
 
 [note]
@@ -108,7 +114,7 @@ When you insert a link, make sure your link text (the part of your content that'
 
 #### Alternative formats for media
 
-If your site uses other media, such as Flash, audio or video content, document attachments or animations, make sure this content is accessible to users who can't see or hear it, or who don't have the software to view it. How exactly you do this will depend on the kind of content and how critical it is to your site and your users. Typical alternatives would be transcripts, summaries (for example, of PDF documents), captions (for videos), or text-only versions.
+If your site uses other media such as audio or video content, document attachments or animations, make sure this content is accessible to users who can't see or hear it, or who don't have the software to view it. How exactly you do this will depend on the kind of content and how critical it is to your site and your users. Typical alternatives would be transcripts, summaries (for example, of PDF documents), captions (for videos), or text-only versions.
 
 #### Tables and charts
 
