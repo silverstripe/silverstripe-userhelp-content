@@ -5,7 +5,7 @@ summary: Logging into a Silverstripe CMS website to start editing content.
 
 # Logging In
 
-Hello, and welcome to the Silverstripe CMS User help. Hopefully, you can find the topic you're looking for in the sidebar. Alternatively, you can use our search function above.
+Hello, and welcome to the Silverstripe CMS User Help. Hopefully, you can find the topic you're looking for in the sidebar. Alternatively, you can use our search function above.
 
 If you have not yet installed Silverstripe CMS, but want to follow along, you can use our interactive demo at [http://demo.silverstripe.com/](http://demo.silverstripe.com/admin).
 

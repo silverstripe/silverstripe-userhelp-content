@@ -43,9 +43,9 @@ Here is where you can manage some global settings like the site name and user ac
 
 The CMS Help menu provides more visibility of useful resources in the wider ecosystem of Silverstripe CMS and can be found in the Action toolbar of the CMS menu. The CMS help menu includes the following:
 
-CMS User help — direct access to Silverstripe CMS User Help. This is the site you are looking at right now!
+CMS User Help — direct access to Silverstripe CMS User Help. This is the site you are looking at right now!
 
-[Developer Documentation](https://doc.silverstripe.org) — often used by administrators when the user help guides don't surface enough information.
+[Developer Documentation](https://doc.silverstripe.org) — often used by administrators when the User Help guides don't surface enough information.
 
 [Community](https://silverstripe.org) — provides awareness of self-help areas such as the community [Slack](https://www.silverstripe.org/community/slack-signup), [StackOverflow](https://stackoverflow.com/questions/tagged/silverstripe), [Forum](https://forum.silverstripe.org/) through the community website.
 
