@@ -39,7 +39,7 @@ You can upload your video to one of the supported media services (many of the [s
 
 ## Media metadata caching
 
-Metadata such as the media title or dimensions from the media service may be cached (saved) on your website so that it loads faster for visitors to your website.
+Metadata such as the media title or dimensions from the media service may be cached (saved) on your website so that it loads faster for visitors.
 
 If you change the source media in some way (for example, changing the title), you may need to clear the cached metadata to see this change reflected on your website. You can do this by re-saving or publishing a page containing the embedded media. This will correct any pages containing that media.
 
