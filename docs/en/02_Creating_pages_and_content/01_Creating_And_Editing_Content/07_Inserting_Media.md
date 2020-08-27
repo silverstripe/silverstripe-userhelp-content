@@ -37,6 +37,9 @@ You can upload your video to one of the supported media services (many of the [s
 8. Click the button ***Insert media***.
 9. Click the button ***Publish*** to make your changes live.
 
+## Media metadata caching
+Metadata such as the media title or dimensions from the media service may be cached (saved) on your website so that it loads faster for your website users.  If you change something on the media server and you need to clear the cached metadata on your website, then simply re-save or publish a page with the embedded media will clear the website cache of metadata related to this particular piece of media on all pages.
+
 [note]
 To edit the embedded media further, select the media in the HTML editor and click the button ***Insert media from URL***.
 [/note]
