@@ -70,6 +70,12 @@ Basic functionality and options for files:
 
 ![Inserted image](../../_images/inserted-image.png)
 
+## File usage
+
+The Used on tab allows a CMS content author to view the usage of a file across the CMS. Click the ***Used on*** tab in the File details panel. The first row shows this file is being used on a [Content block](/optional_features/content_blocks/) and also provides the Page name of where the Content block has been added in the CMS. To navigate to where a particular file is being used, click on the relevant row.
+
+![File usage](../../_images/file-usage.png)
+
 ## Creating, deleting folders
 
 Folders can be used to organise images and documents, and if a new folder is created, it is added to the view you are currently in. To create a new folder click the button ***Add folder*** (also shown as folder icon). The new folder will appear on the right side of the library and will require a **Folder name** before you can save it and for it to appear in the File library.
