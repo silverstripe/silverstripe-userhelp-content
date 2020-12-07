@@ -26,6 +26,8 @@ Enter your login (usually your email address) and password. This will take you t
 ![Login to Silverstripe CMS](../_images/general-login.png)
 
 [note]
+## Staying signed in ("Remember Me" functionality)
+
 If you select the **Keep me signed in** checkbox field, you will be automatically signed in the next time you visit the site.
 Only use this option on a computer where you alone have access.
 
