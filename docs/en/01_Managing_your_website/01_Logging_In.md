@@ -25,10 +25,20 @@ Enter your login (usually your email address) and password. This will take you t
 
 ![Login to Silverstripe CMS](../_images/general-login.png)
 
-[note]
-If you select the **Keep me signed in** checkbox field, the login fields will pre-populate the next time you login to the CMS. Only use this option on a computer where you alone have access.
+## Staying signed in ("Remember Me" functionality)
+
+If you select the **Keep me signed in** checkbox field, you will be automatically signed in the next time you visit the site.
+Only use this option on a computer where you alone have access.
+
+Additional information:
+
+* When checking this option you will stay signed in for 90 days by default.
+* You can stay signed in on multiple devices by default.
+* Logging out of one device will clear automatic sign-ins on all of your devices by default, which means you will need to log in again next time.
+* These features may behave differently based on how the developers / administrators have configured them.
+
+## Lost Password
 
 If you can't remember your password, click the link ***I've lost my password***. You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
-[/note]
 
 If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](changing_and_managing_users/).
