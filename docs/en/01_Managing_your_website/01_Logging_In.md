@@ -33,7 +33,7 @@ Additional information:
 
 * When checking this option you will stay signed in for 90 days by default.
 * You can stay signed in on multiple devices by default.
-* Logging out will clear automatic sign-ins on any device by default for your user which means you will need to log in again the next time.
+* Logging out of one device will clear automatic sign-ins on all of your devices by default, which means you will need to log in again next time.
 * These features may behave differently based on how the developers / administrators have configured them.
 [/note]
 
