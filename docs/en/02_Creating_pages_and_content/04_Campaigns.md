@@ -78,6 +78,6 @@ When a **link** icon appears on selected content in a campaign there are other i
 
  ## Publishing a campaign
 
-Once you have reviewed the content in a campaign and are ready to publish it, click the button ***Publish campaign***, you will then be asked to confirm your publish action. Once a campaign is published the campaign will remain but all of the items which where either **Draft** or **Modified** will be published.
+Once you have reviewed the content in a campaign and are ready to publish it, click the button ***Publish campaign***, you will then be asked to confirm your publish action. Once a campaign is published the campaign will remain but all of the items which were either **Draft** or **Modified** will be published.
 
 Once a campaign has been published the campaign state will change from **Active** to **Published** and will remain in the list of campaigns for future reference.
