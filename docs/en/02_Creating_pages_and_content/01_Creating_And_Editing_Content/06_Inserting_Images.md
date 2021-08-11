@@ -32,7 +32,7 @@ Image files for a website must be in either JPG, GIF or PNG format. If your imag
 
 To change the position of an image that you have inserted, simply click and drag it, moving the text cursor to the position you want to move the image to. Remember, the text cursor position only defines the position of the top of the image, so you're best dragging it to the very start of a paragraph, or onto its own line.
 
-## Controlling the loading of images
+## Controlling the loading of images {#lazy-loading}
 
 Modern web browsers can delay the loading of images until the image is about to be displayed to the user. This feature is called "lazy loading", as opposed to "eager loading" where the browser downloads images on page load even if the user can not see them. 
 
