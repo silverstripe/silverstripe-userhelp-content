@@ -60,9 +60,7 @@ Generally, you can paste any text from a plain text editor such as Notepad.exe o
 
 Pasting directly from most word processors or other application often inserts "rich text" formatting code that usually doesn't work well with the HTML markup code used on websites.
 
-You can either:
-* **Paste as text**—removes all formatting from copied text before adding it to the website.
-* **Paste from word**—Silverstripe CMS takes the "rich text" formatting code from Microsoft Word, and translates that into HTML markup code. However, this only works with Microsoft Word, and not with other word processors such as OpenOffice.org, Word Perfect, or Apple Pages.
+To remove this additional formatting, you can use the **Paste as text** option.  This removes all formatting from copied text before adding it to the website.
 
 ## Describing your content with metadata
 
