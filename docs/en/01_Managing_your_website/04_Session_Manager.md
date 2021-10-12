@@ -22,13 +22,13 @@ When logging in with *_Keep me signed in for 30 days_*" checked, a session will 
 You should not use the "Keep me signed in" functionality when working on a device shared with other users (e.g.: internet café computer or a public library workstation).
 [/notice]
 
-![Silverstripe CMS log in form](_images/session-manager-logging-in.png)
+![Silverstripe CMS log in form](../_images/session-manager-logging-in.png)
 
 ## Viewing login sessions
 
 In order to view login sessions once logged in, navigate to your profile by clicking on your name in the left hand CMS menu. Every valid and currently active login session will be listed under ***Login sessions***.
 
-![List of login sessions viewed through the Silverstripe CMS member profile](_images/session-manager-viewing-login-sessions.png)
+![List of login sessions viewed through the Silverstripe CMS member profile](../_images/session-manager-viewing-login-sessions.png)
 
 There is various data associated with every login session that can be used to identify the device that is logged in.
 
