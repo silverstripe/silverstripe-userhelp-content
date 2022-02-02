@@ -21,6 +21,12 @@ You can either:
 
 ![Preview mode site draft](../../_images/preview-draft-published.png)
 
+[note]
+Some data doesn't have draft and published states. When editing data like that you might instead see the simple ***Preview*** state.
+
+![Preview mode no draft or published states](../../_images/preview-unversioned.png)
+[/note]
+
 ## Previewing your changes
 
 1. Click the button ***Save*** in the publishing bar.
