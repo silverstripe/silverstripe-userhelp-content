@@ -15,7 +15,7 @@ summary: Inserting and resizing images in your content.
 5. Once the image(s) have uploaded, click the button ***Insert file***. You can select the image in the HTML editor and drag the drag handles to resize to your required size.
 
 [note]
-Image files for a website must be in either JPG, GIF or PNG format. If your image currently exists in a Word or Publisher file, you must first save the image as one of these file types.
+Image files for a website must be in either JPG, GIF, PNG or WebP format. If your image currently exists in a Word or Publisher file, you must first save the image as one of these file types.
 [/note]
 
 ## Setting the alignment of an image
