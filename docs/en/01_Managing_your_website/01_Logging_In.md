@@ -32,7 +32,7 @@ Only use this option on a computer where you alone have access.
 
 Additional information:
 
-* When checking this option you will stay signed in for 30 days by default. The default is 90 days on sites running less than version 4.8 of Silverstripe CMS.
+* When checking this option you will stay signed in for 30 days by default.
 * You can stay signed in on multiple devices by default.
 * Logging out of one device will clear automatic sign-ins on all of your devices by default, which means you will need to log in again next time.
 * These features may behave differently based on how the developers / administrators have configured them.

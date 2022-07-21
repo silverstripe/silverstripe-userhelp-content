@@ -5,7 +5,7 @@ title: CMS User Help
 # Silverstripe CMS User Help guide
 
 This site is a user-focused reference targeted at editors and administrators who create and manage content on Silverstripe CMS websites.
-This guide applies to version 4.x of the CMS (all releases in the Silverstripe CMS 4 release line).
+This guide applies to version 5.x of the CMS (all releases in the Silverstripe CMS 5 release line).
 
 This User Help guide also covers a number of [modules](https://addons.silverstripe.org)
 which may or may not be installed for your site. Refer to the intro for each chapter to find out the prerequisites for using a feature.

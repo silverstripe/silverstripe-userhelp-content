@@ -12,7 +12,7 @@ The session manager module allows members to manage (see active and revoke) logi
 
 ## Getting started
 
-[Silverstripe CMS Session Manager](https://addons.silverstripe.org/add-ons/silverstripe/session-manager) is installed by default for users of Recipe CMS 4.9 or later.
+[Silverstripe CMS Session Manager](https://addons.silverstripe.org/add-ons/silverstripe/session-manager) is installed by default.
 
 ## Logging in
 

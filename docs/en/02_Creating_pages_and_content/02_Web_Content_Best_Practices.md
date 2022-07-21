@@ -64,8 +64,6 @@ Meta tags also make your web page more findable. The **Meta Description** field 
 ![Meta titles](../_images/meta-title.png)
 
 [note]
-The meta fields for title and keywords have been removed in v3.1. Keywords have been removed due to an official Google press release which confirmed that [Google doesn't use the keywords tag anymore](http://googlewebmastercentral.blogspot.co.nz/2009/09/google-does-not-use-keywords-meta-tag.html).
-
 It is best to avoid repetition of keywords and phrases in the description. Google sees this as 'keyword stuffing', which is looked at as search engine spam.
 [/note]
 
