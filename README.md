@@ -1,6 +1,6 @@
 # Silverstripe User Help
 
-The **Silverstripe 4.0** User Help in Markdown format, as published on
+The **Silverstripe CMS** User Help in Markdown format, as published on
 [userhelp.silverstripe.org](http://userhelp.silverstripe.org)
 ([source](https://github.com/silverstripe/doc.silverstripe.org)).
 

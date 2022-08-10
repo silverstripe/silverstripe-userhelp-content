@@ -7,7 +7,7 @@ summary: Introducing the Silverstripe CMS administration interface.
 
 The latest Silverstripe CMS administration panel is arranged in four main areas, as shown below:
 
-![Silverstripe CMS 4 overview](../_images/basic-overview.png)
+![Silverstripe CMS overview](../_images/basic-overview.png)
 
 ## CMS menu
 

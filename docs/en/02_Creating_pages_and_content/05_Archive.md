@@ -5,10 +5,6 @@ summary: Removing content from your website and restoring it.
 
 # Archive
 
-[note]
-The Archive section of the CMS is new as of Silverstripe CMS 4 and therefore will continue to develop with functionality.
-[/note]
-
 All content which can be archived is stored within the CMS Archive. By default this includes pages, files (if activated), and content blocks. Depending on the way your CMS has been configured the Archive might extend to contain additional content types.
 
 When archiving an item, the CMS will first automatically unpublish the item if published, before sending it to the archive. The Archive stores the item along with its entire history so that it can be restored at a later date. If an item is restored then it will be returned to the relevant section of the CMS it came from in a draft state.
