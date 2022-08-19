@@ -7,7 +7,6 @@ summary: Allow members to manage and revoke access to multiple login sessions ac
 
 The session manager module allows members to manage (see active and revoke) login sessions across devices used to access the CMS. Each login to a member's account is tracked and can be managed from their profile page.
 
-
 # How to use it
 
 ## Getting started
@@ -46,6 +45,8 @@ A member can only view login sessions for their own profile. No one else will ha
 
 To remove access for a session associated with a device, click the **Log out** link next to the session you want to remove. This session will be immediately removed and anyone viewing the CMS using this session will need to log back in.
 
+Administrators can also revoke _all_ active sessions for _all_ users by triggering the `dev/tasks/InvalidateAllSessions` task either in the browser or via the CLI. Note that this will also revoke the session of the user activating the task, so if this is triggered via the browser, that user will need to log back in to perform further actions.
+
 [notice]
-A member can only revoke access for their own profile. No one else will have access to remove your sessions.
+With exception to the invalidate all sessions task, a member can only revoke access for their _own_ profile. No one else will have access to remove your sessions.
 [/notice]
