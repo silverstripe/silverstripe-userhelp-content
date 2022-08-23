@@ -1,14 +1,16 @@
-name: Build Docs
+name: Deploy Docs
 on:
+  workflow_dispatch:
   push:
     branches:
       - '3'
       - '4'
+      - '5'
     paths:
       - 'docs/**'
 jobs:
-  build:
-    name: build-docs
+  deploy:
+    name: deploy-docs
     runs-on: ubuntu-latest
     steps:
       - name: Run build hook
