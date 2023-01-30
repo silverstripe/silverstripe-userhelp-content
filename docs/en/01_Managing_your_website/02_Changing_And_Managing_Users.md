@@ -44,6 +44,16 @@ Click the link ***Change password*** to expand a password field and a confirm pa
 
 ![Changing a user's password](../_images/change-password.png)
 
+You also have the option of requiring a user to reset their password next time they log in. You can do this by checking the "" checkbox. This will mean that they can use their current password to log in - but as soon as they do so they must define a _new_ password, which will be required to log in from then-on.
+
+Note that this checkbox will already be checked if the current password has expired.
+
+![Require a user's password to change next login](../_images/change-password-next-login.png)
+
+The user will then need to set a new password next time they log in.
+
+![Setting a new password after it expires](../_images/password-expired.png)
+
 ## Managing and deleting users
 
 To edit a user entry click on the item you want to edit from the list. To delete a user click the button ***Delete*** which is shown as a trash icon on either the list view or on the editable view for a user.
