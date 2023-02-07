@@ -42,3 +42,11 @@ Additional information:
 If you can't remember your password, click the link ***I've lost my password***. You'll be asked to enter your email address and will receive an email with a link that allows you to reset your password.
 
 If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](changing_and_managing_users/).
+
+## Sudo Mode
+
+Some sensitive actions may require you to verify your identity by re-entering your password before you can do them. This extra layer of security, called "sudo mode", is applied to especially sensitive actions to help protect you and your website from malicious actors.
+
+![Sudo mode verification](../_images/sudomode-verify.png)
+
+After you have verified your identity you will be able to perform these protected actions for a period of time without having to verify each time.
