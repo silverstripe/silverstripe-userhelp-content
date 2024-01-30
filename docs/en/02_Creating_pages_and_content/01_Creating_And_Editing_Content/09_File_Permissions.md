@@ -5,9 +5,8 @@ summary: Securing files in Silverstripe CMS
 
 ## File permissions
 
-[note]
-This functionality is specifically included in Silverstripe core functionality 4.6 and above.
-[/note]
+> [!NOTE]
+> This functionality is specifically included in Silverstripe core functionality 4.6 and above.
 
 Typically files and folders in Silverstripe CMS do not have any view access permissions applied to them.
 This means that when a file is published the files can be linked to, or shared on your site by anyone.
@@ -65,7 +64,6 @@ Examples of where these icons can be found in Silverstripe CMS:
 
 ![Overview of icons usage on thumbnails and headers in the Files area](../../_images/overview-icons.png)
 
-[note]
-Folder with restricted access containing files with custom permissions and their associated file icons.
-FS - Form submission
-[/note]
+> [!NOTE]
+> Folder with restricted access containing files with custom permissions and their associated file icons.
+> FS - Form submission

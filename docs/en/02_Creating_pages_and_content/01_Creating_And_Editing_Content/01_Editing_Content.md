@@ -20,9 +20,8 @@ If your website includes other features specific to all pages you may see other 
 
 ![Editing page fields](../../_images/Page-Fields.png)
 
-[note]
-Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.
-[/note]
+> [!NOTE]
+> Every time you click the button ***Save*** or ***Publish*** a snapshot of the page is saved in history, which you can then revert to at any time, see [Rolling Back Pages](../pages/rolling_back_pages) to learn more.
 
 ## Formatting content
 

@@ -6,9 +6,8 @@ introduction: If you've made some substantial changes to a page, and want to che
 
 # Previewing changes
 
-[note]
-Remember when editing content to save your page regularly.
-[/note]
+> [!NOTE]
+> Remember when editing content to save your page regularly.
 
 Click the button ***Save*** in the publishing bar.
 
@@ -21,11 +20,10 @@ You can either:
 
 ![Preview mode site draft](../../_images/preview-draft-published.png)
 
-[note]
-Some data doesn't have draft and published states. When editing data like that you might instead see the simple ***Preview*** state.
-
-![Preview mode no draft or published states](../../_images/preview-unversioned.png)
-[/note]
+> [!NOTE]
+> Some data doesn't have draft and published states. When editing data like that you might instead see the simple ***Preview*** state.
+>
+> ![Preview mode no draft or published states](../../_images/preview-unversioned.png)
 
 ## Previewing your changes
 
