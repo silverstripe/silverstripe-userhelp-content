@@ -7,9 +7,8 @@ summary: Linking to internal and external content using hyperlinks.
 
 ## Inserting links
 
-[note]
-Instead of "Click here" or "Click here to read more about widgets" as the link text, it would be better to say "Read more about widgets". You can also add additional information in the link description field (available to screen readers), although it's best practice that the description is different from the link text and provides additional clarification (otherwise screen readers will read the text twice).
-[/note]
+> [!NOTE]
+> Instead of "Click here" or "Click here to read more about widgets" as the link text, it would be better to say "Read more about widgets". You can also add additional information in the link description field (available to screen readers), although it's best practice that the description is different from the link text and provides additional clarification (otherwise screen readers will read the text twice).
 
 1. You can either type out the link text in the HTML editor or select where you want the link to be added and enter the **Link text** later.
 2. Click and drag across the text that you'd like to add a link to, to highlight it.
@@ -22,9 +21,8 @@ Instead of "Click here" or "Click here to read more about widgets" as the link t
 2. Select a page from the **Select a page** dropdown field.
 3. Select a page to link and click the button ***Insert link***.
 
-[note]
-There are different processes for internal and external links. When pages are moved or deleted, the links on other pages of the site will be automatically changed to the new pages location. This allows you to move pages around without worrying about breaking the site's structure or checking the site for broken links.
-[/note]
+> [!NOTE]
+> There are different processes for internal and external links. When pages are moved or deleted, the links on other pages of the site will be automatically changed to the new pages location. This allows you to move pages around without worrying about breaking the site's structure or checking the site for broken links.
 
 ### Anchor on a page
 
@@ -56,6 +54,5 @@ Enter the following link specifications:
 * Select a file from the CMS.
 2. Click the button ***Insert link***.
 
-[note]
-You can also add hyperlinks to documents that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. See [Images and documents](images_and_documents) to learn more.
-[/note]
+> [!NOTE]
+> You can also add hyperlinks to documents that you have uploaded to your website, such as a PDF file, DOC file, audio file, video file, or any sort of file that is not a webpage. See [Images and documents](images_and_documents) to learn more.

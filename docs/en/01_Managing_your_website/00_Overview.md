@@ -77,9 +77,8 @@ The Navigation toolbar area shows various data relating to individual pages such
 
 The Action toolbar at the bottom of the page allows you to save, publish (make publicly available), unpublish (return to draft), unpublish and archive (remove from site tree) or add to a campaign.
 
-[note]
-Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.
-[/note]
+> [!NOTE]
+> Depending on your CMS setup you may see further functionality provided by modules in the Action toolbar.
 
 ![SS4 publishing options](../_images/publishing-options.png)
 

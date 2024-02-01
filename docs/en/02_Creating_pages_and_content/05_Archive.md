@@ -5,9 +5,8 @@ summary: Removing content from your website and restoring it.
 
 # Archive
 
-[note]
-The Archive section of the CMS is new as of Silverstripe CMS 4 and therefore will continue to develop with functionality.
-[/note]
+> [!NOTE]
+> The Archive section of the CMS is new as of Silverstripe CMS 4 and therefore will continue to develop with functionality.
 
 All content which can be archived is stored within the CMS Archive. By default this includes pages, files (if activated), and content blocks. Depending on the way your CMS has been configured the Archive might extend to contain additional content types.
 
@@ -27,9 +26,8 @@ Location of the **Archive** action for pages:
 
 Location of the **Archive** action for files:
 
-[note]
-Archiving for files is turned off by default.
-[/note]
+> [!NOTE]
+> Archiving for files is turned off by default.
 
 ![Archiving in the files section](../_images/archive-file.png)
 

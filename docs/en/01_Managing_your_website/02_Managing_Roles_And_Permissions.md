@@ -30,9 +30,8 @@ Security groups are collections of users, and whatever permissions they have app
 
 One of the ways that the two can be used together is to assign similar roles to different groups. You only need to define an "editor" role once, but by applying the "editor" role to different groups with different access to different pages, so if you assigned the "editor" role to both the marketing team and development team security groups, the marketing team would be able to edit the marketing pages, and the development team would be able to edit the development pages, but they would not be able to edit each other's pages.
 
-[note]
-Groups represent a group of members, and you can assign a Group with a set of roles which are descriptors for various permissions in the system e.g. a group which has the "Administrator" role, allows access to the CMS.
-[/note]
+> [!NOTE]
+> Groups represent a group of members, and you can assign a Group with a set of roles which are descriptors for various permissions in the system e.g. a group which has the "Administrator" role, allows access to the CMS.
 
 ## Using roles
 
@@ -57,9 +56,8 @@ To navigate back to the Roles section either click the link ***Security*** in th
 
 ![Creating roles](../_images/creating-roles.png)
 
-[note]
-A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (they can change the location for a page in the site tree and  manage the site structure and navigation).
-[/note]
+> [!NOTE]
+> A role can have any number of permissions. For example, an author typically has "Access to Site Content," (they can access the "Site Content" section in the CMS; the part where all content is managed), "Access to Files & Images," (they can browse the "Files and Images" section in the CMS, organise assets in folders, upload new assets, etc.), and "Change site structure," (they can change the location for a page in the site tree and  manage the site structure and navigation).
 
 ## Editing roles
 
@@ -80,9 +78,8 @@ Unlike roles, there are no basic groups that typically apply to all sites. Inste
 3. In the ***Members*** tab add the group name in the **Group Name** field.
 4. Click the button ***Create***.
 
-[note]
-We recommend you set up a top-level group for your entire site, as well as for each section that is managed by specific people.
-[/note]
+> [!NOTE]
+> We recommend you set up a top-level group for your entire site, as well as for each section that is managed by specific people.
 
 You can nest groups, and create sub-groups which may represent different roles. The parent group acts as a place to organise different subgroups. In this case, it's probably best not to add members directly to the parent group.
 
@@ -96,18 +93,16 @@ You can nest groups, and create sub-groups which may represent different roles. 
 
 If you wish to add a new member instead of choosing from an already established member, click the button ***Add Member***.
 
-[note]
-Users can be in multiple groups. If you delete a user from a group, they are only removed from that group, not from the system. To fully delete a user, you need to be in the root of Security. To reach the security group root click the link ***Security*** or the ***Back*** button which is shown as a left arrow in the Navigation toolbar.
-[/note]
+> [!NOTE]
+> Users can be in multiple groups. If you delete a user from a group, they are only removed from that group, not from the system. To fully delete a user, you need to be in the root of Security. To reach the security group root click the link ***Security*** or the ***Back*** button which is shown as a left arrow in the Navigation toolbar.
 
 ## Editing and deleting groups
 
 1. To edit a group, click the Group Name list item. This opens the group details. You can change the Group name, and add, edit or delete members.
 2. To delete a group, click the ***Delete*** button shown as a trash icon.
 
-[note]
-Note that a single user can belong to more than one group and that deleting a group does not delete its members.
-[/note]
+> [!NOTE]
+> Note that a single user can belong to more than one group and that deleting a group does not delete its members.
 
 ## Assigning roles to security group members
 

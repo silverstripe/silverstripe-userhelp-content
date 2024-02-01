@@ -9,9 +9,8 @@ To add media such as a video into a page, you should first upload it to a video 
 
 YouTube allows you to mark a video as **Unlisted** so that it will not appear on YouTube.com search results etc. Also adverts will not be displayed on your video unless you enable that option from within YouTube.
 
-[note]
-This feature isn't just limited to video, you can also embed Flickr slideshows and other embeddable widgets this way, if they support the 'oEmbed' standard.
-[/note]
+> [!NOTE]
+> This feature isn't just limited to video, you can also embed Flickr slideshows and other embeddable widgets this way, if they support the 'oEmbed' standard.
 
 You can upload your video to one of the supported media services (many of the [services that support oEmbed](http://oembed.com/#section7) protocol can be handled in this way):
 * YouTube
@@ -43,6 +42,5 @@ Metadata such as the media title or dimensions from the media service may be cac
 
 If you change the source media in some way (for example, changing the title), you may need to clear the cached metadata to see this change reflected on your website. You can do this by re-saving or publishing a page containing the embedded media. This will correct any pages containing that media.
 
-[note]
-To edit the embedded media further, select the media in the HTML editor and click the button ***Insert media from URL***.
-[/note]
+> [!NOTE]
+> To edit the embedded media further, select the media in the HTML editor and click the button ***Insert media from URL***.

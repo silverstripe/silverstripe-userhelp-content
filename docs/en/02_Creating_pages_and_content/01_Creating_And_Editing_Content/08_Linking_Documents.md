@@ -7,9 +7,8 @@ summary: Uploading and linking documents from the Silverstripe CMS.
 
 To upload documents, such as PDF files, Word .DOC documents, and downloadable audio and video files, navigate to the **Files** area in the CMS menu.
 
-[note]
-Be sure to ***Save*** any page you are working on in the editing page to a Draft before doing so, otherwise you may lose any changes you have made since the last save.
-[/note]
+> [!NOTE]
+> Be sure to ***Save*** any page you are working on in the editing page to a Draft before doing so, otherwise you may lose any changes you have made since the last save.
 
 Click the button ***Upload***, see [Uploading images from Files](images_and_documents) to learn more.
 
@@ -28,6 +27,5 @@ Click the button ***Upload***, see [Uploading images from Files](images_and_docu
 
 ![Link file modal](../../_images/link-file-modal.png)
 
-[note]
-Click the link from the HTML editor to further edit or remove the link.
-[/note]
+> [!NOTE]
+> Click the link from the HTML editor to further edit or remove the link.
