@@ -23,9 +23,8 @@ Location of the **Archive** action for pages:
 
 Location of the **Archive** action for files:
 
-[note]
-Archiving for files is turned off by default.
-[/note]
+> [!NOTE]
+> Archiving for files is turned off by default.
 
 ![Archiving in the files section](../_images/archive-file.png)
 

@@ -61,7 +61,6 @@ Examples of where these icons can be found in Silverstripe CMS:
 
 ![Overview of icons usage on thumbnails and headers in the Files area](../../_images/overview-icons.png)
 
-[note]
-Folder with restricted access containing files with custom permissions and their associated file icons.
-FS - Form submission
-[/note]
+> [!NOTE]
+> Folder with restricted access containing files with custom permissions and their associated file icons.
+> FS - Form submission

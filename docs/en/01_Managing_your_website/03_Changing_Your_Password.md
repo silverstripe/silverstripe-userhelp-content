@@ -11,6 +11,5 @@ summary: Guidance on how to change the password of your Silverstripe CMS account
 4. Enter your current, new and confirmed password.
 5. Click the button ***Save***.
 
-[note]
-You can also update your e-mail address and name.
-[/note]
+> [!NOTE]
+> You can also update your e-mail address and name.
