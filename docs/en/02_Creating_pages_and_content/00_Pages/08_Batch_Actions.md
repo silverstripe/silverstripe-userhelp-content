@@ -5,7 +5,7 @@ summary: Performing actions on multiple pages at once.
 
 # Batch actions
 
- To restore, publish, unpublish or archive multiple pages, you can use the Batch actions tool in the **Pages** section.
+ To publish, unpublish or archive multiple pages, you can use the Batch actions tool in the **Pages** section.
 
 ## Publishing multiple pages
 
