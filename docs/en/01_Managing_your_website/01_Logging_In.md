@@ -43,10 +43,10 @@ If you can't remember your password, click the link ***I've lost my password***.
 
 If you are managing other CMS users and want to reset a password for somebody else, refer to [Changing and Managing Users](changing_and_managing_users/).
 
-## Sudo Mode
+## Additional password verification {#sudo-mode}
 
-Some sensitive actions may require you to verify your identity by re-entering your password before you can do them. This extra layer of security, called "sudo mode", is applied to especially sensitive actions to help protect you and your website from malicious actors.
+Certain sensitive actions require you to confirm your identity by re-entering your password even when you are already logged-in to the CMS. This extra security step helps protect you and your website from unauthorized changes.
 
-![Sudo mode verification](../_images/sudomode-verify.png)
+![Additional password verification](../_images/sudomode-verify.png)
 
-After you have verified your identity you will be able to perform these protected actions for a period of time without having to verify each time.
+Once you’ve verified your identity, you’ll be able to perform those protected actions for a limited time without needing to re-enter your password.
